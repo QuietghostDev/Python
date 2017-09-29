@@ -1,0 +1,5438 @@
+Python 2.7.8 (default, Jun 30 2014, 16:03:49) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+
+Start: M21001, Wed Jan 27 16:32:07 2016
+
+Update: Wed Jan 27 16:32:11 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.824 second(s).
+	Estimated Finish: Wed Jan 27 16:33:34 2016.
+
+Update: Wed Jan 27 16:32:15 2016
+	Iteration: 2000, 9.52%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.032 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:19 2016
+	Iteration: 3000, 14.29%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.766 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:23 2016
+	Iteration: 4000, 19.05%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.727 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:28 2016
+	Iteration: 5000, 23.81%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.612 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:32:32 2016
+	Iteration: 6000, 28.57%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.129 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:32:36 2016
+	Iteration: 7000, 33.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.986 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:40 2016
+	Iteration: 8000, 38.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.423 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:32:45 2016
+	Iteration: 9000, 42.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 50.74 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:49 2016
+	Iteration: 10000, 47.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.479 second(s).
+	Estimated Finish: Wed Jan 27 16:33:35 2016.
+
+Update: Wed Jan 27 16:32:53 2016
+	Iteration: 11000, 52.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.784 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:32:58 2016
+	Iteration: 12000, 57.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.605 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:02 2016
+	Iteration: 13000, 61.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.3 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:06 2016
+	Iteration: 14000, 66.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 29.985 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:10 2016
+	Iteration: 15000, 71.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.792 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:15 2016
+	Iteration: 16000, 76.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.399 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:19 2016
+	Iteration: 17000, 80.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.136 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:23 2016
+	Iteration: 18000, 85.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.883 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:28 2016
+	Iteration: 19000, 90.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.57 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:32 2016
+	Iteration: 20000, 95.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.234 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Update: Wed Jan 27 16:33:36 2016
+	Iteration: 21000, 100.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.004 second(s).
+	Estimated Finish: Wed Jan 27 16:33:36 2016.
+
+Finish: Wed Jan 27 16:33:36 2016
+
+0 hour(s), 1 minute(s), and 29.35 second(s).
+M21001 is composite.
+
+M21011 is composite.
+
+
+Start: M21013, Wed Jan 27 16:33:37 2016
+
+Update: Wed Jan 27 16:33:42 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.133 second(s).
+	Estimated Finish: Wed Jan 27 16:35:04 2016.
+
+Update: Wed Jan 27 16:33:46 2016
+	Iteration: 2000, 9.52%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.33 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:33:50 2016
+	Iteration: 3000, 14.28%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.132 second(s).
+	Estimated Finish: Wed Jan 27 16:35:05 2016.
+
+Update: Wed Jan 27 16:33:54 2016
+	Iteration: 4000, 19.04%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.097 second(s).
+	Estimated Finish: Wed Jan 27 16:35:05 2016.
+
+Update: Wed Jan 27 16:33:58 2016
+	Iteration: 5000, 23.8%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.742 second(s).
+	Estimated Finish: Wed Jan 27 16:35:05 2016.
+
+Update: Wed Jan 27 16:34:02 2016
+	Iteration: 6000, 28.56%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.589 second(s).
+	Estimated Finish: Wed Jan 27 16:35:05 2016.
+
+Update: Wed Jan 27 16:34:07 2016
+	Iteration: 7000, 33.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.056 second(s).
+	Estimated Finish: Wed Jan 27 16:35:05 2016.
+
+Update: Wed Jan 27 16:34:11 2016
+	Iteration: 8000, 38.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.006 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:15 2016
+	Iteration: 9000, 42.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 50.659 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:19 2016
+	Iteration: 10000, 47.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.398 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:24 2016
+	Iteration: 11000, 52.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.255 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:28 2016
+	Iteration: 12000, 57.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.999 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:32 2016
+	Iteration: 13000, 61.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.743 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:36 2016
+	Iteration: 14000, 66.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 29.595 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:40 2016
+	Iteration: 15000, 71.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.417 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:45 2016
+	Iteration: 16000, 76.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.446 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:49 2016
+	Iteration: 17000, 80.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.899 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:53 2016
+	Iteration: 18000, 85.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.706 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:34:57 2016
+	Iteration: 19000, 90.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.489 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:35:02 2016
+	Iteration: 20000, 95.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.269 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Update: Wed Jan 27 16:35:06 2016
+	Iteration: 21000, 99.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.055 second(s).
+	Estimated Finish: Wed Jan 27 16:35:06 2016.
+
+Finish: Wed Jan 27 16:35:06 2016
+
+0 hour(s), 1 minute(s), and 28.461 second(s).
+M21013 is composite.
+
+
+Start: M21017, Wed Jan 27 16:35:07 2016
+
+Update: Wed Jan 27 16:35:11 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.59 second(s).
+	Estimated Finish: Wed Jan 27 16:36:34 2016.
+
+Update: Wed Jan 27 16:35:15 2016
+	Iteration: 2000, 9.52%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.613 second(s).
+	Estimated Finish: Wed Jan 27 16:36:36 2016.
+
+Update: Wed Jan 27 16:35:20 2016
+	Iteration: 3000, 14.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.149 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:24 2016
+	Iteration: 4000, 19.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.969 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:28 2016
+	Iteration: 5000, 23.79%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.617 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:33 2016
+	Iteration: 6000, 28.55%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.378 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:37 2016
+	Iteration: 7000, 33.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.119 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:41 2016
+	Iteration: 8000, 38.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.726 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:45 2016
+	Iteration: 9000, 42.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.541 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:50 2016
+	Iteration: 10000, 47.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.153 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:54 2016
+	Iteration: 11000, 52.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.943 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:35:58 2016
+	Iteration: 12000, 57.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.638 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:03 2016
+	Iteration: 13000, 61.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.968 second(s).
+	Estimated Finish: Wed Jan 27 16:36:36 2016.
+
+Update: Wed Jan 27 16:36:07 2016
+	Iteration: 14000, 66.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.061 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:11 2016
+	Iteration: 15000, 71.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.771 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:15 2016
+	Iteration: 16000, 76.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.533 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:20 2016
+	Iteration: 17000, 80.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.205 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:24 2016
+	Iteration: 18000, 85.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.946 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:28 2016
+	Iteration: 19000, 90.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.631 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:33 2016
+	Iteration: 20000, 95.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.365 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Update: Wed Jan 27 16:36:37 2016
+	Iteration: 21000, 99.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.073 second(s).
+	Estimated Finish: Wed Jan 27 16:36:37 2016.
+
+Finish: Wed Jan 27 16:36:37 2016
+
+0 hour(s), 1 minute(s), and 29.984 second(s).
+M21017 is composite.
+
+
+Start: M21019, Wed Jan 27 16:36:38 2016
+
+Update: Wed Jan 27 16:36:42 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.678 second(s).
+	Estimated Finish: Wed Jan 27 16:38:05 2016.
+
+Update: Wed Jan 27 16:36:47 2016
+	Iteration: 2000, 9.52%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.07 second(s).
+	Estimated Finish: Wed Jan 27 16:38:07 2016.
+
+Update: Wed Jan 27 16:36:51 2016
+	Iteration: 3000, 14.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.292 second(s).
+	Estimated Finish: Wed Jan 27 16:38:07 2016.
+
+Update: Wed Jan 27 16:36:55 2016
+	Iteration: 4000, 19.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.841 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:36:59 2016
+	Iteration: 5000, 23.79%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.866 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:04 2016
+	Iteration: 6000, 28.55%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.176 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:08 2016
+	Iteration: 7000, 33.3%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.029 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:12 2016
+	Iteration: 8000, 38.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.214 second(s).
+	Estimated Finish: Wed Jan 27 16:38:07 2016.
+
+Update: Wed Jan 27 16:37:16 2016
+	Iteration: 9000, 42.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 50.588 second(s).
+	Estimated Finish: Wed Jan 27 16:38:07 2016.
+
+Update: Wed Jan 27 16:37:21 2016
+	Iteration: 10000, 47.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.599 second(s).
+	Estimated Finish: Wed Jan 27 16:38:07 2016.
+
+Update: Wed Jan 27 16:37:25 2016
+	Iteration: 11000, 52.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.901 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:29 2016
+	Iteration: 12000, 57.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.728 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:33 2016
+	Iteration: 13000, 61.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.281 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:38 2016
+	Iteration: 14000, 66.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.175 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:42 2016
+	Iteration: 15000, 71.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.779 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:46 2016
+	Iteration: 16000, 76.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.537 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:51 2016
+	Iteration: 17000, 80.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.193 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:55 2016
+	Iteration: 18000, 85.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.936 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:37:59 2016
+	Iteration: 19000, 90.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.653 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:38:03 2016
+	Iteration: 20000, 95.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.366 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Update: Wed Jan 27 16:38:08 2016
+	Iteration: 21000, 99.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.081 second(s).
+	Estimated Finish: Wed Jan 27 16:38:08 2016.
+
+Finish: Wed Jan 27 16:38:08 2016
+
+0 hour(s), 1 minute(s), and 29.773 second(s).
+M21019 is composite.
+
+
+Start: M21023, Wed Jan 27 16:38:09 2016
+
+Update: Wed Jan 27 16:38:13 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.455 second(s).
+	Estimated Finish: Wed Jan 27 16:39:36 2016.
+
+Update: Wed Jan 27 16:38:17 2016
+	Iteration: 2000, 9.51%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.848 second(s).
+	Estimated Finish: Wed Jan 27 16:39:38 2016.
+
+Update: Wed Jan 27 16:38:22 2016
+	Iteration: 3000, 14.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.174 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:26 2016
+	Iteration: 4000, 19.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.892 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:30 2016
+	Iteration: 5000, 23.78%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.643 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:35 2016
+	Iteration: 6000, 28.54%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.389 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:39 2016
+	Iteration: 7000, 33.3%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.145 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:43 2016
+	Iteration: 8000, 38.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.699 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:47 2016
+	Iteration: 9000, 42.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.531 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:52 2016
+	Iteration: 10000, 47.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.289 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:38:56 2016
+	Iteration: 11000, 52.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.888 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:00 2016
+	Iteration: 12000, 57.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.636 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:05 2016
+	Iteration: 13000, 61.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.897 second(s).
+	Estimated Finish: Wed Jan 27 16:39:38 2016.
+
+Update: Wed Jan 27 16:39:09 2016
+	Iteration: 14000, 66.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.164 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:13 2016
+	Iteration: 15000, 71.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.845 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:17 2016
+	Iteration: 16000, 76.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.478 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:22 2016
+	Iteration: 17000, 80.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.206 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:26 2016
+	Iteration: 18000, 85.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.987 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:30 2016
+	Iteration: 19000, 90.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.66 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:35 2016
+	Iteration: 20000, 95.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.379 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Update: Wed Jan 27 16:39:39 2016
+	Iteration: 21000, 99.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.099 second(s).
+	Estimated Finish: Wed Jan 27 16:39:39 2016.
+
+Finish: Wed Jan 27 16:39:39 2016
+
+0 hour(s), 1 minute(s), and 29.956 second(s).
+M21023 is composite.
+
+
+Start: M21031, Wed Jan 27 16:39:40 2016
+
+Update: Wed Jan 27 16:39:44 2016
+	Iteration: 1000, 4.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.008 second(s).
+	Estimated Finish: Wed Jan 27 16:41:07 2016.
+
+Update: Wed Jan 27 16:39:49 2016
+	Iteration: 2000, 9.51%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.015 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:39:53 2016
+	Iteration: 3000, 14.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.191 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:39:57 2016
+	Iteration: 4000, 19.02%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.08 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:01 2016
+	Iteration: 5000, 23.78%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.565 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:06 2016
+	Iteration: 6000, 28.53%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.393 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:10 2016
+	Iteration: 7000, 33.29%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.081 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:14 2016
+	Iteration: 8000, 38.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.916 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:19 2016
+	Iteration: 9000, 42.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.505 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:23 2016
+	Iteration: 10000, 47.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.323 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:27 2016
+	Iteration: 11000, 52.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.953 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:31 2016
+	Iteration: 12000, 57.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.707 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:36 2016
+	Iteration: 13000, 61.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.469 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:40 2016
+	Iteration: 14000, 66.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.128 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:44 2016
+	Iteration: 15000, 71.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.873 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:49 2016
+	Iteration: 16000, 76.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.508 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:53 2016
+	Iteration: 17000, 80.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.301 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:40:57 2016
+	Iteration: 18000, 85.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.973 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:41:01 2016
+	Iteration: 19000, 90.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.713 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:41:06 2016
+	Iteration: 20000, 95.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.422 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Update: Wed Jan 27 16:41:10 2016
+	Iteration: 21000, 99.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.133 second(s).
+	Estimated Finish: Wed Jan 27 16:41:10 2016.
+
+Finish: Wed Jan 27 16:41:10 2016
+
+0 hour(s), 1 minute(s), and 30.053 second(s).
+M21031 is composite.
+
+
+Start: M21059, Wed Jan 27 16:41:11 2016
+
+Update: Wed Jan 27 16:41:16 2016
+	Iteration: 1000, 4.75%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.546 second(s).
+	Estimated Finish: Wed Jan 27 16:42:39 2016.
+
+Update: Wed Jan 27 16:41:20 2016
+	Iteration: 2000, 9.5%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.058 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:24 2016
+	Iteration: 3000, 14.25%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.419 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:28 2016
+	Iteration: 4000, 19.0%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.183 second(s).
+	Estimated Finish: Wed Jan 27 16:42:42 2016.
+
+Update: Wed Jan 27 16:41:33 2016
+	Iteration: 5000, 23.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.781 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:37 2016
+	Iteration: 6000, 28.49%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.483 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:41 2016
+	Iteration: 7000, 33.24%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.158 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:45 2016
+	Iteration: 8000, 37.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.879 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:50 2016
+	Iteration: 9000, 42.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.89 second(s).
+	Estimated Finish: Wed Jan 27 16:42:42 2016.
+
+Update: Wed Jan 27 16:41:54 2016
+	Iteration: 10000, 47.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.366 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:41:58 2016
+	Iteration: 11000, 52.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.123 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:03 2016
+	Iteration: 12000, 56.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.809 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:07 2016
+	Iteration: 13000, 61.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.509 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:11 2016
+	Iteration: 14000, 66.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.29 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:15 2016
+	Iteration: 15000, 71.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.011 second(s).
+	Estimated Finish: Wed Jan 27 16:42:42 2016.
+
+Update: Wed Jan 27 16:42:20 2016
+	Iteration: 16000, 75.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.683 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:24 2016
+	Iteration: 17000, 80.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.373 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:28 2016
+	Iteration: 18000, 85.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.099 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:33 2016
+	Iteration: 19000, 90.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.852 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:37 2016
+	Iteration: 20000, 94.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.54 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Update: Wed Jan 27 16:42:41 2016
+	Iteration: 21000, 99.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.252 second(s).
+	Estimated Finish: Wed Jan 27 16:42:41 2016.
+
+Finish: Wed Jan 27 16:42:42 2016
+
+0 hour(s), 1 minute(s), and 30.204 second(s).
+M21059 is composite.
+
+
+Start: M21061, Wed Jan 27 16:42:43 2016
+
+Update: Wed Jan 27 16:42:47 2016
+	Iteration: 1000, 4.75%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.474 second(s).
+	Estimated Finish: Wed Jan 27 16:44:10 2016.
+
+Update: Wed Jan 27 16:42:51 2016
+	Iteration: 2000, 9.5%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.257 second(s).
+	Estimated Finish: Wed Jan 27 16:44:12 2016.
+
+Update: Wed Jan 27 16:42:55 2016
+	Iteration: 3000, 14.25%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.428 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:00 2016
+	Iteration: 4000, 18.99%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.106 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:04 2016
+	Iteration: 5000, 23.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.805 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:08 2016
+	Iteration: 6000, 28.49%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.567 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:13 2016
+	Iteration: 7000, 33.24%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.167 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:17 2016
+	Iteration: 8000, 37.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.261 second(s).
+	Estimated Finish: Wed Jan 27 16:44:12 2016.
+
+Update: Wed Jan 27 16:43:21 2016
+	Iteration: 9000, 42.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.211 second(s).
+	Estimated Finish: Wed Jan 27 16:44:12 2016.
+
+Update: Wed Jan 27 16:43:25 2016
+	Iteration: 10000, 47.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.474 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:30 2016
+	Iteration: 11000, 52.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.101 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:34 2016
+	Iteration: 12000, 56.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.772 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:38 2016
+	Iteration: 13000, 61.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.598 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:42 2016
+	Iteration: 14000, 66.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.292 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:47 2016
+	Iteration: 15000, 71.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.953 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:51 2016
+	Iteration: 16000, 75.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.661 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:43:55 2016
+	Iteration: 17000, 80.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.434 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:44:00 2016
+	Iteration: 18000, 85.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.129 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:44:04 2016
+	Iteration: 19000, 90.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.823 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:44:08 2016
+	Iteration: 20000, 94.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.547 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Update: Wed Jan 27 16:44:12 2016
+	Iteration: 21000, 99.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.262 second(s).
+	Estimated Finish: Wed Jan 27 16:44:13 2016.
+
+Finish: Wed Jan 27 16:44:13 2016
+
+0 hour(s), 1 minute(s), and 30.105 second(s).
+M21061 is composite.
+
+
+Start: M21067, Wed Jan 27 16:44:14 2016
+
+Update: Wed Jan 27 16:44:18 2016
+	Iteration: 1000, 4.75%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.298 second(s).
+	Estimated Finish: Wed Jan 27 16:45:41 2016.
+
+Update: Wed Jan 27 16:44:22 2016
+	Iteration: 2000, 9.49%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.035 second(s).
+	Estimated Finish: Wed Jan 27 16:45:43 2016.
+
+Update: Wed Jan 27 16:44:27 2016
+	Iteration: 3000, 14.24%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.345 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:31 2016
+	Iteration: 4000, 18.99%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.388 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:35 2016
+	Iteration: 5000, 23.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.767 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:39 2016
+	Iteration: 6000, 28.48%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.426 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:44 2016
+	Iteration: 7000, 33.23%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.46 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:48 2016
+	Iteration: 8000, 37.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.953 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:52 2016
+	Iteration: 9000, 42.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.743 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:44:57 2016
+	Iteration: 10000, 47.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.433 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:01 2016
+	Iteration: 11000, 52.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.117 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:05 2016
+	Iteration: 12000, 56.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.906 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:09 2016
+	Iteration: 13000, 61.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.567 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:14 2016
+	Iteration: 14000, 66.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.247 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:18 2016
+	Iteration: 15000, 71.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.027 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:22 2016
+	Iteration: 16000, 75.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.712 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:27 2016
+	Iteration: 17000, 80.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.472 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:31 2016
+	Iteration: 18000, 85.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.139 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:35 2016
+	Iteration: 19000, 90.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.83 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:39 2016
+	Iteration: 20000, 94.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.58 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Update: Wed Jan 27 16:45:44 2016
+	Iteration: 21000, 99.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.287 second(s).
+	Estimated Finish: Wed Jan 27 16:45:44 2016.
+
+Finish: Wed Jan 27 16:45:44 2016
+
+0 hour(s), 1 minute(s), and 30.275 second(s).
+M21067 is composite.
+
+
+Start: M21089, Wed Jan 27 16:45:45 2016
+
+Update: Wed Jan 27 16:45:50 2016
+	Iteration: 1000, 4.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.872 second(s).
+	Estimated Finish: Wed Jan 27 16:47:13 2016.
+
+Update: Wed Jan 27 16:45:54 2016
+	Iteration: 2000, 9.48%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.548 second(s).
+	Estimated Finish: Wed Jan 27 16:47:15 2016.
+
+Update: Wed Jan 27 16:45:58 2016
+	Iteration: 3000, 14.23%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.457 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:02 2016
+	Iteration: 4000, 18.97%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.192 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:07 2016
+	Iteration: 5000, 23.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.957 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:11 2016
+	Iteration: 6000, 28.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.536 second(s).
+	Estimated Finish: Wed Jan 27 16:47:15 2016.
+
+Update: Wed Jan 27 16:46:15 2016
+	Iteration: 7000, 33.19%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.526 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:19 2016
+	Iteration: 8000, 37.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 56.086 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:24 2016
+	Iteration: 9000, 42.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.717 second(s).
+	Estimated Finish: Wed Jan 27 16:47:15 2016.
+
+Update: Wed Jan 27 16:46:28 2016
+	Iteration: 10000, 47.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.505 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:32 2016
+	Iteration: 11000, 52.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.282 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:37 2016
+	Iteration: 12000, 56.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.001 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:41 2016
+	Iteration: 13000, 61.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.605 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:45 2016
+	Iteration: 14000, 66.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.419 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:49 2016
+	Iteration: 15000, 71.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.104 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:54 2016
+	Iteration: 16000, 75.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.847 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:46:58 2016
+	Iteration: 17000, 80.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.521 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:47:02 2016
+	Iteration: 18000, 85.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.249 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:47:07 2016
+	Iteration: 19000, 90.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.926 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:47:11 2016
+	Iteration: 20000, 94.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.67 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Update: Wed Jan 27 16:47:15 2016
+	Iteration: 21000, 99.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.382 second(s).
+	Estimated Finish: Wed Jan 27 16:47:16 2016.
+
+Finish: Wed Jan 27 16:47:16 2016
+
+0 hour(s), 1 minute(s), and 30.334 second(s).
+M21089 is composite.
+
+
+Start: M21101, Wed Jan 27 16:47:17 2016
+
+Update: Wed Jan 27 16:47:21 2016
+	Iteration: 1000, 4.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.022 second(s).
+	Estimated Finish: Wed Jan 27 16:48:45 2016.
+
+Update: Wed Jan 27 16:47:25 2016
+	Iteration: 2000, 9.48%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.784 second(s).
+	Estimated Finish: Wed Jan 27 16:48:48 2016.
+
+Update: Wed Jan 27 16:47:30 2016
+	Iteration: 3000, 14.22%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.563 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:47:34 2016
+	Iteration: 4000, 18.96%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.97 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:47:38 2016
+	Iteration: 5000, 23.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.22 second(s).
+	Estimated Finish: Wed Jan 27 16:48:46 2016.
+
+Update: Wed Jan 27 16:47:42 2016
+	Iteration: 6000, 28.44%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.647 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:47:47 2016
+	Iteration: 7000, 33.18%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.155 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:47:51 2016
+	Iteration: 8000, 37.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 56.295 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:47:55 2016
+	Iteration: 9000, 42.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.816 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:00 2016
+	Iteration: 10000, 47.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.523 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:04 2016
+	Iteration: 11000, 52.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.252 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:08 2016
+	Iteration: 12000, 56.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.989 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:12 2016
+	Iteration: 13000, 61.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.591 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:17 2016
+	Iteration: 14000, 66.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.513 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:21 2016
+	Iteration: 15000, 71.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.118 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:25 2016
+	Iteration: 16000, 75.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.842 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:30 2016
+	Iteration: 17000, 80.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.86 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:34 2016
+	Iteration: 18000, 85.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.161 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:38 2016
+	Iteration: 19000, 90.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.028 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:42 2016
+	Iteration: 20000, 94.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.724 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Update: Wed Jan 27 16:48:47 2016
+	Iteration: 21000, 99.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.452 second(s).
+	Estimated Finish: Wed Jan 27 16:48:47 2016.
+
+Finish: Wed Jan 27 16:48:47 2016
+
+0 hour(s), 1 minute(s), and 30.584 second(s).
+M21101 is composite.
+
+
+Start: M21107, Wed Jan 27 16:48:49 2016
+
+Update: Wed Jan 27 16:48:53 2016
+	Iteration: 1000, 4.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.495 second(s).
+	Estimated Finish: Wed Jan 27 16:50:18 2016.
+
+Update: Wed Jan 27 16:48:57 2016
+	Iteration: 2000, 9.48%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.791 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:02 2016
+	Iteration: 3000, 14.21%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.508 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:49:06 2016
+	Iteration: 4000, 18.95%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.611 second(s).
+	Estimated Finish: Wed Jan 27 16:50:19 2016.
+
+Update: Wed Jan 27 16:49:10 2016
+	Iteration: 5000, 23.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.985 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:14 2016
+	Iteration: 6000, 28.43%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.564 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:19 2016
+	Iteration: 7000, 33.17%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.928 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:23 2016
+	Iteration: 8000, 37.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.238 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:28 2016
+	Iteration: 9000, 42.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.658 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:49:32 2016
+	Iteration: 10000, 47.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 47.982 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:36 2016
+	Iteration: 11000, 52.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.329 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:49:41 2016
+	Iteration: 12000, 56.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.207 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:49:45 2016
+	Iteration: 13000, 61.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.59 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:49:49 2016
+	Iteration: 14000, 66.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.411 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:54 2016
+	Iteration: 15000, 71.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.065 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:49:58 2016
+	Iteration: 16000, 75.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.914 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:50:02 2016
+	Iteration: 17000, 80.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.137 second(s).
+	Estimated Finish: Wed Jan 27 16:50:21 2016.
+
+Update: Wed Jan 27 16:50:07 2016
+	Iteration: 18000, 85.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.531 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:50:11 2016
+	Iteration: 19000, 90.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.161 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:50:15 2016
+	Iteration: 20000, 94.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.771 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Update: Wed Jan 27 16:50:20 2016
+	Iteration: 21000, 99.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.461 second(s).
+	Estimated Finish: Wed Jan 27 16:50:20 2016.
+
+Finish: Wed Jan 27 16:50:20 2016
+
+0 hour(s), 1 minute(s), and 31.755 second(s).
+M21107 is composite.
+
+
+Start: M21121, Wed Jan 27 16:50:21 2016
+
+Update: Wed Jan 27 16:50:26 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.542 second(s).
+	Estimated Finish: Wed Jan 27 16:51:49 2016.
+
+Update: Wed Jan 27 16:50:30 2016
+	Iteration: 2000, 9.47%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.914 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:50:34 2016
+	Iteration: 3000, 14.2%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.286 second(s).
+	Estimated Finish: Wed Jan 27 16:51:51 2016.
+
+Update: Wed Jan 27 16:50:38 2016
+	Iteration: 4000, 18.94%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.935 second(s).
+	Estimated Finish: Wed Jan 27 16:51:51 2016.
+
+Update: Wed Jan 27 16:50:43 2016
+	Iteration: 5000, 23.67%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.788 second(s).
+	Estimated Finish: Wed Jan 27 16:51:53 2016.
+
+Update: Wed Jan 27 16:50:47 2016
+	Iteration: 6000, 28.41%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.349 second(s).
+	Estimated Finish: Wed Jan 27 16:51:55 2016.
+
+Update: Wed Jan 27 16:50:51 2016
+	Iteration: 7000, 33.14%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.031 second(s).
+	Estimated Finish: Wed Jan 27 16:51:53 2016.
+
+Update: Wed Jan 27 16:50:56 2016
+	Iteration: 8000, 37.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 56.67 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:00 2016
+	Iteration: 9000, 42.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.617 second(s).
+	Estimated Finish: Wed Jan 27 16:51:53 2016.
+
+Update: Wed Jan 27 16:51:05 2016
+	Iteration: 10000, 47.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.433 second(s).
+	Estimated Finish: Wed Jan 27 16:51:54 2016.
+
+Update: Wed Jan 27 16:51:09 2016
+	Iteration: 11000, 52.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.684 second(s).
+	Estimated Finish: Wed Jan 27 16:51:54 2016.
+
+Update: Wed Jan 27 16:51:13 2016
+	Iteration: 12000, 56.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 38.846 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:18 2016
+	Iteration: 13000, 61.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.587 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:22 2016
+	Iteration: 14000, 66.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.4 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:26 2016
+	Iteration: 15000, 71.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 25.965 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:30 2016
+	Iteration: 16000, 75.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.821 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:35 2016
+	Iteration: 17000, 80.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.531 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:39 2016
+	Iteration: 18000, 85.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.33 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:43 2016
+	Iteration: 19000, 89.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.04 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:47 2016
+	Iteration: 20000, 94.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.78 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Update: Wed Jan 27 16:51:52 2016
+	Iteration: 21000, 99.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.517 second(s).
+	Estimated Finish: Wed Jan 27 16:51:52 2016.
+
+Finish: Wed Jan 27 16:51:52 2016
+
+0 hour(s), 1 minute(s), and 30.847 second(s).
+M21121 is composite.
+
+
+Start: M21139, Wed Jan 27 16:51:53 2016
+
+Update: Wed Jan 27 16:51:58 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.141 second(s).
+	Estimated Finish: Wed Jan 27 16:53:22 2016.
+
+Update: Wed Jan 27 16:52:02 2016
+	Iteration: 2000, 9.46%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.877 second(s).
+	Estimated Finish: Wed Jan 27 16:53:24 2016.
+
+Update: Wed Jan 27 16:52:06 2016
+	Iteration: 3000, 14.19%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.832 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:11 2016
+	Iteration: 4000, 18.92%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.503 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:15 2016
+	Iteration: 5000, 23.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.946 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:19 2016
+	Iteration: 6000, 28.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.764 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:24 2016
+	Iteration: 7000, 33.12%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.278 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:28 2016
+	Iteration: 8000, 37.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 56.287 second(s).
+	Estimated Finish: Wed Jan 27 16:53:24 2016.
+
+Update: Wed Jan 27 16:52:32 2016
+	Iteration: 9000, 42.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.635 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:37 2016
+	Iteration: 10000, 47.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.399 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:41 2016
+	Iteration: 11000, 52.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.973 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:45 2016
+	Iteration: 12000, 56.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.709 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:50 2016
+	Iteration: 13000, 61.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.356 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:54 2016
+	Iteration: 14000, 66.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.948 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:52:58 2016
+	Iteration: 15000, 70.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.649 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:03 2016
+	Iteration: 16000, 75.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.293 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:07 2016
+	Iteration: 17000, 80.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.707 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:11 2016
+	Iteration: 18000, 85.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.426 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:15 2016
+	Iteration: 19000, 89.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.168 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:20 2016
+	Iteration: 20000, 94.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.946 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Update: Wed Jan 27 16:53:24 2016
+	Iteration: 21000, 99.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.604 second(s).
+	Estimated Finish: Wed Jan 27 16:53:25 2016.
+
+Finish: Wed Jan 27 16:53:25 2016
+
+0 hour(s), 1 minute(s), and 31.41 second(s).
+M21139 is composite.
+
+
+Start: M21143, Wed Jan 27 16:53:26 2016
+
+Update: Wed Jan 27 16:53:30 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.936 second(s).
+	Estimated Finish: Wed Jan 27 16:54:54 2016.
+
+Update: Wed Jan 27 16:53:34 2016
+	Iteration: 2000, 9.46%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.219 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:53:39 2016
+	Iteration: 3000, 14.19%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.686 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:53:43 2016
+	Iteration: 4000, 18.92%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.435 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:53:47 2016
+	Iteration: 5000, 23.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.093 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:53:52 2016
+	Iteration: 6000, 28.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.66 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:53:56 2016
+	Iteration: 7000, 33.11%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.465 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:00 2016
+	Iteration: 8000, 37.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.093 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:05 2016
+	Iteration: 9000, 42.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.64 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:09 2016
+	Iteration: 10000, 47.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.405 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:13 2016
+	Iteration: 11000, 52.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.081 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:18 2016
+	Iteration: 12000, 56.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.598 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:22 2016
+	Iteration: 13000, 61.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.389 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:27 2016
+	Iteration: 14000, 66.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.029 second(s).
+	Estimated Finish: Wed Jan 27 16:54:58 2016.
+
+Update: Wed Jan 27 16:54:31 2016
+	Iteration: 15000, 70.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.353 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:35 2016
+	Iteration: 16000, 75.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 21.853 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:39 2016
+	Iteration: 17000, 80.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.736 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:44 2016
+	Iteration: 18000, 85.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.631 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:48 2016
+	Iteration: 19000, 89.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.305 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:52 2016
+	Iteration: 20000, 94.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.961 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Update: Wed Jan 27 16:54:57 2016
+	Iteration: 21000, 99.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.621 second(s).
+	Estimated Finish: Wed Jan 27 16:54:57 2016.
+
+Finish: Wed Jan 27 16:54:57 2016
+
+0 hour(s), 1 minute(s), and 31.483 second(s).
+M21143 is composite.
+
+
+Start: M21149, Wed Jan 27 16:54:59 2016
+
+Update: Wed Jan 27 16:55:03 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.082 second(s).
+	Estimated Finish: Wed Jan 27 16:56:27 2016.
+
+Update: Wed Jan 27 16:55:07 2016
+	Iteration: 2000, 9.46%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.149 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:55:11 2016
+	Iteration: 3000, 14.19%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.839 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:16 2016
+	Iteration: 4000, 18.91%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.427 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:20 2016
+	Iteration: 5000, 23.64%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.99 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:24 2016
+	Iteration: 6000, 28.37%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.822 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:29 2016
+	Iteration: 7000, 33.1%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.35 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:33 2016
+	Iteration: 8000, 37.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.067 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:37 2016
+	Iteration: 9000, 42.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.058 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:55:42 2016
+	Iteration: 10000, 47.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.264 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:55:46 2016
+	Iteration: 11000, 52.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 43.397 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:55:50 2016
+	Iteration: 12000, 56.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.13 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:55:55 2016
+	Iteration: 13000, 61.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 34.878 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:55:59 2016
+	Iteration: 14000, 66.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.948 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:56:03 2016
+	Iteration: 15000, 70.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.293 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:56:07 2016
+	Iteration: 16000, 75.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.027 second(s).
+	Estimated Finish: Wed Jan 27 16:56:29 2016.
+
+Update: Wed Jan 27 16:56:12 2016
+	Iteration: 17000, 80.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.032 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:56:16 2016
+	Iteration: 18000, 85.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.66 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:56:20 2016
+	Iteration: 19000, 89.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.346 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:56:25 2016
+	Iteration: 20000, 94.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.977 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Update: Wed Jan 27 16:56:29 2016
+	Iteration: 21000, 99.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.647 second(s).
+	Estimated Finish: Wed Jan 27 16:56:30 2016.
+
+Finish: Wed Jan 27 16:56:30 2016
+
+0 hour(s), 1 minute(s), and 31.366 second(s).
+M21149 is composite.
+
+
+Start: M21157, Wed Jan 27 16:56:31 2016
+
+Update: Wed Jan 27 16:56:35 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.337 second(s).
+	Estimated Finish: Wed Jan 27 16:58:00 2016.
+
+Update: Wed Jan 27 16:56:40 2016
+	Iteration: 2000, 9.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.318 second(s).
+	Estimated Finish: Wed Jan 27 16:58:02 2016.
+
+Update: Wed Jan 27 16:56:44 2016
+	Iteration: 3000, 14.18%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.729 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:56:48 2016
+	Iteration: 4000, 18.91%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.341 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:56:53 2016
+	Iteration: 5000, 23.63%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.251 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:56:57 2016
+	Iteration: 6000, 28.36%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.675 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:01 2016
+	Iteration: 7000, 33.09%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.456 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:06 2016
+	Iteration: 8000, 37.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.18 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:10 2016
+	Iteration: 9000, 42.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.725 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:14 2016
+	Iteration: 10000, 47.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.399 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:19 2016
+	Iteration: 11000, 51.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.193 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:23 2016
+	Iteration: 12000, 56.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.723 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:27 2016
+	Iteration: 13000, 61.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.393 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:32 2016
+	Iteration: 14000, 66.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.061 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:36 2016
+	Iteration: 15000, 70.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.715 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:40 2016
+	Iteration: 16000, 75.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.417 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:45 2016
+	Iteration: 17000, 80.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.037 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:49 2016
+	Iteration: 18000, 85.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.698 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:53 2016
+	Iteration: 19000, 89.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.387 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:57:58 2016
+	Iteration: 20000, 94.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.998 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Update: Wed Jan 27 16:58:02 2016
+	Iteration: 21000, 99.26%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.673 second(s).
+	Estimated Finish: Wed Jan 27 16:58:03 2016.
+
+Finish: Wed Jan 27 16:58:03 2016
+
+0 hour(s), 1 minute(s), and 31.702 second(s).
+M21157 is composite.
+
+
+Start: M21163, Wed Jan 27 16:58:04 2016
+
+Update: Wed Jan 27 16:58:08 2016
+	Iteration: 1000, 4.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.281 second(s).
+	Estimated Finish: Wed Jan 27 16:59:32 2016.
+
+Update: Wed Jan 27 16:58:12 2016
+	Iteration: 2000, 9.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.324 second(s).
+	Estimated Finish: Wed Jan 27 16:59:35 2016.
+
+Update: Wed Jan 27 16:58:17 2016
+	Iteration: 3000, 14.18%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.755 second(s).
+	Estimated Finish: Wed Jan 27 16:59:35 2016.
+
+Update: Wed Jan 27 16:58:21 2016
+	Iteration: 4000, 18.9%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.47 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:25 2016
+	Iteration: 5000, 23.63%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.131 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:30 2016
+	Iteration: 6000, 28.35%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.853 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:34 2016
+	Iteration: 7000, 33.08%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.51 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:38 2016
+	Iteration: 8000, 37.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.101 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:43 2016
+	Iteration: 9000, 42.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.8 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:47 2016
+	Iteration: 10000, 47.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.514 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:51 2016
+	Iteration: 11000, 51.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.128 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:58:56 2016
+	Iteration: 12000, 56.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.777 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:00 2016
+	Iteration: 13000, 61.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.452 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:04 2016
+	Iteration: 14000, 66.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.095 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:09 2016
+	Iteration: 15000, 70.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.735 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:13 2016
+	Iteration: 16000, 75.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.423 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:18 2016
+	Iteration: 17000, 80.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.038 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:22 2016
+	Iteration: 18000, 85.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.737 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:26 2016
+	Iteration: 19000, 89.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.4 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:31 2016
+	Iteration: 20000, 94.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.05 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Update: Wed Jan 27 16:59:35 2016
+	Iteration: 21000, 99.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.708 second(s).
+	Estimated Finish: Wed Jan 27 16:59:36 2016.
+
+Finish: Wed Jan 27 16:59:36 2016
+
+0 hour(s), 1 minute(s), and 31.78 second(s).
+M21163 is composite.
+
+
+Start: M21169, Wed Jan 27 16:59:37 2016
+
+Update: Wed Jan 27 16:59:41 2016
+	Iteration: 1000, 4.72%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.327 second(s).
+	Estimated Finish: Wed Jan 27 17:01:05 2016.
+
+Update: Wed Jan 27 16:59:45 2016
+	Iteration: 2000, 9.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.293 second(s).
+	Estimated Finish: Wed Jan 27 17:01:08 2016.
+
+Update: Wed Jan 27 16:59:50 2016
+	Iteration: 3000, 14.17%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.89 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 16:59:54 2016
+	Iteration: 4000, 18.9%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.651 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 16:59:58 2016
+	Iteration: 5000, 23.62%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.06 second(s).
+	Estimated Finish: Wed Jan 27 17:01:08 2016.
+
+Update: Wed Jan 27 17:00:03 2016
+	Iteration: 6000, 28.34%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.758 second(s).
+	Estimated Finish: Wed Jan 27 17:01:08 2016.
+
+Update: Wed Jan 27 17:00:07 2016
+	Iteration: 7000, 33.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.607 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:11 2016
+	Iteration: 8000, 37.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.206 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:16 2016
+	Iteration: 9000, 42.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.753 second(s).
+	Estimated Finish: Wed Jan 27 17:01:08 2016.
+
+Update: Wed Jan 27 17:00:20 2016
+	Iteration: 10000, 47.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.473 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:24 2016
+	Iteration: 11000, 51.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.184 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:29 2016
+	Iteration: 12000, 56.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.793 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:33 2016
+	Iteration: 13000, 61.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.511 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:37 2016
+	Iteration: 14000, 66.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.099 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:42 2016
+	Iteration: 15000, 70.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.743 second(s).
+	Estimated Finish: Wed Jan 27 17:01:08 2016.
+
+Update: Wed Jan 27 17:00:46 2016
+	Iteration: 16000, 75.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.48 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:50 2016
+	Iteration: 17000, 80.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.127 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:55 2016
+	Iteration: 18000, 85.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.744 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:00:59 2016
+	Iteration: 19000, 89.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.4 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:01:03 2016
+	Iteration: 20000, 94.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.079 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Update: Wed Jan 27 17:01:08 2016
+	Iteration: 21000, 99.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.733 second(s).
+	Estimated Finish: Wed Jan 27 17:01:09 2016.
+
+Finish: Wed Jan 27 17:01:09 2016
+
+0 hour(s), 1 minute(s), and 31.799 second(s).
+M21169 is composite.
+
+M21179 is composite.
+
+
+Start: M21187, Wed Jan 27 17:01:10 2016
+
+Update: Wed Jan 27 17:01:14 2016
+	Iteration: 1000, 4.72%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.785 second(s).
+	Estimated Finish: Wed Jan 27 17:02:39 2016.
+
+Update: Wed Jan 27 17:01:19 2016
+	Iteration: 2000, 9.44%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.466 second(s).
+	Estimated Finish: Wed Jan 27 17:02:41 2016.
+
+Update: Wed Jan 27 17:01:23 2016
+	Iteration: 3000, 14.16%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.023 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:27 2016
+	Iteration: 4000, 18.88%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.437 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:32 2016
+	Iteration: 5000, 23.6%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.235 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:36 2016
+	Iteration: 6000, 28.32%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.912 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:40 2016
+	Iteration: 7000, 33.04%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.543 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:45 2016
+	Iteration: 8000, 37.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.179 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:49 2016
+	Iteration: 9000, 42.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.867 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:53 2016
+	Iteration: 10000, 47.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.585 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:01:58 2016
+	Iteration: 11000, 51.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.201 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:02 2016
+	Iteration: 12000, 56.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.927 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:06 2016
+	Iteration: 13000, 61.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.474 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:11 2016
+	Iteration: 14000, 66.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.271 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:15 2016
+	Iteration: 15000, 70.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.845 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:19 2016
+	Iteration: 16000, 75.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.506 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:24 2016
+	Iteration: 17000, 80.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.159 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:28 2016
+	Iteration: 18000, 84.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.841 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:32 2016
+	Iteration: 19000, 89.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.494 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:37 2016
+	Iteration: 20000, 94.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.159 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Update: Wed Jan 27 17:02:41 2016
+	Iteration: 21000, 99.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.812 second(s).
+	Estimated Finish: Wed Jan 27 17:02:42 2016.
+
+Finish: Wed Jan 27 17:02:42 2016
+
+0 hour(s), 1 minute(s), and 31.867 second(s).
+M21187 is composite.
+
+
+Start: M21191, Wed Jan 27 17:02:43 2016
+
+Update: Wed Jan 27 17:02:47 2016
+	Iteration: 1000, 4.72%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.56 second(s).
+	Estimated Finish: Wed Jan 27 17:04:12 2016.
+
+Update: Wed Jan 27 17:02:52 2016
+	Iteration: 2000, 9.44%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.56 second(s).
+	Estimated Finish: Wed Jan 27 17:04:14 2016.
+
+Update: Wed Jan 27 17:02:56 2016
+	Iteration: 3000, 14.16%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.931 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:00 2016
+	Iteration: 4000, 18.88%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.454 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:05 2016
+	Iteration: 5000, 23.6%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.156 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:09 2016
+	Iteration: 6000, 28.32%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.142 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:13 2016
+	Iteration: 7000, 33.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.518 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:18 2016
+	Iteration: 8000, 37.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.183 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:22 2016
+	Iteration: 9000, 42.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.872 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:26 2016
+	Iteration: 10000, 47.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.681 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:31 2016
+	Iteration: 11000, 51.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.168 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:35 2016
+	Iteration: 12000, 56.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.962 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:39 2016
+	Iteration: 13000, 61.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.508 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:44 2016
+	Iteration: 14000, 66.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.245 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:48 2016
+	Iteration: 15000, 70.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.894 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:52 2016
+	Iteration: 16000, 75.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.498 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:03:57 2016
+	Iteration: 17000, 80.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.21 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:04:01 2016
+	Iteration: 18000, 84.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.849 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:04:05 2016
+	Iteration: 19000, 89.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.513 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:04:10 2016
+	Iteration: 20000, 94.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.175 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Update: Wed Jan 27 17:04:14 2016
+	Iteration: 21000, 99.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.83 second(s).
+	Estimated Finish: Wed Jan 27 17:04:15 2016.
+
+Finish: Wed Jan 27 17:04:15 2016
+
+0 hour(s), 1 minute(s), and 31.885 second(s).
+M21191 is composite.
+
+
+Start: M21193, Wed Jan 27 17:04:16 2016
+
+Update: Wed Jan 27 17:04:20 2016
+	Iteration: 1000, 4.72%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.084 second(s).
+	Estimated Finish: Wed Jan 27 17:05:44 2016.
+
+Update: Wed Jan 27 17:04:25 2016
+	Iteration: 2000, 9.44%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.338 second(s).
+	Estimated Finish: Wed Jan 27 17:05:47 2016.
+
+Update: Wed Jan 27 17:04:29 2016
+	Iteration: 3000, 14.16%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.83 second(s).
+	Estimated Finish: Wed Jan 27 17:05:47 2016.
+
+Update: Wed Jan 27 17:04:33 2016
+	Iteration: 4000, 18.88%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.686 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:38 2016
+	Iteration: 5000, 23.59%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.229 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:42 2016
+	Iteration: 6000, 28.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.968 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:46 2016
+	Iteration: 7000, 33.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.598 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:51 2016
+	Iteration: 8000, 37.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.297 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:55 2016
+	Iteration: 9000, 42.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 52.857 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:04:59 2016
+	Iteration: 10000, 47.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.566 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:04 2016
+	Iteration: 11000, 51.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.217 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:08 2016
+	Iteration: 12000, 56.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.364 second(s).
+	Estimated Finish: Wed Jan 27 17:05:47 2016.
+
+Update: Wed Jan 27 17:05:12 2016
+	Iteration: 13000, 61.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.59 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:17 2016
+	Iteration: 14000, 66.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.218 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:21 2016
+	Iteration: 15000, 70.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.847 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:25 2016
+	Iteration: 16000, 75.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.59 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:30 2016
+	Iteration: 17000, 80.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.198 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:34 2016
+	Iteration: 18000, 84.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.842 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:38 2016
+	Iteration: 19000, 89.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.524 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:43 2016
+	Iteration: 20000, 94.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.18 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Update: Wed Jan 27 17:05:47 2016
+	Iteration: 21000, 99.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.835 second(s).
+	Estimated Finish: Wed Jan 27 17:05:48 2016.
+
+Finish: Wed Jan 27 17:05:48 2016
+
+0 hour(s), 1 minute(s), and 31.685 second(s).
+M21193 is composite.
+
+
+Start: M21211, Wed Jan 27 17:05:49 2016
+
+Update: Wed Jan 27 17:05:53 2016
+	Iteration: 1000, 4.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.846 second(s).
+	Estimated Finish: Wed Jan 27 17:07:18 2016.
+
+Update: Wed Jan 27 17:05:57 2016
+	Iteration: 2000, 9.43%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.569 second(s).
+	Estimated Finish: Wed Jan 27 17:07:20 2016.
+
+Update: Wed Jan 27 17:06:02 2016
+	Iteration: 3000, 14.14%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.09 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:06 2016
+	Iteration: 4000, 18.86%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.696 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:11 2016
+	Iteration: 5000, 23.57%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.388 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:15 2016
+	Iteration: 6000, 28.29%
+	Estimated time: 0 hour(s), 1 minute(s), and 5.879 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:19 2016
+	Iteration: 7000, 33.0%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.775 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:24 2016
+	Iteration: 8000, 37.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.323 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:28 2016
+	Iteration: 9000, 42.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.081 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:32 2016
+	Iteration: 10000, 47.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.667 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:37 2016
+	Iteration: 11000, 51.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.387 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:41 2016
+	Iteration: 12000, 56.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 39.93 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:45 2016
+	Iteration: 13000, 61.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.077 second(s).
+	Estimated Finish: Wed Jan 27 17:07:20 2016.
+
+Update: Wed Jan 27 17:06:49 2016
+	Iteration: 14000, 66.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 30.899 second(s).
+	Estimated Finish: Wed Jan 27 17:07:20 2016.
+
+Update: Wed Jan 27 17:06:54 2016
+	Iteration: 15000, 70.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.03 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:06:58 2016
+	Iteration: 16000, 75.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.584 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:07:02 2016
+	Iteration: 17000, 80.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.276 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:07:07 2016
+	Iteration: 18000, 84.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.965 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:07:11 2016
+	Iteration: 19000, 89.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.587 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:07:16 2016
+	Iteration: 20000, 94.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.261 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Update: Wed Jan 27 17:07:20 2016
+	Iteration: 21000, 99.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.916 second(s).
+	Estimated Finish: Wed Jan 27 17:07:21 2016.
+
+Finish: Wed Jan 27 17:07:21 2016
+
+0 hour(s), 1 minute(s), and 31.877 second(s).
+M21211 is composite.
+
+
+Start: M21221, Wed Jan 27 17:07:22 2016
+
+Update: Wed Jan 27 17:07:26 2016
+	Iteration: 1000, 4.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.989 second(s).
+	Estimated Finish: Wed Jan 27 17:08:51 2016.
+
+Update: Wed Jan 27 17:07:31 2016
+	Iteration: 2000, 9.43%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.708 second(s).
+	Estimated Finish: Wed Jan 27 17:08:53 2016.
+
+Update: Wed Jan 27 17:07:35 2016
+	Iteration: 3000, 14.14%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.97 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:07:39 2016
+	Iteration: 4000, 18.85%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.567 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:07:44 2016
+	Iteration: 5000, 23.56%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.496 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:07:48 2016
+	Iteration: 6000, 28.28%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.105 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:07:52 2016
+	Iteration: 7000, 32.99%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.748 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:07:57 2016
+	Iteration: 8000, 37.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.339 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:01 2016
+	Iteration: 9000, 42.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.039 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:05 2016
+	Iteration: 10000, 47.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.733 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:10 2016
+	Iteration: 11000, 51.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.226 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:14 2016
+	Iteration: 12000, 56.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.065 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:18 2016
+	Iteration: 13000, 61.26%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.811 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:23 2016
+	Iteration: 14000, 65.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.296 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:27 2016
+	Iteration: 15000, 70.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.018 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:31 2016
+	Iteration: 16000, 75.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.649 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:36 2016
+	Iteration: 17000, 80.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.323 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:40 2016
+	Iteration: 18000, 84.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.969 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:44 2016
+	Iteration: 19000, 89.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.639 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:49 2016
+	Iteration: 20000, 94.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.305 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Update: Wed Jan 27 17:08:53 2016
+	Iteration: 21000, 98.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.959 second(s).
+	Estimated Finish: Wed Jan 27 17:08:54 2016.
+
+Finish: Wed Jan 27 17:08:54 2016
+
+0 hour(s), 1 minute(s), and 32.02 second(s).
+M21221 is composite.
+
+
+Start: M21227, Wed Jan 27 17:08:55 2016
+
+Update: Wed Jan 27 17:08:59 2016
+	Iteration: 1000, 4.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.277 second(s).
+	Estimated Finish: Wed Jan 27 17:10:25 2016.
+
+Update: Wed Jan 27 17:09:04 2016
+	Iteration: 2000, 9.42%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.945 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:08 2016
+	Iteration: 3000, 14.13%
+	Estimated time: 0 hour(s), 1 minute(s), and 18.996 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:12 2016
+	Iteration: 4000, 18.84%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.817 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:17 2016
+	Iteration: 5000, 23.56%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.409 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:21 2016
+	Iteration: 6000, 28.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.085 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:25 2016
+	Iteration: 7000, 32.98%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.774 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:30 2016
+	Iteration: 8000, 37.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.352 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:34 2016
+	Iteration: 9000, 42.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.187 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:38 2016
+	Iteration: 10000, 47.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.748 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:43 2016
+	Iteration: 11000, 51.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.375 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:47 2016
+	Iteration: 12000, 56.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.101 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:51 2016
+	Iteration: 13000, 61.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.713 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:09:56 2016
+	Iteration: 14000, 65.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.372 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:00 2016
+	Iteration: 15000, 70.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 26.988 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:04 2016
+	Iteration: 16000, 75.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.748 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:09 2016
+	Iteration: 17000, 80.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.371 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:13 2016
+	Iteration: 18000, 84.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.976 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:17 2016
+	Iteration: 19000, 89.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.667 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:22 2016
+	Iteration: 20000, 94.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.324 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Update: Wed Jan 27 17:10:26 2016
+	Iteration: 21000, 98.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.986 second(s).
+	Estimated Finish: Wed Jan 27 17:10:27 2016.
+
+Finish: Wed Jan 27 17:10:27 2016
+
+0 hour(s), 1 minute(s), and 32.133 second(s).
+M21227 is composite.
+
+
+Start: M21247, Wed Jan 27 17:10:28 2016
+
+Update: Wed Jan 27 17:10:33 2016
+	Iteration: 1000, 4.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.402 second(s).
+	Estimated Finish: Wed Jan 27 17:11:58 2016.
+
+Update: Wed Jan 27 17:10:37 2016
+	Iteration: 2000, 9.41%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.109 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:10:41 2016
+	Iteration: 3000, 14.12%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.137 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:10:46 2016
+	Iteration: 4000, 18.83%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.886 second(s).
+	Estimated Finish: Wed Jan 27 17:12:01 2016.
+
+Update: Wed Jan 27 17:10:50 2016
+	Iteration: 5000, 23.53%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.431 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:10:54 2016
+	Iteration: 6000, 28.24%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.126 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:10:59 2016
+	Iteration: 7000, 32.95%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.832 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:03 2016
+	Iteration: 8000, 37.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.585 second(s).
+	Estimated Finish: Wed Jan 27 17:12:01 2016.
+
+Update: Wed Jan 27 17:11:07 2016
+	Iteration: 9000, 42.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.054 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:12 2016
+	Iteration: 10000, 47.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.913 second(s).
+	Estimated Finish: Wed Jan 27 17:12:01 2016.
+
+Update: Wed Jan 27 17:11:16 2016
+	Iteration: 11000, 51.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.421 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:20 2016
+	Iteration: 12000, 56.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.132 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:25 2016
+	Iteration: 13000, 61.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.85 second(s).
+	Estimated Finish: Wed Jan 27 17:12:01 2016.
+
+Update: Wed Jan 27 17:11:29 2016
+	Iteration: 14000, 65.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.437 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:33 2016
+	Iteration: 15000, 70.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.081 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:38 2016
+	Iteration: 16000, 75.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.688 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:42 2016
+	Iteration: 17000, 80.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.351 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:46 2016
+	Iteration: 18000, 84.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.105 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:51 2016
+	Iteration: 19000, 89.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.73 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:55 2016
+	Iteration: 20000, 94.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.426 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Update: Wed Jan 27 17:11:59 2016
+	Iteration: 21000, 98.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.07 second(s).
+	Estimated Finish: Wed Jan 27 17:12:00 2016.
+
+Finish: Wed Jan 27 17:12:01 2016
+
+0 hour(s), 1 minute(s), and 32.119 second(s).
+M21247 is composite.
+
+
+Start: M21269, Wed Jan 27 17:12:02 2016
+
+Update: Wed Jan 27 17:12:06 2016
+	Iteration: 1000, 4.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.515 second(s).
+	Estimated Finish: Wed Jan 27 17:13:31 2016.
+
+Update: Wed Jan 27 17:12:10 2016
+	Iteration: 2000, 9.4%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.011 second(s).
+	Estimated Finish: Wed Jan 27 17:13:33 2016.
+
+Update: Wed Jan 27 17:12:15 2016
+	Iteration: 3000, 14.11%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.214 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:19 2016
+	Iteration: 4000, 18.81%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.947 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:23 2016
+	Iteration: 5000, 23.51%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.624 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:28 2016
+	Iteration: 6000, 28.21%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.191 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:32 2016
+	Iteration: 7000, 32.91%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.027 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:36 2016
+	Iteration: 8000, 37.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.548 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:41 2016
+	Iteration: 9000, 42.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.235 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:45 2016
+	Iteration: 10000, 47.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.941 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:49 2016
+	Iteration: 11000, 51.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.547 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:54 2016
+	Iteration: 12000, 56.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.227 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:12:58 2016
+	Iteration: 13000, 61.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.929 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:02 2016
+	Iteration: 14000, 65.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.518 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:07 2016
+	Iteration: 15000, 70.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.195 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:11 2016
+	Iteration: 16000, 75.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.91 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:15 2016
+	Iteration: 17000, 79.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.506 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:20 2016
+	Iteration: 18000, 84.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.181 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:24 2016
+	Iteration: 19000, 89.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.82 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:28 2016
+	Iteration: 20000, 94.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.524 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Update: Wed Jan 27 17:13:33 2016
+	Iteration: 21000, 98.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.166 second(s).
+	Estimated Finish: Wed Jan 27 17:13:34 2016.
+
+Finish: Wed Jan 27 17:13:34 2016
+
+0 hour(s), 1 minute(s), and 32.234 second(s).
+M21269 is composite.
+
+
+Start: M21277, Wed Jan 27 17:13:35 2016
+
+Update: Wed Jan 27 17:13:39 2016
+	Iteration: 1000, 4.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.468 second(s).
+	Estimated Finish: Wed Jan 27 17:15:05 2016.
+
+Update: Wed Jan 27 17:13:44 2016
+	Iteration: 2000, 9.4%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.277 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:13:48 2016
+	Iteration: 3000, 14.1%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.176 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:13:52 2016
+	Iteration: 4000, 18.8%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.896 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:13:57 2016
+	Iteration: 5000, 23.5%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.724 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:01 2016
+	Iteration: 6000, 28.2%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.211 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:05 2016
+	Iteration: 7000, 32.9%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.877 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:10 2016
+	Iteration: 8000, 37.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.702 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:14 2016
+	Iteration: 9000, 42.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.196 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:18 2016
+	Iteration: 10000, 47.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.942 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:23 2016
+	Iteration: 11000, 51.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.551 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:27 2016
+	Iteration: 12000, 56.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.29 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:31 2016
+	Iteration: 13000, 61.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.93 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:36 2016
+	Iteration: 14000, 65.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.611 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:40 2016
+	Iteration: 15000, 70.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.236 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:44 2016
+	Iteration: 16000, 75.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.907 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:49 2016
+	Iteration: 17000, 79.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.549 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:53 2016
+	Iteration: 18000, 84.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.235 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:14:57 2016
+	Iteration: 19000, 89.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.873 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:15:02 2016
+	Iteration: 20000, 94.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.545 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Update: Wed Jan 27 17:15:06 2016
+	Iteration: 21000, 98.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.202 second(s).
+	Estimated Finish: Wed Jan 27 17:15:07 2016.
+
+Finish: Wed Jan 27 17:15:07 2016
+
+0 hour(s), 1 minute(s), and 32.318 second(s).
+M21277 is composite.
+
+
+Start: M21283, Wed Jan 27 17:15:08 2016
+
+Update: Wed Jan 27 17:15:13 2016
+	Iteration: 1000, 4.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.554 second(s).
+	Estimated Finish: Wed Jan 27 17:16:38 2016.
+
+Update: Wed Jan 27 17:15:17 2016
+	Iteration: 2000, 9.4%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.283 second(s).
+	Estimated Finish: Wed Jan 27 17:16:40 2016.
+
+Update: Wed Jan 27 17:15:21 2016
+	Iteration: 3000, 14.1%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.312 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:26 2016
+	Iteration: 4000, 18.8%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.026 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:30 2016
+	Iteration: 5000, 23.49%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.554 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:34 2016
+	Iteration: 6000, 28.19%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.252 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:39 2016
+	Iteration: 7000, 32.89%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.917 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:43 2016
+	Iteration: 8000, 37.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.701 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:47 2016
+	Iteration: 9000, 42.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.357 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:52 2016
+	Iteration: 10000, 46.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 48.991 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:15:56 2016
+	Iteration: 11000, 51.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.618 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:00 2016
+	Iteration: 12000, 56.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.26 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:05 2016
+	Iteration: 13000, 61.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 35.965 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:09 2016
+	Iteration: 14000, 65.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.601 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:13 2016
+	Iteration: 15000, 70.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.249 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:18 2016
+	Iteration: 16000, 75.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 22.939 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:22 2016
+	Iteration: 17000, 79.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.593 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:26 2016
+	Iteration: 18000, 84.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.242 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:31 2016
+	Iteration: 19000, 89.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.92 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:35 2016
+	Iteration: 20000, 93.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.566 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Update: Wed Jan 27 17:16:39 2016
+	Iteration: 21000, 98.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.227 second(s).
+	Estimated Finish: Wed Jan 27 17:16:41 2016.
+
+Finish: Wed Jan 27 17:16:41 2016
+
+0 hour(s), 1 minute(s), and 32.327 second(s).
+M21283 is composite.
+
+
+Start: M21313, Wed Jan 27 17:16:42 2016
+
+Update: Wed Jan 27 17:16:46 2016
+	Iteration: 1000, 4.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.985 second(s).
+	Estimated Finish: Wed Jan 27 17:18:12 2016.
+
+Update: Wed Jan 27 17:16:51 2016
+	Iteration: 2000, 9.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.035 second(s).
+	Estimated Finish: Wed Jan 27 17:18:16 2016.
+
+Update: Wed Jan 27 17:16:55 2016
+	Iteration: 3000, 14.08%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.387 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:16:59 2016
+	Iteration: 4000, 18.77%
+	Estimated time: 0 hour(s), 1 minute(s), and 14.983 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:04 2016
+	Iteration: 5000, 23.46%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.766 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:08 2016
+	Iteration: 6000, 28.15%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.642 second(s).
+	Estimated Finish: Wed Jan 27 17:18:15 2016.
+
+Update: Wed Jan 27 17:17:12 2016
+	Iteration: 7000, 32.85%
+	Estimated time: 0 hour(s), 1 minute(s), and 1.875 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:17 2016
+	Iteration: 8000, 37.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.858 second(s).
+	Estimated Finish: Wed Jan 27 17:18:15 2016.
+
+Update: Wed Jan 27 17:17:21 2016
+	Iteration: 9000, 42.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.389 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:25 2016
+	Iteration: 10000, 46.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.121 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:30 2016
+	Iteration: 11000, 51.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.676 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:34 2016
+	Iteration: 12000, 56.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.539 second(s).
+	Estimated Finish: Wed Jan 27 17:18:15 2016.
+
+Update: Wed Jan 27 17:17:38 2016
+	Iteration: 13000, 61.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.053 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:43 2016
+	Iteration: 14000, 65.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.731 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:47 2016
+	Iteration: 15000, 70.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.398 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:51 2016
+	Iteration: 16000, 75.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.053 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:17:56 2016
+	Iteration: 17000, 79.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.71 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:18:00 2016
+	Iteration: 18000, 84.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.206 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:18:04 2016
+	Iteration: 19000, 89.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.089 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:18:09 2016
+	Iteration: 20000, 93.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.692 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Update: Wed Jan 27 17:18:13 2016
+	Iteration: 21000, 98.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.363 second(s).
+	Estimated Finish: Wed Jan 27 17:18:14 2016.
+
+Finish: Wed Jan 27 17:18:14 2016
+
+0 hour(s), 1 minute(s), and 32.503 second(s).
+M21313 is composite.
+
+
+Start: M21317, Wed Jan 27 17:18:16 2016
+
+Update: Wed Jan 27 17:18:20 2016
+	Iteration: 1000, 4.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.819 second(s).
+	Estimated Finish: Wed Jan 27 17:19:46 2016.
+
+Update: Wed Jan 27 17:18:24 2016
+	Iteration: 2000, 9.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.662 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:29 2016
+	Iteration: 3000, 14.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.441 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:33 2016
+	Iteration: 4000, 18.77%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.208 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:37 2016
+	Iteration: 5000, 23.46%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.816 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:42 2016
+	Iteration: 6000, 28.15%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.43 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:46 2016
+	Iteration: 7000, 32.84%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.236 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:50 2016
+	Iteration: 8000, 37.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.703 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:55 2016
+	Iteration: 9000, 42.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.443 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:18:59 2016
+	Iteration: 10000, 46.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.138 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:03 2016
+	Iteration: 11000, 51.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.755 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:08 2016
+	Iteration: 12000, 56.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.445 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:12 2016
+	Iteration: 13000, 60.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.112 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:16 2016
+	Iteration: 14000, 65.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.573 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:21 2016
+	Iteration: 15000, 70.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.555 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:25 2016
+	Iteration: 16000, 75.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.033 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:29 2016
+	Iteration: 17000, 79.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.684 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:34 2016
+	Iteration: 18000, 84.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.426 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:38 2016
+	Iteration: 19000, 89.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.065 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:42 2016
+	Iteration: 20000, 93.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.713 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Update: Wed Jan 27 17:19:47 2016
+	Iteration: 21000, 98.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.373 second(s).
+	Estimated Finish: Wed Jan 27 17:19:48 2016.
+
+Finish: Wed Jan 27 17:19:48 2016
+
+0 hour(s), 1 minute(s), and 32.438 second(s).
+M21317 is composite.
+
+
+Start: M21319, Wed Jan 27 17:19:49 2016
+
+Update: Wed Jan 27 17:19:53 2016
+	Iteration: 1000, 4.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.99 second(s).
+	Estimated Finish: Wed Jan 27 17:21:19 2016.
+
+Update: Wed Jan 27 17:19:58 2016
+	Iteration: 2000, 9.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.671 second(s).
+	Estimated Finish: Wed Jan 27 17:21:21 2016.
+
+Update: Wed Jan 27 17:20:02 2016
+	Iteration: 3000, 14.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.358 second(s).
+	Estimated Finish: Wed Jan 27 17:21:21 2016.
+
+Update: Wed Jan 27 17:20:06 2016
+	Iteration: 4000, 18.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.234 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:11 2016
+	Iteration: 5000, 23.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.824 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:15 2016
+	Iteration: 6000, 28.15%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.515 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:19 2016
+	Iteration: 7000, 32.84%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.073 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:24 2016
+	Iteration: 8000, 37.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.485 second(s).
+	Estimated Finish: Wed Jan 27 17:21:21 2016.
+
+Update: Wed Jan 27 17:20:28 2016
+	Iteration: 9000, 42.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.723 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:32 2016
+	Iteration: 10000, 46.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.204 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:37 2016
+	Iteration: 11000, 51.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.733 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:41 2016
+	Iteration: 12000, 56.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.566 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:46 2016
+	Iteration: 13000, 60.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.063 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:50 2016
+	Iteration: 14000, 65.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.845 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:54 2016
+	Iteration: 15000, 70.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.393 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:20:59 2016
+	Iteration: 16000, 75.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.084 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:21:03 2016
+	Iteration: 17000, 79.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.753 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:21:07 2016
+	Iteration: 18000, 84.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.368 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:21:12 2016
+	Iteration: 19000, 89.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.083 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:21:16 2016
+	Iteration: 20000, 93.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.731 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Update: Wed Jan 27 17:21:20 2016
+	Iteration: 21000, 98.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.384 second(s).
+	Estimated Finish: Wed Jan 27 17:21:22 2016.
+
+Finish: Wed Jan 27 17:21:22 2016
+
+0 hour(s), 1 minute(s), and 32.462 second(s).
+M21319 is composite.
+
+
+Start: M21323, Wed Jan 27 17:21:23 2016
+
+Update: Wed Jan 27 17:21:27 2016
+	Iteration: 1000, 4.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.865 second(s).
+	Estimated Finish: Wed Jan 27 17:22:53 2016.
+
+Update: Wed Jan 27 17:21:31 2016
+	Iteration: 2000, 9.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 23.669 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:36 2016
+	Iteration: 3000, 14.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.54 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:40 2016
+	Iteration: 4000, 18.76%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.113 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:44 2016
+	Iteration: 5000, 23.45%
+	Estimated time: 0 hour(s), 1 minute(s), and 10.793 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:49 2016
+	Iteration: 6000, 28.14%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.624 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:53 2016
+	Iteration: 7000, 32.83%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.105 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:21:57 2016
+	Iteration: 8000, 37.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 57.835 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:02 2016
+	Iteration: 9000, 42.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.469 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:06 2016
+	Iteration: 10000, 46.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.13 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:10 2016
+	Iteration: 11000, 51.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 44.761 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:15 2016
+	Iteration: 12000, 56.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.499 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:19 2016
+	Iteration: 13000, 60.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.13 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:23 2016
+	Iteration: 14000, 65.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.789 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:28 2016
+	Iteration: 15000, 70.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.404 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:32 2016
+	Iteration: 16000, 75.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.134 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:36 2016
+	Iteration: 17000, 79.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.766 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:41 2016
+	Iteration: 18000, 84.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.418 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:45 2016
+	Iteration: 19000, 89.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.091 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:50 2016
+	Iteration: 20000, 93.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.744 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Update: Wed Jan 27 17:22:54 2016
+	Iteration: 21000, 98.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.404 second(s).
+	Estimated Finish: Wed Jan 27 17:22:55 2016.
+
+Finish: Wed Jan 27 17:22:55 2016
+
+0 hour(s), 1 minute(s), and 32.501 second(s).
+M21323 is composite.
+
+
+Start: M21341, Wed Jan 27 17:22:56 2016
+
+Update: Wed Jan 27 17:23:01 2016
+	Iteration: 1000, 4.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.653 second(s).
+	Estimated Finish: Wed Jan 27 17:24:27 2016.
+
+Update: Wed Jan 27 17:23:05 2016
+	Iteration: 2000, 9.37%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.081 second(s).
+	Estimated Finish: Wed Jan 27 17:24:30 2016.
+
+Update: Wed Jan 27 17:23:09 2016
+	Iteration: 3000, 14.06%
+	Estimated time: 0 hour(s), 1 minute(s), and 19.49 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:14 2016
+	Iteration: 4000, 18.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.589 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:18 2016
+	Iteration: 5000, 23.43%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.051 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:23 2016
+	Iteration: 6000, 28.12%
+	Estimated time: 0 hour(s), 1 minute(s), and 6.856 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:27 2016
+	Iteration: 7000, 32.8%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.355 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:31 2016
+	Iteration: 8000, 37.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.167 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:36 2016
+	Iteration: 9000, 42.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.794 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:40 2016
+	Iteration: 10000, 46.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.469 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:44 2016
+	Iteration: 11000, 51.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.045 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:49 2016
+	Iteration: 12000, 56.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.745 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:53 2016
+	Iteration: 13000, 60.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.342 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:23:57 2016
+	Iteration: 14000, 65.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 31.845 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:02 2016
+	Iteration: 15000, 70.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.317 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:06 2016
+	Iteration: 16000, 74.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.404 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:10 2016
+	Iteration: 17000, 79.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.935 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:15 2016
+	Iteration: 18000, 84.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.56 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:19 2016
+	Iteration: 19000, 89.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.202 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:23 2016
+	Iteration: 20000, 93.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.831 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Update: Wed Jan 27 17:24:28 2016
+	Iteration: 21000, 98.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.485 second(s).
+	Estimated Finish: Wed Jan 27 17:24:29 2016.
+
+Finish: Wed Jan 27 17:24:29 2016
+
+0 hour(s), 1 minute(s), and 32.911 second(s).
+M21341 is composite.
+
+
+Start: M21347, Wed Jan 27 17:24:31 2016
+
+Update: Wed Jan 27 17:24:35 2016
+	Iteration: 1000, 4.68%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.658 second(s).
+	Estimated Finish: Wed Jan 27 17:26:01 2016.
+
+Update: Wed Jan 27 17:24:39 2016
+	Iteration: 2000, 9.37%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.398 second(s).
+	Estimated Finish: Wed Jan 27 17:26:05 2016.
+
+Update: Wed Jan 27 17:24:44 2016
+	Iteration: 3000, 14.05%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.121 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:24:48 2016
+	Iteration: 4000, 18.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.754 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:24:52 2016
+	Iteration: 5000, 23.42%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.436 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:24:57 2016
+	Iteration: 6000, 28.11%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.051 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:01 2016
+	Iteration: 7000, 32.79%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.567 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:05 2016
+	Iteration: 8000, 37.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.313 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:10 2016
+	Iteration: 9000, 42.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.882 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:14 2016
+	Iteration: 10000, 46.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.484 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:18 2016
+	Iteration: 11000, 51.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.165 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:23 2016
+	Iteration: 12000, 56.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.856 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:27 2016
+	Iteration: 13000, 60.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.435 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:32 2016
+	Iteration: 14000, 65.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.084 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:36 2016
+	Iteration: 15000, 70.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.717 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:40 2016
+	Iteration: 16000, 74.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.372 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:45 2016
+	Iteration: 17000, 79.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.957 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:49 2016
+	Iteration: 18000, 84.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.596 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:53 2016
+	Iteration: 19000, 89.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.238 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:25:58 2016
+	Iteration: 20000, 93.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.884 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Update: Wed Jan 27 17:26:02 2016
+	Iteration: 21000, 98.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.515 second(s).
+	Estimated Finish: Wed Jan 27 17:26:04 2016.
+
+Finish: Wed Jan 27 17:26:04 2016
+
+0 hour(s), 1 minute(s), and 33.187 second(s).
+M21347 is composite.
+
+
+Start: M21377, Wed Jan 27 17:26:05 2016
+
+Update: Wed Jan 27 17:26:09 2016
+	Iteration: 1000, 4.68%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.969 second(s).
+	Estimated Finish: Wed Jan 27 17:27:36 2016.
+
+Update: Wed Jan 27 17:26:14 2016
+	Iteration: 2000, 9.36%
+	Estimated time: 0 hour(s), 1 minute(s), and 24.968 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:18 2016
+	Iteration: 3000, 14.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.216 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:22 2016
+	Iteration: 4000, 18.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 15.816 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:27 2016
+	Iteration: 5000, 23.39%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.453 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:31 2016
+	Iteration: 6000, 28.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.167 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:35 2016
+	Iteration: 7000, 32.75%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.669 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:40 2016
+	Iteration: 8000, 37.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.431 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:44 2016
+	Iteration: 9000, 42.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 53.976 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:48 2016
+	Iteration: 10000, 46.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.604 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:53 2016
+	Iteration: 11000, 51.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.379 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:26:57 2016
+	Iteration: 12000, 56.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.921 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:02 2016
+	Iteration: 13000, 60.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.473 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:06 2016
+	Iteration: 14000, 65.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.23 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:10 2016
+	Iteration: 15000, 70.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.804 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:15 2016
+	Iteration: 16000, 74.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.449 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:19 2016
+	Iteration: 17000, 79.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.11 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:23 2016
+	Iteration: 18000, 84.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.71 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:28 2016
+	Iteration: 19000, 88.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.357 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:32 2016
+	Iteration: 20000, 93.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.015 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Update: Wed Jan 27 17:27:36 2016
+	Iteration: 21000, 98.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.646 second(s).
+	Estimated Finish: Wed Jan 27 17:27:38 2016.
+
+Finish: Wed Jan 27 17:27:38 2016
+
+0 hour(s), 1 minute(s), and 33.233 second(s).
+M21377 is composite.
+
+
+Start: M21379, Wed Jan 27 17:27:39 2016
+
+Update: Wed Jan 27 17:27:44 2016
+	Iteration: 1000, 4.68%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.815 second(s).
+	Estimated Finish: Wed Jan 27 17:29:10 2016.
+
+Update: Wed Jan 27 17:27:48 2016
+	Iteration: 2000, 9.36%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.209 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:27:52 2016
+	Iteration: 3000, 14.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.959 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:27:57 2016
+	Iteration: 4000, 18.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.798 second(s).
+	Estimated Finish: Wed Jan 27 17:29:14 2016.
+
+Update: Wed Jan 27 17:28:01 2016
+	Iteration: 5000, 23.39%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.69 second(s).
+	Estimated Finish: Wed Jan 27 17:29:14 2016.
+
+Update: Wed Jan 27 17:28:06 2016
+	Iteration: 6000, 28.07%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.16 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:10 2016
+	Iteration: 7000, 32.74%
+	Estimated time: 0 hour(s), 1 minute(s), and 3.038 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:14 2016
+	Iteration: 8000, 37.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.292 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:19 2016
+	Iteration: 9000, 42.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.319 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:23 2016
+	Iteration: 10000, 46.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.681 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:27 2016
+	Iteration: 11000, 51.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.304 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:32 2016
+	Iteration: 12000, 56.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 40.967 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:36 2016
+	Iteration: 13000, 60.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.641 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:41 2016
+	Iteration: 14000, 65.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.224 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:45 2016
+	Iteration: 15000, 70.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.832 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:49 2016
+	Iteration: 16000, 74.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.49 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:54 2016
+	Iteration: 17000, 79.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.101 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:28:58 2016
+	Iteration: 18000, 84.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.766 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:29:02 2016
+	Iteration: 19000, 88.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.389 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:29:07 2016
+	Iteration: 20000, 93.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.026 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Update: Wed Jan 27 17:29:11 2016
+	Iteration: 21000, 98.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.655 second(s).
+	Estimated Finish: Wed Jan 27 17:29:13 2016.
+
+Finish: Wed Jan 27 17:29:13 2016
+
+0 hour(s), 1 minute(s), and 33.588 second(s).
+M21379 is composite.
+
+M21383 is composite.
+
+
+Start: M21391, Wed Jan 27 17:29:14 2016
+
+Update: Wed Jan 27 17:29:19 2016
+	Iteration: 1000, 4.68%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.131 second(s).
+	Estimated Finish: Wed Jan 27 17:30:46 2016.
+
+Update: Wed Jan 27 17:29:23 2016
+	Iteration: 2000, 9.35%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.243 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:27 2016
+	Iteration: 3000, 14.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.461 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:32 2016
+	Iteration: 4000, 18.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.173 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:36 2016
+	Iteration: 5000, 23.38%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.694 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:41 2016
+	Iteration: 6000, 28.05%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.182 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:45 2016
+	Iteration: 7000, 32.73%
+	Estimated time: 0 hour(s), 1 minute(s), and 2.889 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:49 2016
+	Iteration: 8000, 37.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.572 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:54 2016
+	Iteration: 9000, 42.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.211 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:29:58 2016
+	Iteration: 10000, 46.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.893 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:02 2016
+	Iteration: 11000, 51.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.471 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:07 2016
+	Iteration: 12000, 56.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 41.095 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:11 2016
+	Iteration: 13000, 60.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.66 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:15 2016
+	Iteration: 14000, 65.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.284 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:20 2016
+	Iteration: 15000, 70.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 27.948 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:24 2016
+	Iteration: 16000, 74.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.591 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:29 2016
+	Iteration: 17000, 79.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.197 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:33 2016
+	Iteration: 18000, 84.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.822 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:37 2016
+	Iteration: 19000, 88.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.456 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:42 2016
+	Iteration: 20000, 93.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.072 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Update: Wed Jan 27 17:30:46 2016
+	Iteration: 21000, 98.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.709 second(s).
+	Estimated Finish: Wed Jan 27 17:30:48 2016.
+
+Finish: Wed Jan 27 17:30:48 2016
+
+0 hour(s), 1 minute(s), and 33.517 second(s).
+M21391 is composite.
+
+
+Start: M21397, Wed Jan 27 17:30:49 2016
+
+Update: Wed Jan 27 17:30:53 2016
+	Iteration: 1000, 4.67%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.238 second(s).
+	Estimated Finish: Wed Jan 27 17:32:21 2016.
+
+Update: Wed Jan 27 17:30:58 2016
+	Iteration: 2000, 9.35%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.289 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:02 2016
+	Iteration: 3000, 14.02%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.56 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:06 2016
+	Iteration: 4000, 18.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.181 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:11 2016
+	Iteration: 5000, 23.37%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.753 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:15 2016
+	Iteration: 6000, 28.04%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.439 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:20 2016
+	Iteration: 7000, 32.72%
+	Estimated time: 0 hour(s), 1 minute(s), and 3.116 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:24 2016
+	Iteration: 8000, 37.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.585 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:28 2016
+	Iteration: 9000, 42.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.2 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:33 2016
+	Iteration: 10000, 46.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.907 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:37 2016
+	Iteration: 11000, 51.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.528 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:41 2016
+	Iteration: 12000, 56.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 41.102 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:46 2016
+	Iteration: 13000, 60.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.787 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:50 2016
+	Iteration: 14000, 65.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.399 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:55 2016
+	Iteration: 15000, 70.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.038 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:31:59 2016
+	Iteration: 16000, 74.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.606 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:32:03 2016
+	Iteration: 17000, 79.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.237 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:32:08 2016
+	Iteration: 18000, 84.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.852 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:32:12 2016
+	Iteration: 19000, 88.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.496 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:32:16 2016
+	Iteration: 20000, 93.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.108 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Update: Wed Jan 27 17:32:21 2016
+	Iteration: 21000, 98.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.737 second(s).
+	Estimated Finish: Wed Jan 27 17:32:23 2016.
+
+Finish: Wed Jan 27 17:32:23 2016
+
+0 hour(s), 1 minute(s), and 33.624 second(s).
+M21397 is composite.
+
+
+Start: M21401, Wed Jan 27 17:32:24 2016
+
+Update: Wed Jan 27 17:32:28 2016
+	Iteration: 1000, 4.67%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.255 second(s).
+	Estimated Finish: Wed Jan 27 17:33:55 2016.
+
+Update: Wed Jan 27 17:32:32 2016
+	Iteration: 2000, 9.35%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.597 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:32:37 2016
+	Iteration: 3000, 14.02%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.498 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:32:41 2016
+	Iteration: 4000, 18.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.164 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:32:46 2016
+	Iteration: 5000, 23.36%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.836 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:32:50 2016
+	Iteration: 6000, 28.04%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.426 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:32:54 2016
+	Iteration: 7000, 32.71%
+	Estimated time: 0 hour(s), 1 minute(s), and 3.105 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:32:59 2016
+	Iteration: 8000, 37.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.723 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:03 2016
+	Iteration: 9000, 42.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.279 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:08 2016
+	Iteration: 10000, 46.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.948 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:12 2016
+	Iteration: 11000, 51.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.556 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:16 2016
+	Iteration: 12000, 56.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 41.195 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:21 2016
+	Iteration: 13000, 60.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.729 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:25 2016
+	Iteration: 14000, 65.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.461 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:29 2016
+	Iteration: 15000, 70.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.03 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:34 2016
+	Iteration: 16000, 74.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.678 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:38 2016
+	Iteration: 17000, 79.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.276 second(s).
+	Estimated Finish: Wed Jan 27 17:33:58 2016.
+
+Update: Wed Jan 27 17:33:43 2016
+	Iteration: 18000, 84.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.873 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:47 2016
+	Iteration: 19000, 88.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.514 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:51 2016
+	Iteration: 20000, 93.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.132 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Update: Wed Jan 27 17:33:56 2016
+	Iteration: 21000, 98.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.754 second(s).
+	Estimated Finish: Wed Jan 27 17:33:57 2016.
+
+Finish: Wed Jan 27 17:33:58 2016
+
+0 hour(s), 1 minute(s), and 33.75 second(s).
+M21401 is composite.
+
+
+Start: M21407, Wed Jan 27 17:33:59 2016
+
+Update: Wed Jan 27 17:34:03 2016
+	Iteration: 1000, 4.67%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.342 second(s).
+	Estimated Finish: Wed Jan 27 17:35:30 2016.
+
+Update: Wed Jan 27 17:34:07 2016
+	Iteration: 2000, 9.34%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.391 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:34:12 2016
+	Iteration: 3000, 14.01%
+	Estimated time: 0 hour(s), 1 minute(s), and 20.715 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:16 2016
+	Iteration: 4000, 18.69%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.277 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:21 2016
+	Iteration: 5000, 23.36%
+	Estimated time: 0 hour(s), 1 minute(s), and 11.895 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:25 2016
+	Iteration: 6000, 28.03%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.513 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:29 2016
+	Iteration: 7000, 32.7%
+	Estimated time: 0 hour(s), 1 minute(s), and 3.218 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:34:34 2016
+	Iteration: 8000, 37.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 58.763 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:38 2016
+	Iteration: 9000, 42.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.38 second(s).
+	Estimated Finish: Wed Jan 27 17:35:32 2016.
+
+Update: Wed Jan 27 17:34:42 2016
+	Iteration: 10000, 46.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 50.111 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:34:47 2016
+	Iteration: 11000, 51.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.311 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:34:51 2016
+	Iteration: 12000, 56.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 41.259 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:34:56 2016
+	Iteration: 13000, 60.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 36.873 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:00 2016
+	Iteration: 14000, 65.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.48 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:04 2016
+	Iteration: 15000, 70.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.088 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:09 2016
+	Iteration: 16000, 74.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.748 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:13 2016
+	Iteration: 17000, 79.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.325 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:18 2016
+	Iteration: 18000, 84.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.933 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:22 2016
+	Iteration: 19000, 88.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.576 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:26 2016
+	Iteration: 20000, 93.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.254 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Update: Wed Jan 27 17:35:31 2016
+	Iteration: 21000, 98.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.788 second(s).
+	Estimated Finish: Wed Jan 27 17:35:33 2016.
+
+Finish: Wed Jan 27 17:35:33 2016
+
+0 hour(s), 1 minute(s), and 34.081 second(s).
+M21407 is composite.
+
+M21419 is composite.
+
+
+Start: M21433, Wed Jan 27 17:35:34 2016
+
+Update: Wed Jan 27 17:35:39 2016
+	Iteration: 1000, 4.67%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.658 second(s).
+	Estimated Finish: Wed Jan 27 17:37:06 2016.
+
+Update: Wed Jan 27 17:35:43 2016
+	Iteration: 2000, 9.33%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.622 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:35:47 2016
+	Iteration: 3000, 14.0%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.898 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:35:52 2016
+	Iteration: 4000, 18.66%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.559 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:35:56 2016
+	Iteration: 5000, 23.33%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.061 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:01 2016
+	Iteration: 6000, 28.0%
+	Estimated time: 0 hour(s), 1 minute(s), and 7.797 second(s).
+	Estimated Finish: Wed Jan 27 17:37:08 2016.
+
+Update: Wed Jan 27 17:36:05 2016
+	Iteration: 7000, 32.66%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.169 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:10 2016
+	Iteration: 8000, 37.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 59.025 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:14 2016
+	Iteration: 9000, 41.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 54.519 second(s).
+	Estimated Finish: Wed Jan 27 17:37:08 2016.
+
+Update: Wed Jan 27 17:36:18 2016
+	Iteration: 10000, 46.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 49.928 second(s).
+	Estimated Finish: Wed Jan 27 17:37:08 2016.
+
+Update: Wed Jan 27 17:36:23 2016
+	Iteration: 11000, 51.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 45.801 second(s).
+	Estimated Finish: Wed Jan 27 17:37:08 2016.
+
+Update: Wed Jan 27 17:36:27 2016
+	Iteration: 12000, 55.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.005 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:32 2016
+	Iteration: 13000, 60.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.527 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:36 2016
+	Iteration: 14000, 65.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 32.623 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:40 2016
+	Iteration: 15000, 69.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.228 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:45 2016
+	Iteration: 16000, 74.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 23.883 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:49 2016
+	Iteration: 17000, 79.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.753 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:54 2016
+	Iteration: 18000, 83.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.277 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:36:58 2016
+	Iteration: 19000, 88.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.844 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:37:03 2016
+	Iteration: 20000, 93.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.371 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Update: Wed Jan 27 17:37:07 2016
+	Iteration: 21000, 97.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.9 second(s).
+	Estimated Finish: Wed Jan 27 17:37:09 2016.
+
+Finish: Wed Jan 27 17:37:09 2016
+
+0 hour(s), 1 minute(s), and 34.672 second(s).
+M21433 is composite.
+
+
+Start: M21467, Wed Jan 27 17:37:10 2016
+
+Update: Wed Jan 27 17:37:14 2016
+	Iteration: 1000, 4.66%
+	Estimated time: 0 hour(s), 1 minute(s), and 27.803 second(s).
+	Estimated Finish: Wed Jan 27 17:38:42 2016.
+
+Update: Wed Jan 27 17:37:19 2016
+	Iteration: 2000, 9.32%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.499 second(s).
+	Estimated Finish: Wed Jan 27 17:38:44 2016.
+
+Update: Wed Jan 27 17:37:23 2016
+	Iteration: 3000, 13.98%
+	Estimated time: 0 hour(s), 1 minute(s), and 21.199 second(s).
+	Estimated Finish: Wed Jan 27 17:38:44 2016.
+
+Update: Wed Jan 27 17:37:28 2016
+	Iteration: 4000, 18.63%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.781 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:32 2016
+	Iteration: 5000, 23.29%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.262 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:37 2016
+	Iteration: 6000, 27.95%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.905 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:41 2016
+	Iteration: 7000, 32.61%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.277 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:45 2016
+	Iteration: 8000, 37.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 59.201 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:50 2016
+	Iteration: 9000, 41.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.516 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:54 2016
+	Iteration: 10000, 46.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.074 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:37:59 2016
+	Iteration: 11000, 51.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.746 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:03 2016
+	Iteration: 12000, 55.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.119 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:08 2016
+	Iteration: 13000, 60.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.72 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:12 2016
+	Iteration: 14000, 65.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.168 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:16 2016
+	Iteration: 15000, 69.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.338 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:21 2016
+	Iteration: 16000, 74.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.038 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:25 2016
+	Iteration: 17000, 79.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.914 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:30 2016
+	Iteration: 18000, 83.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.432 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:34 2016
+	Iteration: 19000, 88.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.995 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:39 2016
+	Iteration: 20000, 93.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.527 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Update: Wed Jan 27 17:38:43 2016
+	Iteration: 21000, 97.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.075 second(s).
+	Estimated Finish: Wed Jan 27 17:38:45 2016.
+
+Finish: Wed Jan 27 17:38:45 2016
+
+0 hour(s), 1 minute(s), and 35.129 second(s).
+M21467 is composite.
+
+
+Start: M21481, Wed Jan 27 17:38:46 2016
+
+Update: Wed Jan 27 17:38:51 2016
+	Iteration: 1000, 4.66%
+	Estimated time: 0 hour(s), 1 minute(s), and 28.15 second(s).
+	Estimated Finish: Wed Jan 27 17:40:19 2016.
+
+Update: Wed Jan 27 17:38:55 2016
+	Iteration: 2000, 9.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.989 second(s).
+	Estimated Finish: Wed Jan 27 17:40:21 2016.
+
+Update: Wed Jan 27 17:39:00 2016
+	Iteration: 3000, 13.97%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.185 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:04 2016
+	Iteration: 4000, 18.62%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.965 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:08 2016
+	Iteration: 5000, 23.28%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.275 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:13 2016
+	Iteration: 6000, 27.93%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.03 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:17 2016
+	Iteration: 7000, 32.59%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.411 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:22 2016
+	Iteration: 8000, 37.24%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.085 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:26 2016
+	Iteration: 9000, 41.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.528 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:31 2016
+	Iteration: 10000, 46.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.24 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:35 2016
+	Iteration: 11000, 51.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.661 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:40 2016
+	Iteration: 12000, 55.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.219 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:44 2016
+	Iteration: 13000, 60.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.774 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:49 2016
+	Iteration: 14000, 65.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.298 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:53 2016
+	Iteration: 15000, 69.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.853 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:39:57 2016
+	Iteration: 16000, 74.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.401 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:40:02 2016
+	Iteration: 17000, 79.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.918 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:40:06 2016
+	Iteration: 18000, 83.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.504 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:40:11 2016
+	Iteration: 19000, 88.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.095 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:40:15 2016
+	Iteration: 20000, 93.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.57 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Update: Wed Jan 27 17:40:20 2016
+	Iteration: 21000, 97.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.145 second(s).
+	Estimated Finish: Wed Jan 27 17:40:22 2016.
+
+Finish: Wed Jan 27 17:40:22 2016
+
+0 hour(s), 1 minute(s), and 35.575 second(s).
+M21481 is composite.
+
+
+Start: M21487, Wed Jan 27 17:40:23 2016
+
+Update: Wed Jan 27 17:40:27 2016
+	Iteration: 1000, 4.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 28.176 second(s).
+	Estimated Finish: Wed Jan 27 17:41:56 2016.
+
+Update: Wed Jan 27 17:40:32 2016
+	Iteration: 2000, 9.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.996 second(s).
+	Estimated Finish: Wed Jan 27 17:41:58 2016.
+
+Update: Wed Jan 27 17:40:36 2016
+	Iteration: 3000, 13.96%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.323 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:40:41 2016
+	Iteration: 4000, 18.62%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.712 second(s).
+	Estimated Finish: Wed Jan 27 17:41:58 2016.
+
+Update: Wed Jan 27 17:40:45 2016
+	Iteration: 5000, 23.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.516 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:40:50 2016
+	Iteration: 6000, 27.93%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.84 second(s).
+	Estimated Finish: Wed Jan 27 17:41:58 2016.
+
+Update: Wed Jan 27 17:40:54 2016
+	Iteration: 7000, 32.58%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.583 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:40:59 2016
+	Iteration: 8000, 37.23%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.139 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:03 2016
+	Iteration: 9000, 41.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.605 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:07 2016
+	Iteration: 10000, 46.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.198 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:12 2016
+	Iteration: 11000, 51.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.625 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:16 2016
+	Iteration: 12000, 55.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.284 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:21 2016
+	Iteration: 13000, 60.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.81 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:25 2016
+	Iteration: 14000, 65.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.25 second(s).
+	Estimated Finish: Wed Jan 27 17:41:58 2016.
+
+Update: Wed Jan 27 17:41:30 2016
+	Iteration: 15000, 69.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.945 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:34 2016
+	Iteration: 16000, 74.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.461 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:39 2016
+	Iteration: 17000, 79.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.931 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:43 2016
+	Iteration: 18000, 83.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.552 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:48 2016
+	Iteration: 19000, 88.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.075 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:52 2016
+	Iteration: 20000, 93.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.613 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Update: Wed Jan 27 17:41:56 2016
+	Iteration: 21000, 97.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.167 second(s).
+	Estimated Finish: Wed Jan 27 17:41:59 2016.
+
+Finish: Wed Jan 27 17:41:59 2016
+
+0 hour(s), 1 minute(s), and 35.577 second(s).
+M21487 is composite.
+
+
+Start: M21491, Wed Jan 27 17:42:00 2016
+
+Update: Wed Jan 27 17:42:04 2016
+	Iteration: 1000, 4.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 28.378 second(s).
+	Estimated Finish: Wed Jan 27 17:43:33 2016.
+
+Update: Wed Jan 27 17:42:09 2016
+	Iteration: 2000, 9.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.092 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:13 2016
+	Iteration: 3000, 13.96%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.229 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:17 2016
+	Iteration: 4000, 18.61%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.73 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:22 2016
+	Iteration: 5000, 23.27%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.451 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:26 2016
+	Iteration: 6000, 27.92%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.95 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:31 2016
+	Iteration: 7000, 32.57%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.688 second(s).
+	Estimated Finish: Wed Jan 27 17:43:36 2016.
+
+Update: Wed Jan 27 17:42:35 2016
+	Iteration: 8000, 37.23%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.062 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:40 2016
+	Iteration: 9000, 41.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.647 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:44 2016
+	Iteration: 10000, 46.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.066 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:49 2016
+	Iteration: 11000, 51.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.853 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:53 2016
+	Iteration: 12000, 55.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.282 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:42:58 2016
+	Iteration: 13000, 60.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.742 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:02 2016
+	Iteration: 14000, 65.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.44 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:06 2016
+	Iteration: 15000, 69.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.827 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:11 2016
+	Iteration: 16000, 74.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.446 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:15 2016
+	Iteration: 17000, 79.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 20.043 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:20 2016
+	Iteration: 18000, 83.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.535 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:24 2016
+	Iteration: 19000, 88.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.105 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:29 2016
+	Iteration: 20000, 93.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.641 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Update: Wed Jan 27 17:43:33 2016
+	Iteration: 21000, 97.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.182 second(s).
+	Estimated Finish: Wed Jan 27 17:43:35 2016.
+
+Finish: Wed Jan 27 17:43:35 2016
+
+0 hour(s), 1 minute(s), and 35.594 second(s).
+M21491 is composite.
+
+
+Start: M21493, Wed Jan 27 17:43:37 2016
+
+Update: Wed Jan 27 17:43:41 2016
+	Iteration: 1000, 4.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 28.284 second(s).
+	Estimated Finish: Wed Jan 27 17:45:09 2016.
+
+Update: Wed Jan 27 17:43:45 2016
+	Iteration: 2000, 9.31%
+	Estimated time: 0 hour(s), 1 minute(s), and 25.964 second(s).
+	Estimated Finish: Wed Jan 27 17:45:11 2016.
+
+Update: Wed Jan 27 17:43:50 2016
+	Iteration: 3000, 13.96%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.164 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:43:54 2016
+	Iteration: 4000, 18.61%
+	Estimated time: 0 hour(s), 1 minute(s), and 16.532 second(s).
+	Estimated Finish: Wed Jan 27 17:45:11 2016.
+
+Update: Wed Jan 27 17:43:59 2016
+	Iteration: 5000, 23.26%
+	Estimated time: 0 hour(s), 1 minute(s), and 12.883 second(s).
+	Estimated Finish: Wed Jan 27 17:45:11 2016.
+
+Update: Wed Jan 27 17:44:03 2016
+	Iteration: 6000, 27.92%
+	Estimated time: 0 hour(s), 1 minute(s), and 8.851 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:07 2016
+	Iteration: 7000, 32.57%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.682 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:12 2016
+	Iteration: 8000, 37.22%
+	Estimated time: 0 hour(s), 1 minute(s), and 0.071 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:16 2016
+	Iteration: 9000, 41.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.544 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:21 2016
+	Iteration: 10000, 46.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.224 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:25 2016
+	Iteration: 11000, 51.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.704 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:30 2016
+	Iteration: 12000, 55.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.329 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:34 2016
+	Iteration: 13000, 60.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.853 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:39 2016
+	Iteration: 14000, 65.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.344 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:43 2016
+	Iteration: 15000, 69.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.907 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:48 2016
+	Iteration: 16000, 74.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.477 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:52 2016
+	Iteration: 17000, 79.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 20.016 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:44:56 2016
+	Iteration: 18000, 83.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.568 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:45:01 2016
+	Iteration: 19000, 88.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.109 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:45:05 2016
+	Iteration: 20000, 93.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.633 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Update: Wed Jan 27 17:45:10 2016
+	Iteration: 21000, 97.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.197 second(s).
+	Estimated Finish: Wed Jan 27 17:45:12 2016.
+
+Finish: Wed Jan 27 17:45:12 2016
+
+0 hour(s), 1 minute(s), and 35.461 second(s).
+M21493 is composite.
+
+
+Start: M21499, Wed Jan 27 17:45:13 2016
+
+Update: Wed Jan 27 17:45:17 2016
+	Iteration: 1000, 4.65%
+	Estimated time: 0 hour(s), 1 minute(s), and 28.207 second(s).
+	Estimated Finish: Wed Jan 27 17:46:46 2016.
+
+Update: Wed Jan 27 17:45:22 2016
+	Iteration: 2000, 9.3%
+	Estimated time: 0 hour(s), 1 minute(s), and 26.049 second(s).
+	Estimated Finish: Wed Jan 27 17:46:48 2016.
+
+Update: Wed Jan 27 17:45:26 2016
+	Iteration: 3000, 13.95%
+	Estimated time: 0 hour(s), 1 minute(s), and 22.432 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:31 2016
+	Iteration: 4000, 18.61%
+	Estimated time: 0 hour(s), 1 minute(s), and 17.853 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:35 2016
+	Iteration: 5000, 23.26%
+	Estimated time: 0 hour(s), 1 minute(s), and 13.503 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:40 2016
+	Iteration: 6000, 27.91%
+	Estimated time: 0 hour(s), 1 minute(s), and 9.033 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:44 2016
+	Iteration: 7000, 32.56%
+	Estimated time: 0 hour(s), 1 minute(s), and 4.564 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:49 2016
+	Iteration: 8000, 37.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 59.936 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:53 2016
+	Iteration: 9000, 41.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 55.746 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:45:58 2016
+	Iteration: 10000, 46.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 51.205 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:02 2016
+	Iteration: 11000, 51.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 46.763 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:06 2016
+	Iteration: 12000, 55.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 42.337 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:11 2016
+	Iteration: 13000, 60.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 37.795 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:15 2016
+	Iteration: 14000, 65.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 33.386 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:20 2016
+	Iteration: 15000, 69.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 28.966 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:24 2016
+	Iteration: 16000, 74.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 24.498 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:29 2016
+	Iteration: 17000, 79.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 20.007 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:33 2016
+	Iteration: 18000, 83.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.627 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:38 2016
+	Iteration: 19000, 88.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.108 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:42 2016
+	Iteration: 20000, 93.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.686 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Update: Wed Jan 27 17:46:47 2016
+	Iteration: 21000, 97.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.221 second(s).
+	Estimated Finish: Wed Jan 27 17:46:49 2016.
+
+Finish: Wed Jan 27 17:46:49 2016
+
+0 hour(s), 1 minute(s), and 35.599 second(s).
+M21499 is composite.
+
+[]
+>>> 

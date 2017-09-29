@@ -1,0 +1,3869 @@
+Python 2.7.8 (default, Jun 30 2014, 16:03:49) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+
+Start: M12501, Thu Jan 28 17:30:39 2016
+
+Update: Thu Jan 28 17:30:40 2016
+	Iteration: 1000, 8.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.666 second(s).
+	Estimated Finish: Thu Jan 28 17:30:58 2016.
+
+Update: Thu Jan 28 17:30:42 2016
+	Iteration: 2000, 16.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.959 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:43 2016
+	Iteration: 3000, 24.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.107 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:45 2016
+	Iteration: 4000, 32.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.517 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:47 2016
+	Iteration: 5000, 40.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.054 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:48 2016
+	Iteration: 6000, 48.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.415 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:50 2016
+	Iteration: 7000, 56.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.818 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:51 2016
+	Iteration: 8000, 64.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.238 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:53 2016
+	Iteration: 9000, 72.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.609 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:55 2016
+	Iteration: 10000, 80.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.027 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:56 2016
+	Iteration: 11000, 88.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.429 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Update: Thu Jan 28 17:30:58 2016
+	Iteration: 12000, 96.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.804 second(s).
+	Estimated Finish: Thu Jan 28 17:30:59 2016.
+
+Finish: Thu Jan 28 17:30:59 2016
+
+0 hour(s), 0 minute(s), and 20.051 second(s).
+M12501 is composite.
+
+[]
+
+Start: M12503, Thu Jan 28 17:30:59 2016
+
+Update: Thu Jan 28 17:31:00 2016
+	Iteration: 1000, 8.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.462 second(s).
+	Estimated Finish: Thu Jan 28 17:31:18 2016.
+
+Update: Thu Jan 28 17:31:02 2016
+	Iteration: 2000, 16.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.162 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:04 2016
+	Iteration: 3000, 24.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.243 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:05 2016
+	Iteration: 4000, 31.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.673 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:07 2016
+	Iteration: 5000, 39.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.05 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:08 2016
+	Iteration: 6000, 47.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.548 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:10 2016
+	Iteration: 7000, 55.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.86 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:12 2016
+	Iteration: 8000, 63.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.227 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:13 2016
+	Iteration: 9000, 71.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.633 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:15 2016
+	Iteration: 10000, 79.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.022 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:16 2016
+	Iteration: 11000, 87.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.418 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Update: Thu Jan 28 17:31:18 2016
+	Iteration: 12000, 95.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.806 second(s).
+	Estimated Finish: Thu Jan 28 17:31:19 2016.
+
+Finish: Thu Jan 28 17:31:19 2016
+
+0 hour(s), 0 minute(s), and 20.102 second(s).
+M12503 is composite.
+
+[]
+
+Start: M12511, Thu Jan 28 17:31:19 2016
+
+Update: Thu Jan 28 17:31:20 2016
+	Iteration: 1000, 7.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.727 second(s).
+	Estimated Finish: Thu Jan 28 17:31:38 2016.
+
+Update: Thu Jan 28 17:31:22 2016
+	Iteration: 2000, 15.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.091 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:24 2016
+	Iteration: 3000, 23.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.275 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:25 2016
+	Iteration: 4000, 31.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.72 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:27 2016
+	Iteration: 5000, 39.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.018 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:29 2016
+	Iteration: 6000, 47.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.496 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:30 2016
+	Iteration: 7000, 55.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.867 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:32 2016
+	Iteration: 8000, 63.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.254 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:33 2016
+	Iteration: 9000, 71.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.639 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:35 2016
+	Iteration: 10000, 79.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.065 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:37 2016
+	Iteration: 11000, 87.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.428 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Update: Thu Jan 28 17:31:38 2016
+	Iteration: 12000, 95.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.824 second(s).
+	Estimated Finish: Thu Jan 28 17:31:39 2016.
+
+Finish: Thu Jan 28 17:31:39 2016
+
+0 hour(s), 0 minute(s), and 20.112 second(s).
+M12511 is composite.
+
+[]
+
+Start: M12517, Thu Jan 28 17:31:39 2016
+
+Update: Thu Jan 28 17:31:41 2016
+	Iteration: 1000, 7.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.644 second(s).
+	Estimated Finish: Thu Jan 28 17:31:58 2016.
+
+Update: Thu Jan 28 17:31:42 2016
+	Iteration: 2000, 15.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.017 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:44 2016
+	Iteration: 3000, 23.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.427 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:45 2016
+	Iteration: 4000, 31.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.568 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:47 2016
+	Iteration: 5000, 39.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.095 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:49 2016
+	Iteration: 6000, 47.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.427 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:50 2016
+	Iteration: 7000, 55.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.904 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:52 2016
+	Iteration: 8000, 63.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.236 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:53 2016
+	Iteration: 9000, 71.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.641 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:55 2016
+	Iteration: 10000, 79.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.065 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:57 2016
+	Iteration: 11000, 87.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.429 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Update: Thu Jan 28 17:31:58 2016
+	Iteration: 12000, 95.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.832 second(s).
+	Estimated Finish: Thu Jan 28 17:31:59 2016.
+
+Finish: Thu Jan 28 17:31:59 2016
+
+0 hour(s), 0 minute(s), and 20.083 second(s).
+M12517 is composite.
+
+[]
+
+Start: M12527, Thu Jan 28 17:31:59 2016
+
+Update: Thu Jan 28 17:32:01 2016
+	Iteration: 1000, 7.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.775 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:02 2016
+	Iteration: 2000, 15.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.033 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:04 2016
+	Iteration: 3000, 23.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.224 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:06 2016
+	Iteration: 4000, 31.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.677 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:07 2016
+	Iteration: 5000, 39.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.103 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:09 2016
+	Iteration: 6000, 47.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.489 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:10 2016
+	Iteration: 7000, 55.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.921 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:12 2016
+	Iteration: 8000, 63.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.234 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:14 2016
+	Iteration: 9000, 71.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.696 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:15 2016
+	Iteration: 10000, 79.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.051 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:17 2016
+	Iteration: 11000, 87.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.449 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Update: Thu Jan 28 17:32:18 2016
+	Iteration: 12000, 95.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.847 second(s).
+	Estimated Finish: Thu Jan 28 17:32:19 2016.
+
+Finish: Thu Jan 28 17:32:19 2016
+
+0 hour(s), 0 minute(s), and 20.103 second(s).
+M12527 is composite.
+
+[]
+
+Start: M12539, Thu Jan 28 17:32:19 2016
+
+Update: Thu Jan 28 17:32:21 2016
+	Iteration: 1000, 7.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.643 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:23 2016
+	Iteration: 2000, 15.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.221 second(s).
+	Estimated Finish: Thu Jan 28 17:32:40 2016.
+
+Update: Thu Jan 28 17:32:24 2016
+	Iteration: 3000, 23.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.281 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:26 2016
+	Iteration: 4000, 31.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.731 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:27 2016
+	Iteration: 5000, 39.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.055 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:29 2016
+	Iteration: 6000, 47.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.534 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:31 2016
+	Iteration: 7000, 55.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.918 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:32 2016
+	Iteration: 8000, 63.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.29 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:34 2016
+	Iteration: 9000, 71.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.673 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:35 2016
+	Iteration: 10000, 79.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.095 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:37 2016
+	Iteration: 11000, 87.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.461 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Update: Thu Jan 28 17:32:39 2016
+	Iteration: 12000, 95.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.868 second(s).
+	Estimated Finish: Thu Jan 28 17:32:39 2016.
+
+Finish: Thu Jan 28 17:32:39 2016
+
+0 hour(s), 0 minute(s), and 20.19 second(s).
+M12539 is composite.
+
+[]
+
+Start: M12541, Thu Jan 28 17:32:40 2016
+
+Update: Thu Jan 28 17:32:41 2016
+	Iteration: 1000, 7.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.75 second(s).
+	Estimated Finish: Thu Jan 28 17:32:59 2016.
+
+Update: Thu Jan 28 17:32:43 2016
+	Iteration: 2000, 15.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.098 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:44 2016
+	Iteration: 3000, 23.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.275 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:46 2016
+	Iteration: 4000, 31.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.708 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:48 2016
+	Iteration: 5000, 39.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.141 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:49 2016
+	Iteration: 6000, 47.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.472 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:51 2016
+	Iteration: 7000, 55.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.965 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:52 2016
+	Iteration: 8000, 63.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.261 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:54 2016
+	Iteration: 9000, 71.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.68 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:56 2016
+	Iteration: 10000, 79.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.104 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:57 2016
+	Iteration: 11000, 87.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.476 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Update: Thu Jan 28 17:32:59 2016
+	Iteration: 12000, 95.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.87 second(s).
+	Estimated Finish: Thu Jan 28 17:33:00 2016.
+
+Finish: Thu Jan 28 17:33:00 2016
+
+0 hour(s), 0 minute(s), and 20.185 second(s).
+M12541 is composite.
+
+[]
+
+Start: M12547, Thu Jan 28 17:33:00 2016
+
+Update: Thu Jan 28 17:33:01 2016
+	Iteration: 1000, 7.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.69 second(s).
+	Estimated Finish: Thu Jan 28 17:33:19 2016.
+
+Update: Thu Jan 28 17:33:03 2016
+	Iteration: 2000, 15.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.139 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:05 2016
+	Iteration: 3000, 23.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.418 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:06 2016
+	Iteration: 4000, 31.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.658 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:08 2016
+	Iteration: 5000, 39.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.113 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:09 2016
+	Iteration: 6000, 47.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.528 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:11 2016
+	Iteration: 7000, 55.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.908 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:13 2016
+	Iteration: 8000, 63.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.293 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:14 2016
+	Iteration: 9000, 71.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.7 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:16 2016
+	Iteration: 10000, 79.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.098 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:17 2016
+	Iteration: 11000, 87.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.492 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Update: Thu Jan 28 17:33:19 2016
+	Iteration: 12000, 95.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.878 second(s).
+	Estimated Finish: Thu Jan 28 17:33:20 2016.
+
+Finish: Thu Jan 28 17:33:20 2016
+
+0 hour(s), 0 minute(s), and 20.183 second(s).
+M12547 is composite.
+
+[]
+
+Start: M12553, Thu Jan 28 17:33:20 2016
+
+Update: Thu Jan 28 17:33:22 2016
+	Iteration: 1000, 7.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.93 second(s).
+	Estimated Finish: Thu Jan 28 17:33:39 2016.
+
+Update: Thu Jan 28 17:33:23 2016
+	Iteration: 2000, 15.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.096 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:25 2016
+	Iteration: 3000, 23.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.075 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:26 2016
+	Iteration: 4000, 31.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.864 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:28 2016
+	Iteration: 5000, 39.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.1 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:30 2016
+	Iteration: 6000, 47.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.491 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:31 2016
+	Iteration: 7000, 55.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.929 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:33 2016
+	Iteration: 8000, 63.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.308 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:34 2016
+	Iteration: 9000, 71.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.731 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:36 2016
+	Iteration: 10000, 79.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.11 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:38 2016
+	Iteration: 11000, 87.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.496 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Update: Thu Jan 28 17:33:39 2016
+	Iteration: 12000, 95.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.888 second(s).
+	Estimated Finish: Thu Jan 28 17:33:40 2016.
+
+Finish: Thu Jan 28 17:33:40 2016
+
+0 hour(s), 0 minute(s), and 20.181 second(s).
+M12553 is composite.
+
+[]
+
+Start: M12569, Thu Jan 28 17:33:40 2016
+
+Update: Thu Jan 28 17:33:42 2016
+	Iteration: 1000, 7.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.978 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:43 2016
+	Iteration: 2000, 15.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.058 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:45 2016
+	Iteration: 3000, 23.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.31 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:47 2016
+	Iteration: 4000, 31.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.83 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:48 2016
+	Iteration: 5000, 39.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.065 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:50 2016
+	Iteration: 6000, 47.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.622 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:51 2016
+	Iteration: 7000, 55.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.938 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:53 2016
+	Iteration: 8000, 63.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.338 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:55 2016
+	Iteration: 9000, 71.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.743 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:56 2016
+	Iteration: 10000, 79.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.144 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:58 2016
+	Iteration: 11000, 87.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.515 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Update: Thu Jan 28 17:33:59 2016
+	Iteration: 12000, 95.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.917 second(s).
+	Estimated Finish: Thu Jan 28 17:34:00 2016.
+
+Finish: Thu Jan 28 17:34:00 2016
+
+0 hour(s), 0 minute(s), and 20.195 second(s).
+M12569 is composite.
+
+[]
+
+Start: M12577, Thu Jan 28 17:34:00 2016
+
+Update: Thu Jan 28 17:34:02 2016
+	Iteration: 1000, 7.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.817 second(s).
+	Estimated Finish: Thu Jan 28 17:34:20 2016.
+
+Update: Thu Jan 28 17:34:04 2016
+	Iteration: 2000, 15.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.241 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:05 2016
+	Iteration: 3000, 23.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.371 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:07 2016
+	Iteration: 4000, 31.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.792 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:08 2016
+	Iteration: 5000, 39.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.214 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:10 2016
+	Iteration: 6000, 47.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.563 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:12 2016
+	Iteration: 7000, 55.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.94 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:13 2016
+	Iteration: 8000, 63.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.355 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:15 2016
+	Iteration: 9000, 71.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.784 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:16 2016
+	Iteration: 10000, 79.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.141 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:18 2016
+	Iteration: 11000, 87.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.522 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Update: Thu Jan 28 17:34:20 2016
+	Iteration: 12000, 95.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.932 second(s).
+	Estimated Finish: Thu Jan 28 17:34:21 2016.
+
+Finish: Thu Jan 28 17:34:21 2016
+
+0 hour(s), 0 minute(s), and 20.206 second(s).
+M12577 is composite.
+
+[]
+
+Start: M12583, Thu Jan 28 17:34:21 2016
+
+Update: Thu Jan 28 17:34:22 2016
+	Iteration: 1000, 7.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.023 second(s).
+	Estimated Finish: Thu Jan 28 17:34:40 2016.
+
+Update: Thu Jan 28 17:34:24 2016
+	Iteration: 2000, 15.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.166 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:25 2016
+	Iteration: 3000, 23.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.371 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:27 2016
+	Iteration: 4000, 31.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.681 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:29 2016
+	Iteration: 5000, 39.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.186 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:30 2016
+	Iteration: 6000, 47.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.533 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:32 2016
+	Iteration: 7000, 55.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.017 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:34 2016
+	Iteration: 8000, 63.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.388 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:35 2016
+	Iteration: 9000, 71.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.765 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:37 2016
+	Iteration: 10000, 79.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.13 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:38 2016
+	Iteration: 11000, 87.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.547 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Update: Thu Jan 28 17:34:40 2016
+	Iteration: 12000, 95.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.937 second(s).
+	Estimated Finish: Thu Jan 28 17:34:41 2016.
+
+Finish: Thu Jan 28 17:34:41 2016
+
+0 hour(s), 0 minute(s), and 20.209 second(s).
+M12583 is composite.
+
+[]
+
+Start: M12589, Thu Jan 28 17:34:41 2016
+
+Update: Thu Jan 28 17:34:42 2016
+	Iteration: 1000, 7.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.835 second(s).
+	Estimated Finish: Thu Jan 28 17:35:00 2016.
+
+Update: Thu Jan 28 17:34:44 2016
+	Iteration: 2000, 15.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.26 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:46 2016
+	Iteration: 3000, 23.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.381 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:47 2016
+	Iteration: 4000, 31.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.837 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:49 2016
+	Iteration: 5000, 39.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.173 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:51 2016
+	Iteration: 6000, 47.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.635 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:52 2016
+	Iteration: 7000, 55.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.982 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:54 2016
+	Iteration: 8000, 63.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.393 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:55 2016
+	Iteration: 9000, 71.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.796 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:57 2016
+	Iteration: 10000, 79.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.184 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:34:59 2016
+	Iteration: 11000, 87.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.574 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Update: Thu Jan 28 17:35:00 2016
+	Iteration: 12000, 95.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.945 second(s).
+	Estimated Finish: Thu Jan 28 17:35:01 2016.
+
+Finish: Thu Jan 28 17:35:01 2016
+
+0 hour(s), 0 minute(s), and 20.261 second(s).
+M12589 is composite.
+
+[]
+
+Start: M12601, Thu Jan 28 17:35:01 2016
+
+Update: Thu Jan 28 17:35:03 2016
+	Iteration: 1000, 7.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.935 second(s).
+	Estimated Finish: Thu Jan 28 17:35:21 2016.
+
+Update: Thu Jan 28 17:35:04 2016
+	Iteration: 2000, 15.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.258 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:06 2016
+	Iteration: 3000, 23.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.534 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:08 2016
+	Iteration: 4000, 31.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.925 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:09 2016
+	Iteration: 5000, 39.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.238 second(s).
+	Estimated Finish: Thu Jan 28 17:35:21 2016.
+
+Update: Thu Jan 28 17:35:11 2016
+	Iteration: 6000, 47.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.667 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:12 2016
+	Iteration: 7000, 55.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.023 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:14 2016
+	Iteration: 8000, 63.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.426 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:16 2016
+	Iteration: 9000, 71.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.816 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:17 2016
+	Iteration: 10000, 79.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.198 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:19 2016
+	Iteration: 11000, 87.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.584 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Update: Thu Jan 28 17:35:21 2016
+	Iteration: 12000, 95.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.972 second(s).
+	Estimated Finish: Thu Jan 28 17:35:22 2016.
+
+Finish: Thu Jan 28 17:35:22 2016
+
+0 hour(s), 0 minute(s), and 20.323 second(s).
+M12601 is composite.
+
+[]
+
+Start: M12611, Thu Jan 28 17:35:22 2016
+
+Update: Thu Jan 28 17:35:23 2016
+	Iteration: 1000, 7.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.136 second(s).
+	Estimated Finish: Thu Jan 28 17:35:41 2016.
+
+Update: Thu Jan 28 17:35:25 2016
+	Iteration: 2000, 15.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.211 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:26 2016
+	Iteration: 3000, 23.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.56 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:28 2016
+	Iteration: 4000, 31.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.898 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:30 2016
+	Iteration: 5000, 39.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.299 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:31 2016
+	Iteration: 6000, 47.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.644 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:33 2016
+	Iteration: 7000, 55.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.034 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:34 2016
+	Iteration: 8000, 63.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.438 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:36 2016
+	Iteration: 9000, 71.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.81 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:38 2016
+	Iteration: 10000, 79.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.232 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:39 2016
+	Iteration: 11000, 87.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.6 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Update: Thu Jan 28 17:35:41 2016
+	Iteration: 12000, 95.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.985 second(s).
+	Estimated Finish: Thu Jan 28 17:35:42 2016.
+
+Finish: Thu Jan 28 17:35:42 2016
+
+0 hour(s), 0 minute(s), and 20.386 second(s).
+M12611 is composite.
+
+[]
+
+Start: M12613, Thu Jan 28 17:35:42 2016
+
+Update: Thu Jan 28 17:35:44 2016
+	Iteration: 1000, 7.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.977 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:45 2016
+	Iteration: 2000, 15.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.373 second(s).
+	Estimated Finish: Thu Jan 28 17:36:03 2016.
+
+Update: Thu Jan 28 17:35:47 2016
+	Iteration: 3000, 23.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.573 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:48 2016
+	Iteration: 4000, 31.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.893 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:50 2016
+	Iteration: 5000, 39.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.272 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:52 2016
+	Iteration: 6000, 47.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.746 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:53 2016
+	Iteration: 7000, 55.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.048 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:55 2016
+	Iteration: 8000, 63.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.427 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:57 2016
+	Iteration: 9000, 71.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.849 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:35:58 2016
+	Iteration: 10000, 79.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.21 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:36:00 2016
+	Iteration: 11000, 87.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.59 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Update: Thu Jan 28 17:36:01 2016
+	Iteration: 12000, 95.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.988 second(s).
+	Estimated Finish: Thu Jan 28 17:36:02 2016.
+
+Finish: Thu Jan 28 17:36:02 2016
+
+0 hour(s), 0 minute(s), and 20.389 second(s).
+M12613 is composite.
+
+[]
+
+Start: M12619, Thu Jan 28 17:36:02 2016
+
+Update: Thu Jan 28 17:36:04 2016
+	Iteration: 1000, 7.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.114 second(s).
+	Estimated Finish: Thu Jan 28 17:36:22 2016.
+
+Update: Thu Jan 28 17:36:06 2016
+	Iteration: 2000, 15.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.288 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:07 2016
+	Iteration: 3000, 23.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.592 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:09 2016
+	Iteration: 4000, 31.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.954 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:10 2016
+	Iteration: 5000, 39.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.282 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:12 2016
+	Iteration: 6000, 47.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.729 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:14 2016
+	Iteration: 7000, 55.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.092 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:15 2016
+	Iteration: 8000, 63.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.45 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:17 2016
+	Iteration: 9000, 71.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.866 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:19 2016
+	Iteration: 10000, 79.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.227 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:20 2016
+	Iteration: 11000, 87.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.621 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Update: Thu Jan 28 17:36:22 2016
+	Iteration: 12000, 95.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.003 second(s).
+	Estimated Finish: Thu Jan 28 17:36:23 2016.
+
+Finish: Thu Jan 28 17:36:23 2016
+
+0 hour(s), 0 minute(s), and 20.428 second(s).
+M12619 is composite.
+
+[]
+
+Start: M12637, Thu Jan 28 17:36:23 2016
+
+Update: Thu Jan 28 17:36:24 2016
+	Iteration: 1000, 7.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.212 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:26 2016
+	Iteration: 2000, 15.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.349 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:28 2016
+	Iteration: 3000, 23.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.631 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:29 2016
+	Iteration: 4000, 31.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.975 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:31 2016
+	Iteration: 5000, 39.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.364 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:33 2016
+	Iteration: 6000, 47.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.745 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:34 2016
+	Iteration: 7000, 55.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.132 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:36 2016
+	Iteration: 8000, 63.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.512 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:37 2016
+	Iteration: 9000, 71.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.899 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:39 2016
+	Iteration: 10000, 79.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.259 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:41 2016
+	Iteration: 11000, 87.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.652 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Update: Thu Jan 28 17:36:42 2016
+	Iteration: 12000, 94.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.031 second(s).
+	Estimated Finish: Thu Jan 28 17:36:43 2016.
+
+Finish: Thu Jan 28 17:36:43 2016
+
+0 hour(s), 0 minute(s), and 20.451 second(s).
+M12637 is composite.
+
+[]
+
+Start: M12641, Thu Jan 28 17:36:43 2016
+
+Update: Thu Jan 28 17:36:45 2016
+	Iteration: 1000, 7.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.172 second(s).
+	Estimated Finish: Thu Jan 28 17:37:03 2016.
+
+Update: Thu Jan 28 17:36:47 2016
+	Iteration: 2000, 15.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.398 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:48 2016
+	Iteration: 3000, 23.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.667 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:50 2016
+	Iteration: 4000, 31.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.033 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:51 2016
+	Iteration: 5000, 39.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.401 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:53 2016
+	Iteration: 6000, 47.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.765 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:55 2016
+	Iteration: 7000, 55.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.155 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:56 2016
+	Iteration: 8000, 63.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.532 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:36:58 2016
+	Iteration: 9000, 71.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.906 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:37:00 2016
+	Iteration: 10000, 79.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.276 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:37:01 2016
+	Iteration: 11000, 87.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.667 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Update: Thu Jan 28 17:37:03 2016
+	Iteration: 12000, 94.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.038 second(s).
+	Estimated Finish: Thu Jan 28 17:37:04 2016.
+
+Finish: Thu Jan 28 17:37:04 2016
+
+0 hour(s), 0 minute(s), and 20.488 second(s).
+M12641 is composite.
+
+[]
+
+Start: M12647, Thu Jan 28 17:37:04 2016
+
+Update: Thu Jan 28 17:37:05 2016
+	Iteration: 1000, 7.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.146 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:07 2016
+	Iteration: 2000, 15.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.333 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:09 2016
+	Iteration: 3000, 23.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.647 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:10 2016
+	Iteration: 4000, 31.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.06 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:12 2016
+	Iteration: 5000, 39.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.419 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:14 2016
+	Iteration: 6000, 47.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.781 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:15 2016
+	Iteration: 7000, 55.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.148 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:17 2016
+	Iteration: 8000, 63.26%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.575 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:18 2016
+	Iteration: 9000, 71.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.952 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:20 2016
+	Iteration: 10000, 79.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.304 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:22 2016
+	Iteration: 11000, 86.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.676 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Update: Thu Jan 28 17:37:23 2016
+	Iteration: 12000, 94.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.053 second(s).
+	Estimated Finish: Thu Jan 28 17:37:24 2016.
+
+Finish: Thu Jan 28 17:37:24 2016
+
+0 hour(s), 0 minute(s), and 20.521 second(s).
+M12647 is composite.
+
+[]
+
+Start: M12653, Thu Jan 28 17:37:24 2016
+
+Update: Thu Jan 28 17:37:26 2016
+	Iteration: 1000, 7.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.144 second(s).
+	Estimated Finish: Thu Jan 28 17:37:44 2016.
+
+Update: Thu Jan 28 17:37:28 2016
+	Iteration: 2000, 15.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.322 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:29 2016
+	Iteration: 3000, 23.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.705 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:31 2016
+	Iteration: 4000, 31.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.07 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:33 2016
+	Iteration: 5000, 39.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.436 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:34 2016
+	Iteration: 6000, 47.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.838 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:36 2016
+	Iteration: 7000, 55.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.203 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:37 2016
+	Iteration: 8000, 63.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.58 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:39 2016
+	Iteration: 9000, 71.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.958 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:41 2016
+	Iteration: 10000, 79.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.314 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:42 2016
+	Iteration: 11000, 86.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.694 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Update: Thu Jan 28 17:37:44 2016
+	Iteration: 12000, 94.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.065 second(s).
+	Estimated Finish: Thu Jan 28 17:37:45 2016.
+
+Finish: Thu Jan 28 17:37:45 2016
+
+0 hour(s), 0 minute(s), and 20.554 second(s).
+M12653 is composite.
+
+[]
+
+Start: M12659, Thu Jan 28 17:37:45 2016
+
+Update: Thu Jan 28 17:37:47 2016
+	Iteration: 1000, 7.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.235 second(s).
+	Estimated Finish: Thu Jan 28 17:38:05 2016.
+
+Update: Thu Jan 28 17:37:48 2016
+	Iteration: 2000, 15.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.268 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:37:50 2016
+	Iteration: 3000, 23.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.677 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:37:51 2016
+	Iteration: 4000, 31.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.01 second(s).
+	Estimated Finish: Thu Jan 28 17:38:05 2016.
+
+Update: Thu Jan 28 17:37:53 2016
+	Iteration: 5000, 39.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.408 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:37:55 2016
+	Iteration: 6000, 47.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.781 second(s).
+	Estimated Finish: Thu Jan 28 17:38:05 2016.
+
+Update: Thu Jan 28 17:37:56 2016
+	Iteration: 7000, 55.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.213 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:37:58 2016
+	Iteration: 8000, 63.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.52 second(s).
+	Estimated Finish: Thu Jan 28 17:38:05 2016.
+
+Update: Thu Jan 28 17:38:00 2016
+	Iteration: 9000, 71.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.931 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:38:01 2016
+	Iteration: 10000, 79.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.334 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:38:03 2016
+	Iteration: 11000, 86.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.704 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Update: Thu Jan 28 17:38:04 2016
+	Iteration: 12000, 94.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.069 second(s).
+	Estimated Finish: Thu Jan 28 17:38:06 2016.
+
+Finish: Thu Jan 28 17:38:06 2016
+
+0 hour(s), 0 minute(s), and 20.502 second(s).
+M12659 is composite.
+
+[]
+
+Start: M12671, Thu Jan 28 17:38:06 2016
+
+Update: Thu Jan 28 17:38:07 2016
+	Iteration: 1000, 7.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.44 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:09 2016
+	Iteration: 2000, 15.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.479 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:10 2016
+	Iteration: 3000, 23.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.773 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:12 2016
+	Iteration: 4000, 31.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.064 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:14 2016
+	Iteration: 5000, 39.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.481 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:15 2016
+	Iteration: 6000, 47.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.84 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:17 2016
+	Iteration: 7000, 55.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.238 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:19 2016
+	Iteration: 8000, 63.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.581 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:20 2016
+	Iteration: 9000, 71.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.984 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:22 2016
+	Iteration: 10000, 78.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.343 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:23 2016
+	Iteration: 11000, 86.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.722 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Update: Thu Jan 28 17:38:25 2016
+	Iteration: 12000, 94.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.09 second(s).
+	Estimated Finish: Thu Jan 28 17:38:26 2016.
+
+Finish: Thu Jan 28 17:38:26 2016
+
+0 hour(s), 0 minute(s), and 20.661 second(s).
+M12671 is composite.
+
+[]
+
+Start: M12689, Thu Jan 28 17:38:26 2016
+
+Update: Thu Jan 28 17:38:28 2016
+	Iteration: 1000, 7.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.434 second(s).
+	Estimated Finish: Thu Jan 28 17:38:46 2016.
+
+Update: Thu Jan 28 17:38:29 2016
+	Iteration: 2000, 15.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.509 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:31 2016
+	Iteration: 3000, 23.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.754 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:33 2016
+	Iteration: 4000, 31.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.233 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:34 2016
+	Iteration: 5000, 39.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.548 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:36 2016
+	Iteration: 6000, 47.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.957 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:38 2016
+	Iteration: 7000, 55.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.313 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:39 2016
+	Iteration: 8000, 63.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.652 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:41 2016
+	Iteration: 9000, 70.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.039 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:43 2016
+	Iteration: 10000, 78.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.391 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:44 2016
+	Iteration: 11000, 86.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.753 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Update: Thu Jan 28 17:38:46 2016
+	Iteration: 12000, 94.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.124 second(s).
+	Estimated Finish: Thu Jan 28 17:38:47 2016.
+
+Finish: Thu Jan 28 17:38:47 2016
+
+0 hour(s), 0 minute(s), and 20.725 second(s).
+M12689 is composite.
+
+[]
+
+Start: M12697, Thu Jan 28 17:38:47 2016
+
+Update: Thu Jan 28 17:38:49 2016
+	Iteration: 1000, 7.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.446 second(s).
+	Estimated Finish: Thu Jan 28 17:39:07 2016.
+
+Update: Thu Jan 28 17:38:50 2016
+	Iteration: 2000, 15.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.49 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:38:52 2016
+	Iteration: 3000, 23.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.835 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:38:54 2016
+	Iteration: 4000, 31.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.202 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:38:55 2016
+	Iteration: 5000, 39.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.608 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:38:57 2016
+	Iteration: 6000, 47.26%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.943 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:38:58 2016
+	Iteration: 7000, 55.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.309 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:39:00 2016
+	Iteration: 8000, 63.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.666 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:39:02 2016
+	Iteration: 9000, 70.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.052 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:39:03 2016
+	Iteration: 10000, 78.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.412 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:39:05 2016
+	Iteration: 11000, 86.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.773 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Update: Thu Jan 28 17:39:07 2016
+	Iteration: 12000, 94.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.146 second(s).
+	Estimated Finish: Thu Jan 28 17:39:08 2016.
+
+Finish: Thu Jan 28 17:39:08 2016
+
+0 hour(s), 0 minute(s), and 20.741 second(s).
+M12697 is composite.
+
+[]
+
+Start: M12703, Thu Jan 28 17:39:08 2016
+
+Update: Thu Jan 28 17:39:09 2016
+	Iteration: 1000, 7.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.526 second(s).
+	Estimated Finish: Thu Jan 28 17:39:28 2016.
+
+Update: Thu Jan 28 17:39:11 2016
+	Iteration: 2000, 15.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.628 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:13 2016
+	Iteration: 3000, 23.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.874 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:14 2016
+	Iteration: 4000, 31.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.221 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:16 2016
+	Iteration: 5000, 39.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.556 second(s).
+	Estimated Finish: Thu Jan 28 17:39:28 2016.
+
+Update: Thu Jan 28 17:39:18 2016
+	Iteration: 6000, 47.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.959 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:19 2016
+	Iteration: 7000, 55.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.319 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:21 2016
+	Iteration: 8000, 62.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.718 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:22 2016
+	Iteration: 9000, 70.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.062 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:24 2016
+	Iteration: 10000, 78.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.411 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:26 2016
+	Iteration: 11000, 86.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.784 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Update: Thu Jan 28 17:39:27 2016
+	Iteration: 12000, 94.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.152 second(s).
+	Estimated Finish: Thu Jan 28 17:39:29 2016.
+
+Finish: Thu Jan 28 17:39:29 2016
+
+0 hour(s), 0 minute(s), and 20.759 second(s).
+M12703 is composite.
+
+[]
+
+Start: M12713, Thu Jan 28 17:39:29 2016
+
+Update: Thu Jan 28 17:39:30 2016
+	Iteration: 1000, 7.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.378 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:32 2016
+	Iteration: 2000, 15.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.526 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:33 2016
+	Iteration: 3000, 23.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.871 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:35 2016
+	Iteration: 4000, 31.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.211 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:37 2016
+	Iteration: 5000, 39.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.572 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:38 2016
+	Iteration: 6000, 47.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.962 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:40 2016
+	Iteration: 7000, 55.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.346 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:42 2016
+	Iteration: 8000, 62.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.715 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:43 2016
+	Iteration: 9000, 70.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.06 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:45 2016
+	Iteration: 10000, 78.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.441 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:47 2016
+	Iteration: 11000, 86.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.813 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Update: Thu Jan 28 17:39:48 2016
+	Iteration: 12000, 94.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.168 second(s).
+	Estimated Finish: Thu Jan 28 17:39:49 2016.
+
+Finish: Thu Jan 28 17:39:49 2016
+
+0 hour(s), 0 minute(s), and 20.746 second(s).
+M12713 is composite.
+
+[]
+
+Start: M12721, Thu Jan 28 17:39:49 2016
+
+Update: Thu Jan 28 17:39:51 2016
+	Iteration: 1000, 7.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.531 second(s).
+	Estimated Finish: Thu Jan 28 17:40:09 2016.
+
+Update: Thu Jan 28 17:39:53 2016
+	Iteration: 2000, 15.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.561 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:39:54 2016
+	Iteration: 3000, 23.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.942 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:39:56 2016
+	Iteration: 4000, 31.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.302 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:39:58 2016
+	Iteration: 5000, 39.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.662 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:39:59 2016
+	Iteration: 6000, 47.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.002 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:01 2016
+	Iteration: 7000, 55.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.36 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:02 2016
+	Iteration: 8000, 62.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.747 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:04 2016
+	Iteration: 9000, 70.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.121 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:06 2016
+	Iteration: 10000, 78.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.484 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:07 2016
+	Iteration: 11000, 86.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.834 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Update: Thu Jan 28 17:40:09 2016
+	Iteration: 12000, 94.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.187 second(s).
+	Estimated Finish: Thu Jan 28 17:40:10 2016.
+
+Finish: Thu Jan 28 17:40:10 2016
+
+0 hour(s), 0 minute(s), and 20.85 second(s).
+M12721 is composite.
+
+[]
+
+Start: M12739, Thu Jan 28 17:40:10 2016
+
+Update: Thu Jan 28 17:40:12 2016
+	Iteration: 1000, 7.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.665 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:14 2016
+	Iteration: 2000, 15.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.805 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:15 2016
+	Iteration: 3000, 23.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.459 second(s).
+	Estimated Finish: Thu Jan 28 17:40:32 2016.
+
+Update: Thu Jan 28 17:40:17 2016
+	Iteration: 4000, 31.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.323 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:18 2016
+	Iteration: 5000, 39.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.684 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:20 2016
+	Iteration: 6000, 47.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.126 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:22 2016
+	Iteration: 7000, 54.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.418 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:23 2016
+	Iteration: 8000, 62.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.8 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:25 2016
+	Iteration: 9000, 70.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.117 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:27 2016
+	Iteration: 10000, 78.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.506 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:28 2016
+	Iteration: 11000, 86.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.861 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Update: Thu Jan 28 17:40:30 2016
+	Iteration: 12000, 94.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.216 second(s).
+	Estimated Finish: Thu Jan 28 17:40:31 2016.
+
+Finish: Thu Jan 28 17:40:31 2016
+
+0 hour(s), 0 minute(s), and 21.015 second(s).
+M12739 is composite.
+
+[]
+
+Start: M12743, Thu Jan 28 17:40:31 2016
+
+Update: Thu Jan 28 17:40:33 2016
+	Iteration: 1000, 7.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.495 second(s).
+	Estimated Finish: Thu Jan 28 17:40:51 2016.
+
+Update: Thu Jan 28 17:40:35 2016
+	Iteration: 2000, 15.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.651 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:36 2016
+	Iteration: 3000, 23.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.988 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:38 2016
+	Iteration: 4000, 31.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.4 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:39 2016
+	Iteration: 5000, 39.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.753 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:41 2016
+	Iteration: 6000, 47.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.059 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:43 2016
+	Iteration: 7000, 54.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.447 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:44 2016
+	Iteration: 8000, 62.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.807 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:46 2016
+	Iteration: 9000, 70.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.18 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:48 2016
+	Iteration: 10000, 78.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.512 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:49 2016
+	Iteration: 11000, 86.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.872 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Update: Thu Jan 28 17:40:51 2016
+	Iteration: 12000, 94.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.221 second(s).
+	Estimated Finish: Thu Jan 28 17:40:52 2016.
+
+Finish: Thu Jan 28 17:40:52 2016
+
+0 hour(s), 0 minute(s), and 20.96 second(s).
+M12743 is composite.
+
+[]
+
+Start: M12757, Thu Jan 28 17:40:52 2016
+
+Update: Thu Jan 28 17:40:54 2016
+	Iteration: 1000, 7.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.705 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:40:56 2016
+	Iteration: 2000, 15.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.814 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:40:57 2016
+	Iteration: 3000, 23.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.041 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:40:59 2016
+	Iteration: 4000, 31.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.44 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:01 2016
+	Iteration: 5000, 39.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.745 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:02 2016
+	Iteration: 6000, 47.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.142 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:04 2016
+	Iteration: 7000, 54.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.482 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:05 2016
+	Iteration: 8000, 62.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.84 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:07 2016
+	Iteration: 9000, 70.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.195 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:09 2016
+	Iteration: 10000, 78.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.533 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:10 2016
+	Iteration: 11000, 86.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.894 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Update: Thu Jan 28 17:41:12 2016
+	Iteration: 12000, 94.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.249 second(s).
+	Estimated Finish: Thu Jan 28 17:41:13 2016.
+
+Finish: Thu Jan 28 17:41:13 2016
+
+0 hour(s), 0 minute(s), and 21.004 second(s).
+M12757 is composite.
+
+[]
+
+Start: M12763, Thu Jan 28 17:41:13 2016
+
+Update: Thu Jan 28 17:41:15 2016
+	Iteration: 1000, 7.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.809 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:17 2016
+	Iteration: 2000, 15.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.845 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:18 2016
+	Iteration: 3000, 23.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.607 second(s).
+	Estimated Finish: Thu Jan 28 17:41:35 2016.
+
+Update: Thu Jan 28 17:41:20 2016
+	Iteration: 4000, 31.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.476 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:22 2016
+	Iteration: 5000, 39.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.817 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:23 2016
+	Iteration: 6000, 47.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.125 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:25 2016
+	Iteration: 7000, 54.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.515 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:27 2016
+	Iteration: 8000, 62.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 7.859 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:28 2016
+	Iteration: 9000, 70.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.213 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:30 2016
+	Iteration: 10000, 78.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.556 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:32 2016
+	Iteration: 11000, 86.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 2.909 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Update: Thu Jan 28 17:41:33 2016
+	Iteration: 12000, 94.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.26 second(s).
+	Estimated Finish: Thu Jan 28 17:41:34 2016.
+
+Finish: Thu Jan 28 17:41:34 2016
+
+0 hour(s), 0 minute(s), and 21.096 second(s).
+M12763 is composite.
+
+[]
+
+Start: M12781, Thu Jan 28 17:41:34 2016
+
+Update: Thu Jan 28 17:41:36 2016
+	Iteration: 1000, 7.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.755 second(s).
+	Estimated Finish: Thu Jan 28 17:41:55 2016.
+
+Update: Thu Jan 28 17:41:38 2016
+	Iteration: 2000, 15.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.864 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:39 2016
+	Iteration: 3000, 23.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.745 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:41 2016
+	Iteration: 4000, 31.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 14.524 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:43 2016
+	Iteration: 5000, 39.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.321 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:44 2016
+	Iteration: 6000, 46.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.256 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:46 2016
+	Iteration: 7000, 54.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.938 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:48 2016
+	Iteration: 8000, 62.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.199 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:50 2016
+	Iteration: 9000, 70.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.492 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:51 2016
+	Iteration: 10000, 78.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.778 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:53 2016
+	Iteration: 11000, 86.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.07 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Update: Thu Jan 28 17:41:55 2016
+	Iteration: 12000, 93.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.336 second(s).
+	Estimated Finish: Thu Jan 28 17:41:56 2016.
+
+Finish: Thu Jan 28 17:41:56 2016
+
+0 hour(s), 0 minute(s), and 21.603 second(s).
+M12781 is composite.
+
+[]
+
+Start: M12791, Thu Jan 28 17:41:56 2016
+
+Update: Thu Jan 28 17:41:58 2016
+	Iteration: 1000, 7.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.877 second(s).
+	Estimated Finish: Thu Jan 28 17:42:17 2016.
+
+Update: Thu Jan 28 17:41:59 2016
+	Iteration: 2000, 15.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.978 second(s).
+	Estimated Finish: Thu Jan 28 17:42:17 2016.
+
+Update: Thu Jan 28 17:42:01 2016
+	Iteration: 3000, 23.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.674 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:03 2016
+	Iteration: 4000, 31.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.068 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:04 2016
+	Iteration: 5000, 39.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.886 second(s).
+	Estimated Finish: Thu Jan 28 17:42:17 2016.
+
+Update: Thu Jan 28 17:42:06 2016
+	Iteration: 6000, 46.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.613 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:08 2016
+	Iteration: 7000, 54.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.607 second(s).
+	Estimated Finish: Thu Jan 28 17:42:17 2016.
+
+Update: Thu Jan 28 17:42:10 2016
+	Iteration: 8000, 62.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.169 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:11 2016
+	Iteration: 9000, 70.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.293 second(s).
+	Estimated Finish: Thu Jan 28 17:42:17 2016.
+
+Update: Thu Jan 28 17:42:13 2016
+	Iteration: 10000, 78.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.792 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:15 2016
+	Iteration: 11000, 86.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.079 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Update: Thu Jan 28 17:42:16 2016
+	Iteration: 12000, 93.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.357 second(s).
+	Estimated Finish: Thu Jan 28 17:42:18 2016.
+
+Finish: Thu Jan 28 17:42:18 2016
+
+0 hour(s), 0 minute(s), and 21.618 second(s).
+M12791 is composite.
+
+[]
+
+Start: M12799, Thu Jan 28 17:42:18 2016
+
+Update: Thu Jan 28 17:42:19 2016
+	Iteration: 1000, 7.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.937 second(s).
+	Estimated Finish: Thu Jan 28 17:42:38 2016.
+
+Update: Thu Jan 28 17:42:21 2016
+	Iteration: 2000, 15.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.045 second(s).
+	Estimated Finish: Thu Jan 28 17:42:39 2016.
+
+Update: Thu Jan 28 17:42:23 2016
+	Iteration: 3000, 23.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.648 second(s).
+	Estimated Finish: Thu Jan 28 17:42:39 2016.
+
+Update: Thu Jan 28 17:42:24 2016
+	Iteration: 4000, 31.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.134 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:26 2016
+	Iteration: 5000, 39.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.43 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:28 2016
+	Iteration: 6000, 46.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.701 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:30 2016
+	Iteration: 7000, 54.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.922 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:31 2016
+	Iteration: 8000, 62.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.225 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:33 2016
+	Iteration: 9000, 70.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.546 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:35 2016
+	Iteration: 10000, 78.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.795 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:36 2016
+	Iteration: 11000, 85.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.094 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Update: Thu Jan 28 17:42:38 2016
+	Iteration: 12000, 93.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.369 second(s).
+	Estimated Finish: Thu Jan 28 17:42:40 2016.
+
+Finish: Thu Jan 28 17:42:40 2016
+
+0 hour(s), 0 minute(s), and 21.891 second(s).
+M12799 is composite.
+
+[]
+
+Start: M12809, Thu Jan 28 17:42:40 2016
+
+Update: Thu Jan 28 17:42:41 2016
+	Iteration: 1000, 7.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.859 second(s).
+	Estimated Finish: Thu Jan 28 17:43:00 2016.
+
+Update: Thu Jan 28 17:42:43 2016
+	Iteration: 2000, 15.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.986 second(s).
+	Estimated Finish: Thu Jan 28 17:43:01 2016.
+
+Update: Thu Jan 28 17:42:45 2016
+	Iteration: 3000, 23.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.803 second(s).
+	Estimated Finish: Thu Jan 28 17:43:01 2016.
+
+Update: Thu Jan 28 17:42:46 2016
+	Iteration: 4000, 31.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.107 second(s).
+	Estimated Finish: Thu Jan 28 17:43:01 2016.
+
+Update: Thu Jan 28 17:42:48 2016
+	Iteration: 5000, 39.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.377 second(s).
+	Estimated Finish: Thu Jan 28 17:43:01 2016.
+
+Update: Thu Jan 28 17:42:50 2016
+	Iteration: 6000, 46.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.739 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Update: Thu Jan 28 17:42:52 2016
+	Iteration: 7000, 54.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.933 second(s).
+	Estimated Finish: Thu Jan 28 17:43:01 2016.
+
+Update: Thu Jan 28 17:42:53 2016
+	Iteration: 8000, 62.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.276 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Update: Thu Jan 28 17:42:55 2016
+	Iteration: 9000, 70.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.559 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Update: Thu Jan 28 17:42:57 2016
+	Iteration: 10000, 78.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.812 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Update: Thu Jan 28 17:42:58 2016
+	Iteration: 11000, 85.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.101 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Update: Thu Jan 28 17:43:00 2016
+	Iteration: 12000, 93.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.392 second(s).
+	Estimated Finish: Thu Jan 28 17:43:02 2016.
+
+Finish: Thu Jan 28 17:43:02 2016
+
+0 hour(s), 0 minute(s), and 21.882 second(s).
+M12809 is composite.
+
+[]
+
+Start: M12821, Thu Jan 28 17:43:02 2016
+
+Update: Thu Jan 28 17:43:03 2016
+	Iteration: 1000, 7.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.961 second(s).
+	Estimated Finish: Thu Jan 28 17:43:22 2016.
+
+Update: Thu Jan 28 17:43:05 2016
+	Iteration: 2000, 15.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.147 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:07 2016
+	Iteration: 3000, 23.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.715 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:08 2016
+	Iteration: 4000, 31.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.146 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:10 2016
+	Iteration: 5000, 39.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.468 second(s).
+	Estimated Finish: Thu Jan 28 17:43:24 2016.
+
+Update: Thu Jan 28 17:43:12 2016
+	Iteration: 6000, 46.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.664 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:13 2016
+	Iteration: 7000, 54.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.041 second(s).
+	Estimated Finish: Thu Jan 28 17:43:24 2016.
+
+Update: Thu Jan 28 17:43:15 2016
+	Iteration: 8000, 62.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.254 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:17 2016
+	Iteration: 9000, 70.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.572 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:19 2016
+	Iteration: 10000, 78.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.835 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:20 2016
+	Iteration: 11000, 85.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.143 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Update: Thu Jan 28 17:43:22 2016
+	Iteration: 12000, 93.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.408 second(s).
+	Estimated Finish: Thu Jan 28 17:43:23 2016.
+
+Finish: Thu Jan 28 17:43:23 2016
+
+0 hour(s), 0 minute(s), and 21.895 second(s).
+M12821 is composite.
+
+[]
+
+Start: M12823, Thu Jan 28 17:43:24 2016
+
+Update: Thu Jan 28 17:43:25 2016
+	Iteration: 1000, 7.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.846 second(s).
+	Estimated Finish: Thu Jan 28 17:43:44 2016.
+
+Update: Thu Jan 28 17:43:27 2016
+	Iteration: 2000, 15.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.988 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:29 2016
+	Iteration: 3000, 23.4%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.827 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:30 2016
+	Iteration: 4000, 31.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.114 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:32 2016
+	Iteration: 5000, 39.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.534 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:34 2016
+	Iteration: 6000, 46.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.701 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:35 2016
+	Iteration: 7000, 54.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.004 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:37 2016
+	Iteration: 8000, 62.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.252 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:39 2016
+	Iteration: 9000, 70.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.587 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:41 2016
+	Iteration: 10000, 77.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.844 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:42 2016
+	Iteration: 11000, 85.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.125 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Update: Thu Jan 28 17:43:44 2016
+	Iteration: 12000, 93.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.416 second(s).
+	Estimated Finish: Thu Jan 28 17:43:45 2016.
+
+Finish: Thu Jan 28 17:43:45 2016
+
+0 hour(s), 0 minute(s), and 21.876 second(s).
+M12823 is composite.
+
+[]
+
+Start: M12829, Thu Jan 28 17:43:45 2016
+
+Update: Thu Jan 28 17:43:47 2016
+	Iteration: 1000, 7.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.962 second(s).
+	Estimated Finish: Thu Jan 28 17:44:06 2016.
+
+Update: Thu Jan 28 17:43:49 2016
+	Iteration: 2000, 15.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.041 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:50 2016
+	Iteration: 3000, 23.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.876 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:52 2016
+	Iteration: 4000, 31.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.098 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:54 2016
+	Iteration: 5000, 38.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.458 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:56 2016
+	Iteration: 6000, 46.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.739 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:57 2016
+	Iteration: 7000, 54.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 9.968 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:43:59 2016
+	Iteration: 8000, 62.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.33 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:44:01 2016
+	Iteration: 9000, 70.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.582 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:44:02 2016
+	Iteration: 10000, 77.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.849 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:44:04 2016
+	Iteration: 11000, 85.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.139 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Update: Thu Jan 28 17:44:06 2016
+	Iteration: 12000, 93.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.428 second(s).
+	Estimated Finish: Thu Jan 28 17:44:07 2016.
+
+Finish: Thu Jan 28 17:44:07 2016
+
+0 hour(s), 0 minute(s), and 21.897 second(s).
+M12829 is composite.
+
+[]
+
+Start: M12841, Thu Jan 28 17:44:07 2016
+
+Update: Thu Jan 28 17:44:09 2016
+	Iteration: 1000, 7.79%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.981 second(s).
+	Estimated Finish: Thu Jan 28 17:44:28 2016.
+
+Update: Thu Jan 28 17:44:11 2016
+	Iteration: 2000, 15.58%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.137 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:12 2016
+	Iteration: 3000, 23.36%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.848 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:14 2016
+	Iteration: 4000, 31.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.198 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:16 2016
+	Iteration: 5000, 38.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.432 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:18 2016
+	Iteration: 6000, 46.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.801 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:19 2016
+	Iteration: 7000, 54.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.0 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:21 2016
+	Iteration: 8000, 62.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.317 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:23 2016
+	Iteration: 9000, 70.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.61 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:24 2016
+	Iteration: 10000, 77.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.858 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:26 2016
+	Iteration: 11000, 85.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.17 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Update: Thu Jan 28 17:44:28 2016
+	Iteration: 12000, 93.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.438 second(s).
+	Estimated Finish: Thu Jan 28 17:44:29 2016.
+
+Finish: Thu Jan 28 17:44:29 2016
+
+0 hour(s), 0 minute(s), and 21.917 second(s).
+M12841 is composite.
+
+[]
+
+Start: M12853, Thu Jan 28 17:44:29 2016
+
+Update: Thu Jan 28 17:44:31 2016
+	Iteration: 1000, 7.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.119 second(s).
+	Estimated Finish: Thu Jan 28 17:44:50 2016.
+
+Update: Thu Jan 28 17:44:33 2016
+	Iteration: 2000, 15.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.852 second(s).
+	Estimated Finish: Thu Jan 28 17:44:52 2016.
+
+Update: Thu Jan 28 17:44:34 2016
+	Iteration: 3000, 23.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.908 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:36 2016
+	Iteration: 4000, 31.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.112 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:38 2016
+	Iteration: 5000, 38.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.578 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:40 2016
+	Iteration: 6000, 46.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.705 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:41 2016
+	Iteration: 7000, 54.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.126 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:43 2016
+	Iteration: 8000, 62.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.294 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:45 2016
+	Iteration: 9000, 70.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.643 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:46 2016
+	Iteration: 10000, 77.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.881 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:48 2016
+	Iteration: 11000, 85.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.17 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Update: Thu Jan 28 17:44:50 2016
+	Iteration: 12000, 93.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.47 second(s).
+	Estimated Finish: Thu Jan 28 17:44:51 2016.
+
+Finish: Thu Jan 28 17:44:51 2016
+
+0 hour(s), 0 minute(s), and 22.006 second(s).
+M12853 is composite.
+
+[]
+
+Start: M12889, Thu Jan 28 17:44:51 2016
+
+Update: Thu Jan 28 17:44:53 2016
+	Iteration: 1000, 7.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.367 second(s).
+	Estimated Finish: Thu Jan 28 17:45:12 2016.
+
+Update: Thu Jan 28 17:44:55 2016
+	Iteration: 2000, 15.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.686 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:44:56 2016
+	Iteration: 3000, 23.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.029 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:44:58 2016
+	Iteration: 4000, 31.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.191 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:00 2016
+	Iteration: 5000, 38.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.601 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:02 2016
+	Iteration: 6000, 46.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.815 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:03 2016
+	Iteration: 7000, 54.31%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.082 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:05 2016
+	Iteration: 8000, 62.07%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.438 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:07 2016
+	Iteration: 9000, 69.83%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.658 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:08 2016
+	Iteration: 10000, 77.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.966 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:10 2016
+	Iteration: 11000, 85.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.257 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Update: Thu Jan 28 17:45:12 2016
+	Iteration: 12000, 93.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.526 second(s).
+	Estimated Finish: Thu Jan 28 17:45:13 2016.
+
+Finish: Thu Jan 28 17:45:13 2016
+
+0 hour(s), 0 minute(s), and 22.075 second(s).
+M12889 is composite.
+
+[]
+
+Start: M12893, Thu Jan 28 17:45:13 2016
+
+Update: Thu Jan 28 17:45:15 2016
+	Iteration: 1000, 7.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.088 second(s).
+	Estimated Finish: Thu Jan 28 17:45:34 2016.
+
+Update: Thu Jan 28 17:45:17 2016
+	Iteration: 2000, 15.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.311 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:18 2016
+	Iteration: 3000, 23.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.907 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:20 2016
+	Iteration: 4000, 31.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.305 second(s).
+	Estimated Finish: Thu Jan 28 17:45:36 2016.
+
+Update: Thu Jan 28 17:45:22 2016
+	Iteration: 5000, 38.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.505 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:24 2016
+	Iteration: 6000, 46.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.863 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:25 2016
+	Iteration: 7000, 54.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.13 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:27 2016
+	Iteration: 8000, 62.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.396 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:29 2016
+	Iteration: 9000, 69.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.688 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:30 2016
+	Iteration: 10000, 77.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.95 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:32 2016
+	Iteration: 11000, 85.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.256 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Update: Thu Jan 28 17:45:34 2016
+	Iteration: 12000, 93.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.533 second(s).
+	Estimated Finish: Thu Jan 28 17:45:35 2016.
+
+Finish: Thu Jan 28 17:45:35 2016
+
+0 hour(s), 0 minute(s), and 22.004 second(s).
+M12893 is composite.
+
+[]
+
+Start: M12899, Thu Jan 28 17:45:36 2016
+
+Update: Thu Jan 28 17:45:37 2016
+	Iteration: 1000, 7.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.193 second(s).
+	Estimated Finish: Thu Jan 28 17:45:56 2016.
+
+Update: Thu Jan 28 17:45:39 2016
+	Iteration: 2000, 15.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.921 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:41 2016
+	Iteration: 3000, 23.26%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.066 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:42 2016
+	Iteration: 4000, 31.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.217 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:44 2016
+	Iteration: 5000, 38.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.649 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:46 2016
+	Iteration: 6000, 46.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.811 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:47 2016
+	Iteration: 7000, 54.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.105 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:49 2016
+	Iteration: 8000, 62.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.426 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:51 2016
+	Iteration: 9000, 69.78%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.667 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:53 2016
+	Iteration: 10000, 77.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.995 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:54 2016
+	Iteration: 11000, 85.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.257 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Update: Thu Jan 28 17:45:56 2016
+	Iteration: 12000, 93.04%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.544 second(s).
+	Estimated Finish: Thu Jan 28 17:45:58 2016.
+
+Finish: Thu Jan 28 17:45:58 2016
+
+0 hour(s), 0 minute(s), and 22.085 second(s).
+M12899 is composite.
+
+[]
+
+Start: M12907, Thu Jan 28 17:45:58 2016
+
+Update: Thu Jan 28 17:45:59 2016
+	Iteration: 1000, 7.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.277 second(s).
+	Estimated Finish: Thu Jan 28 17:46:19 2016.
+
+Update: Thu Jan 28 17:46:01 2016
+	Iteration: 2000, 15.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.924 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:03 2016
+	Iteration: 3000, 23.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.01 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:04 2016
+	Iteration: 4000, 30.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.32 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:06 2016
+	Iteration: 5000, 38.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.529 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:08 2016
+	Iteration: 6000, 46.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.949 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:10 2016
+	Iteration: 7000, 54.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.071 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:11 2016
+	Iteration: 8000, 61.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.469 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:13 2016
+	Iteration: 9000, 69.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.689 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:15 2016
+	Iteration: 10000, 77.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 4.997 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:16 2016
+	Iteration: 11000, 85.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.278 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Update: Thu Jan 28 17:46:18 2016
+	Iteration: 12000, 92.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.562 second(s).
+	Estimated Finish: Thu Jan 28 17:46:20 2016.
+
+Finish: Thu Jan 28 17:46:20 2016
+
+0 hour(s), 0 minute(s), and 22.117 second(s).
+M12907 is composite.
+
+[]
+
+Start: M12911, Thu Jan 28 17:46:20 2016
+
+Update: Thu Jan 28 17:46:21 2016
+	Iteration: 1000, 7.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.367 second(s).
+	Estimated Finish: Thu Jan 28 17:46:41 2016.
+
+Update: Thu Jan 28 17:46:23 2016
+	Iteration: 2000, 15.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.062 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:25 2016
+	Iteration: 3000, 23.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.918 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:27 2016
+	Iteration: 4000, 30.98%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.273 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:28 2016
+	Iteration: 5000, 38.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.559 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:30 2016
+	Iteration: 6000, 46.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.852 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:32 2016
+	Iteration: 7000, 54.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.191 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:33 2016
+	Iteration: 8000, 61.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.437 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:35 2016
+	Iteration: 9000, 69.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.715 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:37 2016
+	Iteration: 10000, 77.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.004 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:39 2016
+	Iteration: 11000, 85.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.272 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Update: Thu Jan 28 17:46:40 2016
+	Iteration: 12000, 92.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.57 second(s).
+	Estimated Finish: Thu Jan 28 17:46:42 2016.
+
+Finish: Thu Jan 28 17:46:42 2016
+
+0 hour(s), 0 minute(s), and 22.123 second(s).
+M12911 is composite.
+
+[]
+
+Start: M12917, Thu Jan 28 17:46:42 2016
+
+Update: Thu Jan 28 17:46:44 2016
+	Iteration: 1000, 7.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.413 second(s).
+	Estimated Finish: Thu Jan 28 17:47:03 2016.
+
+Update: Thu Jan 28 17:46:45 2016
+	Iteration: 2000, 15.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.985 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:47 2016
+	Iteration: 3000, 23.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.008 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:49 2016
+	Iteration: 4000, 30.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.302 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:50 2016
+	Iteration: 5000, 38.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.554 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:52 2016
+	Iteration: 6000, 46.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.842 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:54 2016
+	Iteration: 7000, 54.2%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.177 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:56 2016
+	Iteration: 8000, 61.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.457 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:57 2016
+	Iteration: 9000, 69.68%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.694 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:46:59 2016
+	Iteration: 10000, 77.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.035 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:47:01 2016
+	Iteration: 11000, 85.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.288 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Update: Thu Jan 28 17:47:02 2016
+	Iteration: 12000, 92.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.585 second(s).
+	Estimated Finish: Thu Jan 28 17:47:04 2016.
+
+Finish: Thu Jan 28 17:47:04 2016
+
+0 hour(s), 0 minute(s), and 22.188 second(s).
+M12917 is composite.
+
+[]
+
+Start: M12919, Thu Jan 28 17:47:04 2016
+
+Update: Thu Jan 28 17:47:06 2016
+	Iteration: 1000, 7.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.321 second(s).
+	Estimated Finish: Thu Jan 28 17:47:25 2016.
+
+Update: Thu Jan 28 17:47:08 2016
+	Iteration: 2000, 15.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.934 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:09 2016
+	Iteration: 3000, 23.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.001 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:11 2016
+	Iteration: 4000, 30.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.367 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:13 2016
+	Iteration: 5000, 38.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.565 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:14 2016
+	Iteration: 6000, 46.45%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.963 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:16 2016
+	Iteration: 7000, 54.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.062 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:18 2016
+	Iteration: 8000, 61.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.485 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:20 2016
+	Iteration: 9000, 69.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.725 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:21 2016
+	Iteration: 10000, 77.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.0 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:23 2016
+	Iteration: 11000, 85.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.301 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Update: Thu Jan 28 17:47:25 2016
+	Iteration: 12000, 92.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.578 second(s).
+	Estimated Finish: Thu Jan 28 17:47:26 2016.
+
+Finish: Thu Jan 28 17:47:26 2016
+
+0 hour(s), 0 minute(s), and 22.177 second(s).
+M12919 is composite.
+
+[]
+
+Start: M12923, Thu Jan 28 17:47:26 2016
+
+Update: Thu Jan 28 17:47:28 2016
+	Iteration: 1000, 7.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.363 second(s).
+	Estimated Finish: Thu Jan 28 17:47:47 2016.
+
+Update: Thu Jan 28 17:47:30 2016
+	Iteration: 2000, 15.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.919 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:31 2016
+	Iteration: 3000, 23.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.068 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:33 2016
+	Iteration: 4000, 30.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.33 second(s).
+	Estimated Finish: Thu Jan 28 17:47:48 2016.
+
+Update: Thu Jan 28 17:47:35 2016
+	Iteration: 5000, 38.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.62 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:37 2016
+	Iteration: 6000, 46.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.901 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:38 2016
+	Iteration: 7000, 54.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.164 second(s).
+	Estimated Finish: Thu Jan 28 17:47:48 2016.
+
+Update: Thu Jan 28 17:47:40 2016
+	Iteration: 8000, 61.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.428 second(s).
+	Estimated Finish: Thu Jan 28 17:47:48 2016.
+
+Update: Thu Jan 28 17:47:42 2016
+	Iteration: 9000, 69.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.751 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:43 2016
+	Iteration: 10000, 77.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.036 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Update: Thu Jan 28 17:47:45 2016
+	Iteration: 11000, 85.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.298 second(s).
+	Estimated Finish: Thu Jan 28 17:47:48 2016.
+
+Update: Thu Jan 28 17:47:47 2016
+	Iteration: 12000, 92.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.593 second(s).
+	Estimated Finish: Thu Jan 28 17:47:49 2016.
+
+Finish: Thu Jan 28 17:47:49 2016
+
+0 hour(s), 0 minute(s), and 22.191 second(s).
+M12923 is composite.
+
+[]
+
+Start: M12941, Thu Jan 28 17:47:49 2016
+
+Update: Thu Jan 28 17:47:50 2016
+	Iteration: 1000, 7.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.512 second(s).
+	Estimated Finish: Thu Jan 28 17:48:10 2016.
+
+Update: Thu Jan 28 17:47:52 2016
+	Iteration: 2000, 15.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.081 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:47:54 2016
+	Iteration: 3000, 23.18%
+	Estimated time: 0 hour(s), 0 minute(s), and 16.999 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:47:55 2016
+	Iteration: 4000, 30.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.334 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:47:57 2016
+	Iteration: 5000, 38.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.619 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:47:59 2016
+	Iteration: 6000, 46.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.883 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:01 2016
+	Iteration: 7000, 54.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.165 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:02 2016
+	Iteration: 8000, 61.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.503 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:04 2016
+	Iteration: 9000, 69.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.81 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:06 2016
+	Iteration: 10000, 77.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.035 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:07 2016
+	Iteration: 11000, 85.01%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.337 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Update: Thu Jan 28 17:48:09 2016
+	Iteration: 12000, 92.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.608 second(s).
+	Estimated Finish: Thu Jan 28 17:48:11 2016.
+
+Finish: Thu Jan 28 17:48:11 2016
+
+0 hour(s), 0 minute(s), and 22.184 second(s).
+M12941 is composite.
+
+[]
+
+Start: M12953, Thu Jan 28 17:48:11 2016
+
+Update: Thu Jan 28 17:48:12 2016
+	Iteration: 1000, 7.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.483 second(s).
+	Estimated Finish: Thu Jan 28 17:48:32 2016.
+
+Update: Thu Jan 28 17:48:14 2016
+	Iteration: 2000, 15.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 18.993 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:16 2016
+	Iteration: 3000, 23.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.069 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:18 2016
+	Iteration: 4000, 30.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.417 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:19 2016
+	Iteration: 5000, 38.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.663 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:21 2016
+	Iteration: 6000, 46.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.876 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:23 2016
+	Iteration: 7000, 54.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.257 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:24 2016
+	Iteration: 8000, 61.77%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.514 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:26 2016
+	Iteration: 9000, 69.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.795 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:28 2016
+	Iteration: 10000, 77.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.041 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:30 2016
+	Iteration: 11000, 84.93%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.365 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Update: Thu Jan 28 17:48:31 2016
+	Iteration: 12000, 92.65%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.64 second(s).
+	Estimated Finish: Thu Jan 28 17:48:33 2016.
+
+Finish: Thu Jan 28 17:48:33 2016
+
+0 hour(s), 0 minute(s), and 22.193 second(s).
+M12953 is composite.
+
+[]
+
+Start: M12959, Thu Jan 28 17:48:33 2016
+
+Update: Thu Jan 28 17:48:35 2016
+	Iteration: 1000, 7.72%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.457 second(s).
+	Estimated Finish: Thu Jan 28 17:48:54 2016.
+
+Update: Thu Jan 28 17:48:36 2016
+	Iteration: 2000, 15.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.091 second(s).
+	Estimated Finish: Thu Jan 28 17:48:56 2016.
+
+Update: Thu Jan 28 17:48:38 2016
+	Iteration: 3000, 23.15%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.01 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:40 2016
+	Iteration: 4000, 30.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.472 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:42 2016
+	Iteration: 5000, 38.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.666 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:43 2016
+	Iteration: 6000, 46.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.942 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:45 2016
+	Iteration: 7000, 54.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.226 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:47 2016
+	Iteration: 8000, 61.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.52 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:48 2016
+	Iteration: 9000, 69.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.825 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:50 2016
+	Iteration: 10000, 77.17%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.084 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:52 2016
+	Iteration: 11000, 84.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.35 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Update: Thu Jan 28 17:48:54 2016
+	Iteration: 12000, 92.61%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.651 second(s).
+	Estimated Finish: Thu Jan 28 17:48:55 2016.
+
+Finish: Thu Jan 28 17:48:55 2016
+
+0 hour(s), 0 minute(s), and 22.21 second(s).
+M12959 is composite.
+
+[]
+
+Start: M12967, Thu Jan 28 17:48:55 2016
+
+Update: Thu Jan 28 17:48:57 2016
+	Iteration: 1000, 7.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.554 second(s).
+	Estimated Finish: Thu Jan 28 17:49:16 2016.
+
+Update: Thu Jan 28 17:48:59 2016
+	Iteration: 2000, 15.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.039 second(s).
+	Estimated Finish: Thu Jan 28 17:49:18 2016.
+
+Update: Thu Jan 28 17:49:00 2016
+	Iteration: 3000, 23.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.073 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:02 2016
+	Iteration: 4000, 30.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.414 second(s).
+	Estimated Finish: Thu Jan 28 17:49:18 2016.
+
+Update: Thu Jan 28 17:49:04 2016
+	Iteration: 5000, 38.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.655 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:06 2016
+	Iteration: 6000, 46.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.976 second(s).
+	Estimated Finish: Thu Jan 28 17:49:18 2016.
+
+Update: Thu Jan 28 17:49:07 2016
+	Iteration: 7000, 53.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.221 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:09 2016
+	Iteration: 8000, 61.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.528 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:11 2016
+	Iteration: 9000, 69.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.815 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:12 2016
+	Iteration: 10000, 77.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.106 second(s).
+	Estimated Finish: Thu Jan 28 17:49:18 2016.
+
+Update: Thu Jan 28 17:49:14 2016
+	Iteration: 11000, 84.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.373 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Update: Thu Jan 28 17:49:16 2016
+	Iteration: 12000, 92.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.657 second(s).
+	Estimated Finish: Thu Jan 28 17:49:17 2016.
+
+Finish: Thu Jan 28 17:49:17 2016
+
+0 hour(s), 0 minute(s), and 22.213 second(s).
+M12967 is composite.
+
+[]
+
+Start: M12973, Thu Jan 28 17:49:18 2016
+
+Update: Thu Jan 28 17:49:19 2016
+	Iteration: 1000, 7.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.648 second(s).
+	Estimated Finish: Thu Jan 28 17:49:39 2016.
+
+Update: Thu Jan 28 17:49:21 2016
+	Iteration: 2000, 15.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.005 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:23 2016
+	Iteration: 3000, 23.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.064 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:24 2016
+	Iteration: 4000, 30.84%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.452 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:26 2016
+	Iteration: 5000, 38.54%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.698 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:28 2016
+	Iteration: 6000, 46.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.973 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:29 2016
+	Iteration: 7000, 53.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.232 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:31 2016
+	Iteration: 8000, 61.67%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.534 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:33 2016
+	Iteration: 9000, 69.38%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.826 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:35 2016
+	Iteration: 10000, 77.09%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.114 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:36 2016
+	Iteration: 11000, 84.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.39 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Update: Thu Jan 28 17:49:38 2016
+	Iteration: 12000, 92.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.67 second(s).
+	Estimated Finish: Thu Jan 28 17:49:40 2016.
+
+Finish: Thu Jan 28 17:49:40 2016
+
+0 hour(s), 0 minute(s), and 22.221 second(s).
+M12973 is composite.
+
+[]
+
+Start: M12979, Thu Jan 28 17:49:40 2016
+
+Update: Thu Jan 28 17:49:41 2016
+	Iteration: 1000, 7.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.693 second(s).
+	Estimated Finish: Thu Jan 28 17:50:01 2016.
+
+Update: Thu Jan 28 17:49:43 2016
+	Iteration: 2000, 15.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.06 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:45 2016
+	Iteration: 3000, 23.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.014 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:47 2016
+	Iteration: 4000, 30.82%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.48 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:48 2016
+	Iteration: 5000, 38.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.74 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:50 2016
+	Iteration: 6000, 46.23%
+	Estimated time: 0 hour(s), 0 minute(s), and 11.906 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:52 2016
+	Iteration: 7000, 53.94%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.26 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:53 2016
+	Iteration: 8000, 61.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.594 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:55 2016
+	Iteration: 9000, 69.35%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.808 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:57 2016
+	Iteration: 10000, 77.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.115 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:49:59 2016
+	Iteration: 11000, 84.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.414 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Update: Thu Jan 28 17:50:00 2016
+	Iteration: 12000, 92.46%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.676 second(s).
+	Estimated Finish: Thu Jan 28 17:50:02 2016.
+
+Finish: Thu Jan 28 17:50:02 2016
+
+0 hour(s), 0 minute(s), and 22.296 second(s).
+M12979 is composite.
+
+[]
+
+Start: M12983, Thu Jan 28 17:50:02 2016
+
+Update: Thu Jan 28 17:50:04 2016
+	Iteration: 1000, 7.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.58 second(s).
+	Estimated Finish: Thu Jan 28 17:50:23 2016.
+
+Update: Thu Jan 28 17:50:06 2016
+	Iteration: 2000, 15.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 19.143 second(s).
+	Estimated Finish: Thu Jan 28 17:50:25 2016.
+
+Update: Thu Jan 28 17:50:07 2016
+	Iteration: 3000, 23.11%
+	Estimated time: 0 hour(s), 0 minute(s), and 17.021 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:09 2016
+	Iteration: 4000, 30.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 15.451 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:11 2016
+	Iteration: 5000, 38.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 13.763 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:12 2016
+	Iteration: 6000, 46.22%
+	Estimated time: 0 hour(s), 0 minute(s), and 12.032 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:14 2016
+	Iteration: 7000, 53.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 10.237 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:16 2016
+	Iteration: 8000, 61.62%
+	Estimated time: 0 hour(s), 0 minute(s), and 8.526 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:18 2016
+	Iteration: 9000, 69.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 6.851 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:19 2016
+	Iteration: 10000, 77.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 5.146 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:21 2016
+	Iteration: 11000, 84.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 3.399 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Update: Thu Jan 28 17:50:23 2016
+	Iteration: 12000, 92.44%
+	Estimated time: 0 hour(s), 0 minute(s), and 1.695 second(s).
+	Estimated Finish: Thu Jan 28 17:50:24 2016.
+
+Finish: Thu Jan 28 17:50:24 2016
+
+0 hour(s), 0 minute(s), and 22.301 second(s).
+M12983 is composite.
+
+[]
+>>> 

@@ -1,0 +1,13 @@
+HTML -> .ics iCal file
+Version 2.1
+Nigel Hamilton
+
+Use:
+  1. Open and login to your webassign account
+  2. Open your assignment calendar
+  3. Right click and click "View page source"
+  4. Copy all the contents of the page
+  5. Open a file editor (Text Wrangler on Mac, Notepad/Notepad++ on PC) and paste
+  6. Save that file with the extension ".html", in a place you can find it later
+  7. Run htmlConvertor.py and follow instructions
+  8. Done! You have a iCal file ready for Google Calendar!

@@ -1,0 +1,2415 @@
+Python 2.7.8 (default, Jun 30 2014, 16:03:49) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+M3 is composite.
+
+[]
+M5 is composite.
+
+[]
+M7 is composite.
+
+[]
+M11 is composite.
+
+[]
+M13 is composite.
+
+[]
+
+Start: M17, Wed Jan 27 18:52:35 2016
+
+Finish: Wed Jan 27 18:52:35 2016
+
+0 hour(s), 0 minute(s), and 0.003 second(s).
+M17 is prime!
+
+['M17']
+
+Start: M19, Wed Jan 27 18:52:45 2016
+
+Finish: Wed Jan 27 18:52:45 2016
+
+0 hour(s), 0 minute(s), and 0.004 second(s).
+M19 is prime!
+
+['M17', 'M19']
+M23 is composite.
+
+['M17', 'M19']
+M29 is composite.
+
+['M17', 'M19']
+
+Start: M31, Wed Jan 27 18:52:55 2016
+
+Finish: Wed Jan 27 18:52:55 2016
+
+0 hour(s), 0 minute(s), and 0.004 second(s).
+M31 is prime!
+
+['M17', 'M19', 'M31']
+M37 is composite.
+
+['M17', 'M19', 'M31']
+M41 is composite.
+
+['M17', 'M19', 'M31']
+M43 is composite.
+
+['M17', 'M19', 'M31']
+M47 is composite.
+
+['M17', 'M19', 'M31']
+M53 is composite.
+
+['M17', 'M19', 'M31']
+
+Start: M59, Wed Jan 27 18:53:05 2016
+
+Finish: Wed Jan 27 18:53:05 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M59 is composite.
+
+['M17', 'M19', 'M31']
+
+Start: M61, Wed Jan 27 18:53:05 2016
+
+Finish: Wed Jan 27 18:53:05 2016
+
+0 hour(s), 0 minute(s), and 0.004 second(s).
+M61 is prime!
+
+['M17', 'M19', 'M31', 'M61']
+
+Start: M67, Wed Jan 27 18:53:15 2016
+
+Finish: Wed Jan 27 18:53:15 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M67 is composite.
+
+['M17', 'M19', 'M31', 'M61']
+
+Start: M71, Wed Jan 27 18:53:15 2016
+
+Finish: Wed Jan 27 18:53:15 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M71 is composite.
+
+['M17', 'M19', 'M31', 'M61']
+M73 is composite.
+
+['M17', 'M19', 'M31', 'M61']
+M79 is composite.
+
+['M17', 'M19', 'M31', 'M61']
+M83 is composite.
+
+['M17', 'M19', 'M31', 'M61']
+
+Start: M89, Wed Jan 27 18:53:15 2016
+
+Finish: Wed Jan 27 18:53:15 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M89 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89']
+M97 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89']
+
+Start: M101, Wed Jan 27 18:53:25 2016
+
+Finish: Wed Jan 27 18:53:25 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M101 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89']
+
+Start: M103, Wed Jan 27 18:53:25 2016
+
+Finish: Wed Jan 27 18:53:25 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M103 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89']
+
+Start: M107, Wed Jan 27 18:53:25 2016
+
+Finish: Wed Jan 27 18:53:25 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M107 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107']
+
+Start: M109, Wed Jan 27 18:53:35 2016
+
+Finish: Wed Jan 27 18:53:35 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M109 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107']
+M113 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107']
+
+Start: M127, Wed Jan 27 18:53:35 2016
+
+Finish: Wed Jan 27 18:53:35 2016
+
+0 hour(s), 0 minute(s), and 0.004 second(s).
+M127 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M131 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M137, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M137 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M139, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M139 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M149, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M149 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M151 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M157, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M157 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M163, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M163 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M167, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M167 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M173, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M173 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M179 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M181 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M191 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M193, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M193 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M197 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M199, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M199 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M223 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M227, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M227 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M229, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M229 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M233 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M239 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M241, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M241 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M251 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M257, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M257 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M269, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.005 second(s).
+M269 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M271, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M271 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M281 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M283 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M293, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M293 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M307, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M307 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M311, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M311 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M313, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M313 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M317 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M331, Wed Jan 27 18:53:46 2016
+
+Finish: Wed Jan 27 18:53:46 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M331 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M337 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M347, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M347 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M349, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M349 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M353, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M353 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M359 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M367 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M373, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M373 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M379, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M379 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M383, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.006 second(s).
+M383 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M389, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M389 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M397 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M401, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M401 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M409, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M409 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M419 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M421, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M421 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M431 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M433, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M433 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M439, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M439 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M443 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M449, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M449 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M457, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M457 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M461 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M463 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M467, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M467 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M479, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M479 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M487 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M491 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+M499 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M503, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.008 second(s).
+M503 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M509, Wed Jan 27 18:53:47 2016
+
+Finish: Wed Jan 27 18:53:47 2016
+
+0 hour(s), 0 minute(s), and 0.007 second(s).
+M509 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127']
+
+Start: M521, Wed Jan 27 18:53:48 2016
+
+Finish: Wed Jan 27 18:53:48 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M521 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M523, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.008 second(s).
+M523 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+M547 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+M561 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M563, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.008 second(s).
+M563 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M569, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M569 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+M571 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+M577 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M587, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.008 second(s).
+M587 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M593, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M593 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M599, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M599 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+M601 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521']
+
+Start: M607, Wed Jan 27 18:53:58 2016
+
+Finish: Wed Jan 27 18:53:58 2016
+
+0 hour(s), 0 minute(s), and 0.009 second(s).
+M607 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M613, Wed Jan 27 18:54:08 2016
+
+Finish: Wed Jan 27 18:54:08 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M613 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M617 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M619, Wed Jan 27 18:54:08 2016
+
+Finish: Wed Jan 27 18:54:08 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M619 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M631, Wed Jan 27 18:54:08 2016
+
+Finish: Wed Jan 27 18:54:08 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M631 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M641 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M643, Wed Jan 27 18:54:08 2016
+
+Finish: Wed Jan 27 18:54:08 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M643 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M647, Wed Jan 27 18:54:08 2016
+
+Finish: Wed Jan 27 18:54:08 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M647 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M653, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M653 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M661, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M661 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M673, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M673 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M677, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M677 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M683 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M691, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M691 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M701, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.01 second(s).
+M701 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M709, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M709 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M719 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M727, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M727 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M733, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M733 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M739, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.011 second(s).
+M739 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M743 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M751, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M751 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M757, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M757 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M761 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M769, Wed Jan 27 18:54:09 2016
+
+Finish: Wed Jan 27 18:54:09 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M769 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M773, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.012 second(s).
+M773 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M787, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.013 second(s).
+M787 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M797, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.076 second(s).
+M797 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M809, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.074 second(s).
+M809 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M811, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.074 second(s).
+M811 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M821, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.076 second(s).
+M821 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M823, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:10 2016
+
+0 hour(s), 0 minute(s), and 0.073 second(s).
+M823 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M827 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M829 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M839 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M853, Wed Jan 27 18:54:10 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.074 second(s).
+M853 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M857 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M859, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.074 second(s).
+M859 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M863, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M863 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M877 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M881 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M883 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M887, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.074 second(s).
+M887 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M907, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M907 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M911 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M919, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M919 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M929 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M937 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M941 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M947, Wed Jan 27 18:54:11 2016
+
+Finish: Wed Jan 27 18:54:11 2016
+
+0 hour(s), 0 minute(s), and 0.071 second(s).
+M947 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M953, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M953 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M967 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M971, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M971 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M977, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.069 second(s).
+M977 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M983, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.073 second(s).
+M983 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M991, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.072 second(s).
+M991 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M997, Wed Jan 27 18:54:12 2016
+
+Finish: Wed Jan 27 18:54:12 2016
+
+0 hour(s), 0 minute(s), and 0.073 second(s).
+M997 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1009, Wed Jan 27 18:54:12 2016
+
+Update: Wed Jan 27 18:54:12 2016
+	Iteration: 1000, 99.21%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.0 second(s).
+	Estimated Finish: Wed Jan 27 18:54:12 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1009 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1013 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1019 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1021 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1031 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1033, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:13 2016
+	Iteration: 1000, 96.9%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.0 second(s).
+	Estimated Finish: Wed Jan 27 18:54:13 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1033 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1039, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:13 2016
+	Iteration: 1000, 96.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:13 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1039 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1049 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1051, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:13 2016
+	Iteration: 1000, 95.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:13 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1051 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1061, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:13 2016
+	Iteration: 1000, 94.34%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:13 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1061 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1063, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:13 2016
+	Iteration: 1000, 94.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:13 2016.
+
+Finish: Wed Jan 27 18:54:13 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1063 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1069, Wed Jan 27 18:54:13 2016
+
+Update: Wed Jan 27 18:54:14 2016
+	Iteration: 1000, 93.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:14 2016.
+
+Finish: Wed Jan 27 18:54:14 2016
+
+0 hour(s), 0 minute(s), and 0.095 second(s).
+M1069 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1087, Wed Jan 27 18:54:14 2016
+
+Update: Wed Jan 27 18:54:14 2016
+	Iteration: 1000, 92.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.001 second(s).
+	Estimated Finish: Wed Jan 27 18:54:14 2016.
+
+Finish: Wed Jan 27 18:54:14 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1087 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1091 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1093 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1097, Wed Jan 27 18:54:14 2016
+
+Update: Wed Jan 27 18:54:14 2016
+	Iteration: 1000, 91.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.002 second(s).
+	Estimated Finish: Wed Jan 27 18:54:14 2016.
+
+Finish: Wed Jan 27 18:54:14 2016
+
+0 hour(s), 0 minute(s), and 0.087 second(s).
+M1097 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1103 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1105 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1109, Wed Jan 27 18:54:14 2016
+
+Update: Wed Jan 27 18:54:14 2016
+	Iteration: 1000, 90.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.002 second(s).
+	Estimated Finish: Wed Jan 27 18:54:14 2016.
+
+Finish: Wed Jan 27 18:54:14 2016
+
+0 hour(s), 0 minute(s), and 0.093 second(s).
+M1109 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1117 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1123, Wed Jan 27 18:54:14 2016
+
+Update: Wed Jan 27 18:54:14 2016
+	Iteration: 1000, 89.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.002 second(s).
+	Estimated Finish: Wed Jan 27 18:54:14 2016.
+
+Finish: Wed Jan 27 18:54:14 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1123 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1129 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1151, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 86.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:15 2016.
+
+Finish: Wed Jan 27 18:54:15 2016
+
+0 hour(s), 0 minute(s), and 0.089 second(s).
+M1151 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1153, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 86.81%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:15 2016.
+
+Finish: Wed Jan 27 18:54:15 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1153 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1163, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 86.06%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:15 2016.
+
+Finish: Wed Jan 27 18:54:15 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1163 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1171, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 85.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:15 2016.
+
+Finish: Wed Jan 27 18:54:15 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1171 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1181, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 84.75%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:15 2016.
+
+Finish: Wed Jan 27 18:54:15 2016
+
+0 hour(s), 0 minute(s), and 0.089 second(s).
+M1181 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1193, Wed Jan 27 18:54:15 2016
+
+Update: Wed Jan 27 18:54:15 2016
+	Iteration: 1000, 83.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.003 second(s).
+	Estimated Finish: Wed Jan 27 18:54:16 2016.
+
+Finish: Wed Jan 27 18:54:16 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1193 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1201 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1213, Wed Jan 27 18:54:16 2016
+
+Update: Wed Jan 27 18:54:16 2016
+	Iteration: 1000, 82.51%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.004 second(s).
+	Estimated Finish: Wed Jan 27 18:54:16 2016.
+
+Finish: Wed Jan 27 18:54:16 2016
+
+0 hour(s), 0 minute(s), and 0.089 second(s).
+M1213 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1217, Wed Jan 27 18:54:16 2016
+
+Update: Wed Jan 27 18:54:16 2016
+	Iteration: 1000, 82.24%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.004 second(s).
+	Estimated Finish: Wed Jan 27 18:54:16 2016.
+
+Finish: Wed Jan 27 18:54:16 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1217 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1223 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1229 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1231, Wed Jan 27 18:54:16 2016
+
+Update: Wed Jan 27 18:54:16 2016
+	Iteration: 1000, 81.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.004 second(s).
+	Estimated Finish: Wed Jan 27 18:54:16 2016.
+
+Finish: Wed Jan 27 18:54:16 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1231 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1237, Wed Jan 27 18:54:16 2016
+
+Update: Wed Jan 27 18:54:16 2016
+	Iteration: 1000, 80.91%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.005 second(s).
+	Estimated Finish: Wed Jan 27 18:54:16 2016.
+
+Finish: Wed Jan 27 18:54:16 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1237 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+M1249 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1259, Wed Jan 27 18:54:17 2016
+
+Update: Wed Jan 27 18:54:17 2016
+	Iteration: 1000, 79.49%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.005 second(s).
+	Estimated Finish: Wed Jan 27 18:54:17 2016.
+
+Finish: Wed Jan 27 18:54:17 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1259 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1277, Wed Jan 27 18:54:17 2016
+
+Update: Wed Jan 27 18:54:17 2016
+	Iteration: 1000, 78.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:17 2016.
+
+Finish: Wed Jan 27 18:54:17 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1277 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607']
+
+Start: M1279, Wed Jan 27 18:54:17 2016
+
+Update: Wed Jan 27 18:54:17 2016
+	Iteration: 1000, 78.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:17 2016.
+
+Finish: Wed Jan 27 18:54:17 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1279 is prime!
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1283, Wed Jan 27 18:54:27 2016
+
+Update: Wed Jan 27 18:54:27 2016
+	Iteration: 1000, 78.0%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:27 2016.
+
+Finish: Wed Jan 27 18:54:27 2016
+
+0 hour(s), 0 minute(s), and 0.093 second(s).
+M1283 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1289, Wed Jan 27 18:54:27 2016
+
+Update: Wed Jan 27 18:54:27 2016
+	Iteration: 1000, 77.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:27 2016.
+
+Finish: Wed Jan 27 18:54:27 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1289 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1291, Wed Jan 27 18:54:27 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 77.52%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.093 second(s).
+M1291 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1297, Wed Jan 27 18:54:28 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 77.16%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.007 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.087 second(s).
+M1297 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1301, Wed Jan 27 18:54:28 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 76.92%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1301 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1303, Wed Jan 27 18:54:28 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 76.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.007 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.09 second(s).
+M1303 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1307, Wed Jan 27 18:54:28 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 76.57%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.006 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.089 second(s).
+M1307 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1319, Wed Jan 27 18:54:28 2016
+
+Update: Wed Jan 27 18:54:28 2016
+	Iteration: 1000, 75.87%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.007 second(s).
+	Estimated Finish: Wed Jan 27 18:54:28 2016.
+
+Finish: Wed Jan 27 18:54:28 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1319 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1321 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1327, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:29 2016
+	Iteration: 1000, 75.41%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.007 second(s).
+	Estimated Finish: Wed Jan 27 18:54:29 2016.
+
+Finish: Wed Jan 27 18:54:29 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1327 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1373, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:29 2016
+	Iteration: 1000, 72.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.009 second(s).
+	Estimated Finish: Wed Jan 27 18:54:29 2016.
+
+Finish: Wed Jan 27 18:54:29 2016
+
+0 hour(s), 0 minute(s), and 0.091 second(s).
+M1373 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1381 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1399, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:29 2016
+	Iteration: 1000, 71.53%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.01 second(s).
+	Estimated Finish: Wed Jan 27 18:54:29 2016.
+
+Finish: Wed Jan 27 18:54:29 2016
+
+0 hour(s), 0 minute(s), and 0.093 second(s).
+M1399 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1423, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:29 2016
+	Iteration: 1000, 70.32%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.011 second(s).
+	Estimated Finish: Wed Jan 27 18:54:29 2016.
+
+Finish: Wed Jan 27 18:54:29 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1423 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1427, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:29 2016
+	Iteration: 1000, 70.13%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.011 second(s).
+	Estimated Finish: Wed Jan 27 18:54:29 2016.
+
+Finish: Wed Jan 27 18:54:29 2016
+
+0 hour(s), 0 minute(s), and 0.096 second(s).
+M1427 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1429, Wed Jan 27 18:54:29 2016
+
+Update: Wed Jan 27 18:54:30 2016
+	Iteration: 1000, 70.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.011 second(s).
+	Estimated Finish: Wed Jan 27 18:54:30 2016.
+
+Finish: Wed Jan 27 18:54:30 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1429 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1433 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1439 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1447 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1451 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1453 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1459 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1471, Wed Jan 27 18:54:30 2016
+
+Update: Wed Jan 27 18:54:30 2016
+	Iteration: 1000, 68.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.013 second(s).
+	Estimated Finish: Wed Jan 27 18:54:30 2016.
+
+Finish: Wed Jan 27 18:54:30 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1471 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1481 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1483, Wed Jan 27 18:54:30 2016
+
+Update: Wed Jan 27 18:54:30 2016
+	Iteration: 1000, 67.48%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.013 second(s).
+	Estimated Finish: Wed Jan 27 18:54:30 2016.
+
+Finish: Wed Jan 27 18:54:30 2016
+
+0 hour(s), 0 minute(s), and 0.096 second(s).
+M1483 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1487, Wed Jan 27 18:54:30 2016
+
+Update: Wed Jan 27 18:54:30 2016
+	Iteration: 1000, 67.29%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.014 second(s).
+	Estimated Finish: Wed Jan 27 18:54:30 2016.
+
+Finish: Wed Jan 27 18:54:30 2016
+
+0 hour(s), 0 minute(s), and 0.097 second(s).
+M1487 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1489 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1493, Wed Jan 27 18:54:31 2016
+
+Update: Wed Jan 27 18:54:31 2016
+	Iteration: 1000, 67.02%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.013 second(s).
+	Estimated Finish: Wed Jan 27 18:54:31 2016.
+
+Finish: Wed Jan 27 18:54:31 2016
+
+0 hour(s), 0 minute(s), and 0.094 second(s).
+M1493 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1499 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1511 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1523, Wed Jan 27 18:54:31 2016
+
+Update: Wed Jan 27 18:54:31 2016
+	Iteration: 1000, 65.7%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.015 second(s).
+	Estimated Finish: Wed Jan 27 18:54:31 2016.
+
+Finish: Wed Jan 27 18:54:31 2016
+
+0 hour(s), 0 minute(s), and 0.092 second(s).
+M1523 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1531 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1543, Wed Jan 27 18:54:31 2016
+
+Update: Wed Jan 27 18:54:31 2016
+	Iteration: 1000, 64.85%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.015 second(s).
+	Estimated Finish: Wed Jan 27 18:54:31 2016.
+
+Finish: Wed Jan 27 18:54:31 2016
+
+0 hour(s), 0 minute(s), and 0.099 second(s).
+M1543 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1549, Wed Jan 27 18:54:31 2016
+
+Update: Wed Jan 27 18:54:31 2016
+	Iteration: 1000, 64.6%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.016 second(s).
+	Estimated Finish: Wed Jan 27 18:54:31 2016.
+
+Finish: Wed Jan 27 18:54:31 2016
+
+0 hour(s), 0 minute(s), and 0.096 second(s).
+M1549 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1553, Wed Jan 27 18:54:32 2016
+
+Update: Wed Jan 27 18:54:32 2016
+	Iteration: 1000, 64.43%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.015 second(s).
+	Estimated Finish: Wed Jan 27 18:54:32 2016.
+
+Finish: Wed Jan 27 18:54:32 2016
+
+0 hour(s), 0 minute(s), and 0.096 second(s).
+M1553 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1559 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1567, Wed Jan 27 18:54:32 2016
+
+Update: Wed Jan 27 18:54:32 2016
+	Iteration: 1000, 63.86%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.017 second(s).
+	Estimated Finish: Wed Jan 27 18:54:32 2016.
+
+Finish: Wed Jan 27 18:54:32 2016
+
+0 hour(s), 0 minute(s), and 0.097 second(s).
+M1567 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1571, Wed Jan 27 18:54:32 2016
+
+Update: Wed Jan 27 18:54:32 2016
+	Iteration: 1000, 63.69%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.017 second(s).
+	Estimated Finish: Wed Jan 27 18:54:32 2016.
+
+Finish: Wed Jan 27 18:54:32 2016
+
+0 hour(s), 0 minute(s), and 0.098 second(s).
+M1571 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1579, Wed Jan 27 18:54:32 2016
+
+Update: Wed Jan 27 18:54:32 2016
+	Iteration: 1000, 63.37%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.017 second(s).
+	Estimated Finish: Wed Jan 27 18:54:32 2016.
+
+Finish: Wed Jan 27 18:54:32 2016
+
+0 hour(s), 0 minute(s), and 0.099 second(s).
+M1579 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1583 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1597, Wed Jan 27 18:54:32 2016
+
+Update: Wed Jan 27 18:54:32 2016
+	Iteration: 1000, 62.66%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.019 second(s).
+	Estimated Finish: Wed Jan 27 18:54:32 2016.
+
+Finish: Wed Jan 27 18:54:32 2016
+
+0 hour(s), 0 minute(s), and 0.095 second(s).
+M1597 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1601, Wed Jan 27 18:54:33 2016
+
+Update: Wed Jan 27 18:54:33 2016
+	Iteration: 1000, 62.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.018 second(s).
+	Estimated Finish: Wed Jan 27 18:54:33 2016.
+
+Finish: Wed Jan 27 18:54:33 2016
+
+0 hour(s), 0 minute(s), and 0.1 second(s).
+M1601 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1607 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1609, Wed Jan 27 18:54:33 2016
+
+Update: Wed Jan 27 18:54:33 2016
+	Iteration: 1000, 62.19%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.019 second(s).
+	Estimated Finish: Wed Jan 27 18:54:33 2016.
+
+Finish: Wed Jan 27 18:54:33 2016
+
+0 hour(s), 0 minute(s), and 0.1 second(s).
+M1609 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1613, Wed Jan 27 18:54:33 2016
+
+Update: Wed Jan 27 18:54:33 2016
+	Iteration: 1000, 62.03%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.019 second(s).
+	Estimated Finish: Wed Jan 27 18:54:33 2016.
+
+Finish: Wed Jan 27 18:54:33 2016
+
+0 hour(s), 0 minute(s), and 0.098 second(s).
+M1613 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1619, Wed Jan 27 18:54:33 2016
+
+Update: Wed Jan 27 18:54:33 2016
+	Iteration: 1000, 61.8%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.019 second(s).
+	Estimated Finish: Wed Jan 27 18:54:33 2016.
+
+Finish: Wed Jan 27 18:54:33 2016
+
+0 hour(s), 0 minute(s), and 0.099 second(s).
+M1619 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1621, Wed Jan 27 18:54:33 2016
+
+Update: Wed Jan 27 18:54:33 2016
+	Iteration: 1000, 61.73%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.02 second(s).
+	Estimated Finish: Wed Jan 27 18:54:33 2016.
+
+Finish: Wed Jan 27 18:54:33 2016
+
+0 hour(s), 0 minute(s), and 0.101 second(s).
+M1621 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1627, Wed Jan 27 18:54:34 2016
+
+Update: Wed Jan 27 18:54:34 2016
+	Iteration: 1000, 61.5%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.019 second(s).
+	Estimated Finish: Wed Jan 27 18:54:34 2016.
+
+Finish: Wed Jan 27 18:54:34 2016
+
+0 hour(s), 0 minute(s), and 0.1 second(s).
+M1627 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1637, Wed Jan 27 18:54:34 2016
+
+Update: Wed Jan 27 18:54:34 2016
+	Iteration: 1000, 61.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.02 second(s).
+	Estimated Finish: Wed Jan 27 18:54:34 2016.
+
+Finish: Wed Jan 27 18:54:34 2016
+
+0 hour(s), 0 minute(s), and 0.1 second(s).
+M1637 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1657, Wed Jan 27 18:54:34 2016
+
+Update: Wed Jan 27 18:54:34 2016
+	Iteration: 1000, 60.39%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.021 second(s).
+	Estimated Finish: Wed Jan 27 18:54:34 2016.
+
+Finish: Wed Jan 27 18:54:34 2016
+
+0 hour(s), 0 minute(s), and 0.101 second(s).
+M1657 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1663 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1667 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1669, Wed Jan 27 18:54:34 2016
+
+Update: Wed Jan 27 18:54:34 2016
+	Iteration: 1000, 59.95%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.022 second(s).
+	Estimated Finish: Wed Jan 27 18:54:34 2016.
+
+Finish: Wed Jan 27 18:54:34 2016
+
+0 hour(s), 0 minute(s), and 0.099 second(s).
+M1669 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1693 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1697, Wed Jan 27 18:54:34 2016
+
+Update: Wed Jan 27 18:54:34 2016
+	Iteration: 1000, 58.96%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.024 second(s).
+	Estimated Finish: Wed Jan 27 18:54:35 2016.
+
+Finish: Wed Jan 27 18:54:35 2016
+
+0 hour(s), 0 minute(s), and 0.101 second(s).
+M1697 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1699, Wed Jan 27 18:54:35 2016
+
+Update: Wed Jan 27 18:54:35 2016
+	Iteration: 1000, 58.89%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.024 second(s).
+	Estimated Finish: Wed Jan 27 18:54:35 2016.
+
+Finish: Wed Jan 27 18:54:35 2016
+
+0 hour(s), 0 minute(s), and 0.101 second(s).
+M1699 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1709, Wed Jan 27 18:54:35 2016
+
+Update: Wed Jan 27 18:54:35 2016
+	Iteration: 1000, 58.55%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.023 second(s).
+	Estimated Finish: Wed Jan 27 18:54:35 2016.
+
+Finish: Wed Jan 27 18:54:35 2016
+
+0 hour(s), 0 minute(s), and 0.101 second(s).
+M1709 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1721, Wed Jan 27 18:54:35 2016
+
+Update: Wed Jan 27 18:54:35 2016
+	Iteration: 1000, 58.14%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.025 second(s).
+	Estimated Finish: Wed Jan 27 18:54:35 2016.
+
+Finish: Wed Jan 27 18:54:35 2016
+
+0 hour(s), 0 minute(s), and 0.106 second(s).
+M1721 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1723 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1729 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1733, Wed Jan 27 18:54:35 2016
+
+Update: Wed Jan 27 18:54:35 2016
+	Iteration: 1000, 57.74%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.026 second(s).
+	Estimated Finish: Wed Jan 27 18:54:35 2016.
+
+Finish: Wed Jan 27 18:54:35 2016
+
+0 hour(s), 0 minute(s), and 0.103 second(s).
+M1733 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1741, Wed Jan 27 18:54:36 2016
+
+Update: Wed Jan 27 18:54:36 2016
+	Iteration: 1000, 57.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.027 second(s).
+	Estimated Finish: Wed Jan 27 18:54:36 2016.
+
+Finish: Wed Jan 27 18:54:36 2016
+
+0 hour(s), 0 minute(s), and 0.108 second(s).
+M1741 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1747, Wed Jan 27 18:54:36 2016
+
+Update: Wed Jan 27 18:54:36 2016
+	Iteration: 1000, 57.27%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.027 second(s).
+	Estimated Finish: Wed Jan 27 18:54:36 2016.
+
+Finish: Wed Jan 27 18:54:36 2016
+
+0 hour(s), 0 minute(s), and 0.106 second(s).
+M1747 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1753, Wed Jan 27 18:54:36 2016
+
+Update: Wed Jan 27 18:54:36 2016
+	Iteration: 1000, 57.08%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.027 second(s).
+	Estimated Finish: Wed Jan 27 18:54:36 2016.
+
+Finish: Wed Jan 27 18:54:36 2016
+
+0 hour(s), 0 minute(s), and 0.102 second(s).
+M1753 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1759, Wed Jan 27 18:54:36 2016
+
+Update: Wed Jan 27 18:54:36 2016
+	Iteration: 1000, 56.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.027 second(s).
+	Estimated Finish: Wed Jan 27 18:54:36 2016.
+
+Finish: Wed Jan 27 18:54:36 2016
+
+0 hour(s), 0 minute(s), and 0.106 second(s).
+M1759 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1777 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1783, Wed Jan 27 18:54:36 2016
+
+Update: Wed Jan 27 18:54:36 2016
+	Iteration: 1000, 56.12%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.029 second(s).
+	Estimated Finish: Wed Jan 27 18:54:36 2016.
+
+Finish: Wed Jan 27 18:54:36 2016
+
+0 hour(s), 0 minute(s), and 0.103 second(s).
+M1783 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1787, Wed Jan 27 18:54:37 2016
+
+Update: Wed Jan 27 18:54:37 2016
+	Iteration: 1000, 55.99%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.029 second(s).
+	Estimated Finish: Wed Jan 27 18:54:37 2016.
+
+Finish: Wed Jan 27 18:54:37 2016
+
+0 hour(s), 0 minute(s), and 0.108 second(s).
+M1787 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1789 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1801 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1811 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1823, Wed Jan 27 18:54:37 2016
+
+Update: Wed Jan 27 18:54:37 2016
+	Iteration: 1000, 54.88%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.032 second(s).
+	Estimated Finish: Wed Jan 27 18:54:37 2016.
+
+Finish: Wed Jan 27 18:54:37 2016
+
+0 hour(s), 0 minute(s), and 0.107 second(s).
+M1823 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1831, Wed Jan 27 18:54:37 2016
+
+Update: Wed Jan 27 18:54:37 2016
+	Iteration: 1000, 54.64%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.033 second(s).
+	Estimated Finish: Wed Jan 27 18:54:37 2016.
+
+Finish: Wed Jan 27 18:54:37 2016
+
+0 hour(s), 0 minute(s), and 0.112 second(s).
+M1831 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1847 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1861, Wed Jan 27 18:54:37 2016
+
+Update: Wed Jan 27 18:54:37 2016
+	Iteration: 1000, 53.76%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.034 second(s).
+	Estimated Finish: Wed Jan 27 18:54:37 2016.
+
+Finish: Wed Jan 27 18:54:37 2016
+
+0 hour(s), 0 minute(s), and 0.112 second(s).
+M1861 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1867, Wed Jan 27 18:54:38 2016
+
+Update: Wed Jan 27 18:54:38 2016
+	Iteration: 1000, 53.59%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.036 second(s).
+	Estimated Finish: Wed Jan 27 18:54:38 2016.
+
+Finish: Wed Jan 27 18:54:38 2016
+
+0 hour(s), 0 minute(s), and 0.113 second(s).
+M1867 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1871 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1873, Wed Jan 27 18:54:38 2016
+
+Update: Wed Jan 27 18:54:38 2016
+	Iteration: 1000, 53.42%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.035 second(s).
+	Estimated Finish: Wed Jan 27 18:54:38 2016.
+
+Finish: Wed Jan 27 18:54:38 2016
+
+0 hour(s), 0 minute(s), and 0.113 second(s).
+M1873 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1877 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1879, Wed Jan 27 18:54:38 2016
+
+Update: Wed Jan 27 18:54:38 2016
+	Iteration: 1000, 53.25%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.036 second(s).
+	Estimated Finish: Wed Jan 27 18:54:38 2016.
+
+Finish: Wed Jan 27 18:54:38 2016
+
+0 hour(s), 0 minute(s), and 0.109 second(s).
+M1879 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1889, Wed Jan 27 18:54:38 2016
+
+Update: Wed Jan 27 18:54:38 2016
+	Iteration: 1000, 52.97%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.036 second(s).
+	Estimated Finish: Wed Jan 27 18:54:38 2016.
+
+Finish: Wed Jan 27 18:54:38 2016
+
+0 hour(s), 0 minute(s), and 0.114 second(s).
+M1889 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1901, Wed Jan 27 18:54:39 2016
+
+Update: Wed Jan 27 18:54:39 2016
+	Iteration: 1000, 52.63%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.038 second(s).
+	Estimated Finish: Wed Jan 27 18:54:39 2016.
+
+Finish: Wed Jan 27 18:54:39 2016
+
+0 hour(s), 0 minute(s), and 0.109 second(s).
+M1901 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1907, Wed Jan 27 18:54:39 2016
+
+Update: Wed Jan 27 18:54:39 2016
+	Iteration: 1000, 52.47%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.039 second(s).
+	Estimated Finish: Wed Jan 27 18:54:39 2016.
+
+Finish: Wed Jan 27 18:54:39 2016
+
+0 hour(s), 0 minute(s), and 0.113 second(s).
+M1907 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1913, Wed Jan 27 18:54:39 2016
+
+Update: Wed Jan 27 18:54:39 2016
+	Iteration: 1000, 52.3%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.039 second(s).
+	Estimated Finish: Wed Jan 27 18:54:39 2016.
+
+Finish: Wed Jan 27 18:54:39 2016
+
+0 hour(s), 0 minute(s), and 0.117 second(s).
+M1913 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1931 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1949, Wed Jan 27 18:54:39 2016
+
+Update: Wed Jan 27 18:54:39 2016
+	Iteration: 1000, 51.33%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.041 second(s).
+	Estimated Finish: Wed Jan 27 18:54:39 2016.
+
+Finish: Wed Jan 27 18:54:39 2016
+
+0 hour(s), 0 minute(s), and 0.118 second(s).
+M1949 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1951, Wed Jan 27 18:54:39 2016
+
+Update: Wed Jan 27 18:54:40 2016
+	Iteration: 1000, 51.28%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.042 second(s).
+	Estimated Finish: Wed Jan 27 18:54:40 2016.
+
+Finish: Wed Jan 27 18:54:40 2016
+
+0 hour(s), 0 minute(s), and 0.116 second(s).
+M1951 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1973, Wed Jan 27 18:54:40 2016
+
+Update: Wed Jan 27 18:54:40 2016
+	Iteration: 1000, 50.71%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.044 second(s).
+	Estimated Finish: Wed Jan 27 18:54:40 2016.
+
+Finish: Wed Jan 27 18:54:40 2016
+
+0 hour(s), 0 minute(s), and 0.118 second(s).
+M1973 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1979, Wed Jan 27 18:54:40 2016
+
+Update: Wed Jan 27 18:54:40 2016
+	Iteration: 1000, 50.56%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.044 second(s).
+	Estimated Finish: Wed Jan 27 18:54:40 2016.
+
+Finish: Wed Jan 27 18:54:40 2016
+
+0 hour(s), 0 minute(s), and 0.115 second(s).
+M1979 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1987 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+M1993 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1997, Wed Jan 27 18:54:40 2016
+
+Update: Wed Jan 27 18:54:40 2016
+	Iteration: 1000, 50.1%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.045 second(s).
+	Estimated Finish: Wed Jan 27 18:54:40 2016.
+
+Finish: Wed Jan 27 18:54:40 2016
+
+0 hour(s), 0 minute(s), and 0.118 second(s).
+M1997 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+
+Start: M1999, Wed Jan 27 18:54:41 2016
+
+Update: Wed Jan 27 18:54:41 2016
+	Iteration: 1000, 50.05%
+	Estimated time: 0 hour(s), 0 minute(s), and 0.046 second(s).
+	Estimated Finish: Wed Jan 27 18:54:41 2016.
+
+Finish: Wed Jan 27 18:54:41 2016
+
+0 hour(s), 0 minute(s), and 0.12 second(s).
+M1999 is composite.
+
+['M17', 'M19', 'M31', 'M61', 'M89', 'M107', 'M127', 'M521', 'M607', 'M1279']
+>>> 
