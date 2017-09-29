@@ -1,2 +1,26 @@
-.idea
+# .gitignore #
+##############
+
+# PyCharm #
+###########
+.idea/
+
+# Python #
+##########
 *.pyc
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# OS Generated Files #
+######################
+.DS_Store
+.DS_Store?
