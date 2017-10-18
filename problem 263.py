@@ -1,8 +1,8 @@
 from math import sqrt
 
-def main():
-    engineerNums = [3]
-    num = 5
+def sexyPrimes(startNum):
+    engineerNums = []
+    num = startNum
     dif = 6
     while len(engineerNums) < 4:
         if prime(num):
@@ -37,7 +37,6 @@ def factors(num):
         num = num/2
     div = 3
     maxcheck = sqrt(num)
-    print(maxcheck)
     while div < maxcheck:
         if num % div == 0:
             facts.append(div)
@@ -47,4 +46,30 @@ def factors(num):
     facts.append(num)
     return facts
 
-main()
+def practical(num):
+    facts = factors(num)
+    dd = True
+    powerOf2 = facts.count(2)
+    maxget = 2**(powerOf2+1)
+    for i in range(powerOf2):
+        facts.remove(2)
+    for factor in facts:
+        if factor > maxget:
+            dd = False
+            break
+        else:
+            maxget = maxget*factor
+    return dd
+
+def main(n):
+    engineersPara = []
+    while len(engineersPara) > 1:
+        if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
+            primes = sexyPrimes(n-9)
+            print primes
+            if primes[0] == n-9:
+                engineersPara.append(n)
+        n += 2
+    print engineersPara
+
+main(200)
