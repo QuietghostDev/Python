@@ -1,40 +1,24 @@
-from math import sqrt
+# Problem 263 "Engineer's Paradise"
+# Nigel Hamilton and Giza Molenaar
 
+from math import sqrt
+from time import time
+
+# Finds whether there is triple pair around n
 def sexyPrimes(startNum):
-    triplePair = []
     num = startNum-9
-    if not prime(num):
-        return False
-    else:
-        if prime(num+2) or prime(num+4):
-            return False
-        else:
-            if not prime(num+6):
-                return False
-            else:
-                if prime(num+8) or prime(num+10):
-                    return False
-                else:
-                    if not prime(num+12):
-                        return False
-                    else:
-                        if prime(num+14) or prime(num+16):
-                            return False
-                        else:
-                            if prime(num+18):
-                                return True
-                            else:
-                                return False
-    dif = 6
+    last = num-6
     for n in range(num, num+19, 2):
-        if prime(num):
-            last = prime
+        dif = n-last
+        if prime(n):
+            last = n
             if dif != 6:
                 return False
-        num += 2
-        dif = num-last
+        else:
+            return False
     return True
 
+# Simple Prime Checker
 def prime(testnum):
     prime = True
     div = 3
@@ -48,11 +32,12 @@ def prime(testnum):
             break
     return prime
 
+# Prime Factorization
 def factors(num):
     facts = [1]
     while num % 2 == 0:
         facts.append(2)
-        num = num/2
+        num /= 2
     div = 3
     maxcheck = sqrt(num)
     while div < maxcheck:
@@ -64,35 +49,38 @@ def factors(num):
     facts.append(num)
     return facts
 
+# Returns whether number is practical
 def practical(num):
     facts = factors(num)
-    dd = True
     powerOf2 = facts.count(2)
     maxget = 2**(powerOf2+1)
     for i in range(powerOf2):
         facts.remove(2)
     for factor in facts:
         if factor > maxget:
-            dd = False
-            break
-        else:
-            maxget = maxget*factor
-    return dd
+            return False
+        maxget *= factor
+    return True
+
 
 def main(n):
     engineersPara = []
     alt = -1
+    timeStart = time()
     while len(engineersPara) < 1:
         alt *= -1
+        if n%1000000 == 0:
+            print(n)
         if sexyPrimes(n):
-            print n
             if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
                 engineersPara.append(n)
-                print n
         if alt == 1:
             n += 20
         else:
             n += 40
-    print engineersPara
+    timeEnd = time()
+    timeElapsed = timeEnd-timeStart
+    print(round(timeElapsed, 3))
+    print(engineersPara)
 
 main(200)
