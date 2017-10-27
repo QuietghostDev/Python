@@ -1,21 +1,23 @@
 from math import sqrt
 
 def sexyPrimes(startNum):
-    engineerNums = []
-    num = startNum
+    triplePair = []
+    num = startNum-9
+    if not prime(num):
+        return False
     dif = 6
-    while len(engineerNums) < 4:
+    while len(triplePair) < 4:
         if prime(num):
             if dif == 6:
-                engineerNums.append(num)
+                triplePair.append(num)
             else:
-                engineerNums = []
+                return False
         num += 2
-        if len(engineerNums) == 0:
+        if len(triplePair) == 0:
             dif = 6
         else:
-            dif = num-engineerNums[-1]
-    return engineerNums
+            dif = num-triplePair[-1]
+    return True
 
 def prime(testnum):
     prime = True
@@ -66,9 +68,9 @@ def main(n):
     alt = -1
     while len(engineersPara) < 1:
         alt *= -1
-        if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
-            primes = sexyPrimes(n-9)
-            if primes[0] == n-9:
+        if sexyPrimes(n):
+            print n
+            if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
                 engineersPara.append(n)
                 print n
         if alt == 1:
