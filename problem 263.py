@@ -5,6 +5,26 @@ def sexyPrimes(startNum):
     num = startNum-9
     if not prime(num):
         return False
+    else:
+        if prime(num+2) or prime(num+4):
+            return False
+        else:
+            if not prime(num+6):
+                return False
+            else:
+                if prime(num+8) or prime(num+10):
+                    return False
+                else:
+                    if not prime(num+12):
+                        return False
+                    else:
+                        if prime(num+14) or prime(num+16):
+                            return False
+                        else:
+                            if prime(num+18):
+                                return True
+                            else:
+                                return False
     dif = 6
     while len(triplePair) < 4:
         if prime(num):
