@@ -15,7 +15,7 @@ def sexyPrimes(startNum):
             dif = 6
         else:
             dif = num-engineerNums[-1]
-    print engineerNums
+    return engineerNums
 
 def prime(testnum):
     prime = True
@@ -63,13 +63,18 @@ def practical(num):
 
 def main(n):
     engineersPara = []
-    while len(engineersPara) > 1:
+    alt = -1
+    while len(engineersPara) < 1:
+        alt *= -1
         if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
             primes = sexyPrimes(n-9)
-            print primes
             if primes[0] == n-9:
                 engineersPara.append(n)
-        n += 2
+                print n
+        if alt == 1:
+            n += 20
+        else:
+            n += 40
     print engineersPara
 
 main(200)
