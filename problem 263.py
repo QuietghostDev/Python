@@ -26,17 +26,13 @@ def sexyPrimes(startNum):
                             else:
                                 return False
     dif = 6
-    while len(triplePair) < 4:
+    for n in range(num, num+19, 2):
         if prime(num):
-            if dif == 6:
-                triplePair.append(num)
-            else:
+            last = prime
+            if dif != 6:
                 return False
         num += 2
-        if len(triplePair) == 0:
-            dif = 6
-        else:
-            dif = num-triplePair[-1]
+        dif = num-last
     return True
 
 def prime(testnum):
