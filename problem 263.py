@@ -67,13 +67,14 @@ def main(n):
     engineersPara = []
     alt = -1
     timeStart = time()
-    while len(engineersPara) < 1:
+    while len(engineersPara) < 4:
         alt *= -1
         if n%1000000 == 0:
             print(n)
         if sexyPrimes(n):
             if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
                 engineersPara.append(n)
+                print("!!!!!", n, "!!!!!")
         if alt == 1:
             n += 20
         else:
@@ -83,7 +84,7 @@ def main(n):
     print(round(timeElapsed, 3))
     print(engineersPara)
 
-main(200)
+main(30576200)
 # startTime = time()
 # print(practical(13245687661234600440))
 # endTime = time()
