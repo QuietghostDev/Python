@@ -15,8 +15,6 @@ def sexyPrimes(startNum):
             dif = 6
         else:
             dif = num-triplePair[-1]
-            if (triplePair[0]+9)%20 != 0:
-                triplePair = []
     return triplePair
 
 def prime(testnum):

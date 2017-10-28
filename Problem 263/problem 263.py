@@ -3,17 +3,18 @@
 
 from math import sqrt
 from time import time
+from prime import *
 
 # Finds whether there is triple pair around n
 def sexyPrimes(startNum):
     num = startNum-9
     primes = 0
-    if not prime(num):
+    if not miller_rabin(num):
         return False
     last = num-6
     for n in range(num, num+19, 2):
         dif = n-last
-        if prime(n):
+        if miller_rabin(n):
             if dif != 6:
                 return False
             last = n
