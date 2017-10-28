@@ -7,43 +7,43 @@ from time import time
 # Finds whether there is triple pair around n
 def sexyPrimes(startNum):
     num = startNum-9
+    if not prime(num):
+        return False
     last = num-6
     for n in range(num, num+19, 2):
         dif = n-last
         if prime(n):
-            last = n
             if dif != 6:
                 return False
-        else:
-            return False
+            last = n
     return True
 
 # Simple Prime Checker
 def prime(testnum):
-    prime = True
+    isPrime = True
     div = 3
-    maxcheck = sqrt(testnum)
-    while prime:
+    maxCheck = sqrt(testnum)
+    while isPrime:
         if testnum % div == 0:
-            prime = False
+            isPrime = False
         else:
             div += 2
-        if div > maxcheck:
+        if div > maxCheck:
             break
-    return prime
+    return isPrime
 
-# Prime Factorization
+# Prime Factorization the slowest link...
 def factors(num):
-    facts = [1]
+    facts = []
     while num % 2 == 0:
         facts.append(2)
         num /= 2
     div = 3
-    maxcheck = sqrt(num)
-    while div < maxcheck:
+    maxCheck = sqrt(num)
+    while div < maxCheck:
         if num % div == 0:
             facts.append(div)
-            num = num/div
+            num /= div
         else:
             div += 2
     facts.append(num)
@@ -53,13 +53,13 @@ def factors(num):
 def practical(num):
     facts = factors(num)
     powerOf2 = facts.count(2)
-    maxget = 2**(powerOf2+1)
+    maxGet = 2**(powerOf2+1)
     for i in range(powerOf2):
         facts.remove(2)
     for factor in facts:
-        if factor > maxget:
+        if factor > maxGet:
             return False
-        maxget *= factor
+        maxGet *= factor
     return True
 
 
@@ -84,3 +84,11 @@ def main(n):
     print(engineersPara)
 
 main(200)
+# startTime = time()
+# print(practical(13245687661234600440))
+# endTime = time()
+# print(endTime-startTime)
+# startTime = time()
+# print(sexyPrimes(13245687661234600440))
+# endTime = time()
+# print(endTime-startTime)
