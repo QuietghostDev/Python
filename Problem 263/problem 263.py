@@ -68,11 +68,12 @@ def practical(num):
     return True
 
 
-def main(n):
+def main(n, iter):
     engineersPara = []
     alt = -1
     timeStart = time()
-    while len(engineersPara) < 4:
+    # while len(engineersPara) < 1:  # These two lines are interchangable
+    for i in range(iter):  # These two lines are interchangable
         alt *= -1
         if n%1000000 == 0:
             print(n)
@@ -88,8 +89,9 @@ def main(n):
     timeElapsed = timeEnd-timeStart
     print(round(timeElapsed, 3))
     print(engineersPara)
+    input()
 
-main(100000000)
+main(200000000, 100000000)
 # startTime = time()
 # print(practical(13245687661234600440))
 # endTime = time()
