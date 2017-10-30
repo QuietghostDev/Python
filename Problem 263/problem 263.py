@@ -81,17 +81,18 @@ def main(n, iter):
             if practical(n-8) and practical(n-4) and practical(n) and practical(n+4) and practical(n+8):
                 engineersPara.append(n)
                 print("!!!!!", n, "!!!!!")
-        if alt == 1:
-            n += 20
-        else:
-            n += 40
+        # if alt == 1:
+        #     n += 20
+        # else:
+        #     n += 40
+        n += 20
     timeEnd = time()
     timeElapsed = timeEnd-timeStart
     print(round(timeElapsed, 3))
     print(engineersPara)
     input()
 
-main(200000000, 100000000)
+main(300000000, 1200000000)
 # startTime = time()
 # print(practical(13245687661234600440))
 # endTime = time()
