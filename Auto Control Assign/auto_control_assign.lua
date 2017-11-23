@@ -122,6 +122,7 @@ else
 		logMsg('FlyWithLua Error: No default control file found.')
 		print('FlyWithLua Error: No default control file found.')
 		generateDefaults()
+	end
 end
 
 print('Auto Control Assign: All controls loaded.')
