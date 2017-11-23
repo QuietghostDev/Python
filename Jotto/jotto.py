@@ -170,7 +170,7 @@ def scoreWords(wordList, knownLetters, notLetters, checkLetters):
 
 # Main
 def main():
-    f = readFile("C:/Users/Nigel/Documents/My Programs/Python/Jotto/fiveWordList.txt")
+    f = readFile("fiveWordList.txt")
     wordString = f.read()
     closeFile(f)
     wordList = wordListSplit(wordString)
