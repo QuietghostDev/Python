@@ -1,0 +1,34 @@
+Joystick Axis
+AXIS 0 roll, normal
+AXIS 1 pitch, normal
+AXIS 2 throttle, normal
+AXIS 3 yaw, normal
+AXIS 25 pitch, normal
+AXIS 26 roll, normal
+AXIS 28 yaw, normal
+
+Buttons
+BTN 0.0 x737/mcp/AP_DISCONNECT_TOGGLE
+BTN 0.1 sim/flight_controls/brakes_regular
+BTN 0.2 sim/operation/contact_atc
+BTN 0.3 x737/speedbrakes/SPEEDBRAKES_UP
+BTN 0.4 sim/flight_controls/flaps_up
+BTN 0.5 sim/flight_controls/speed_brakes_up_one
+BTN 0.6 sim/engines/thrust_reverse_hold
+BTN 0.7 sim/flight_controls/landing_gear_toggle
+BTN 0.8 sim/flight_controls/speed_brakes_down_one
+BTN 0.9 sim/flight_controls/flaps_down
+BTN 0.10 x737/mcp/HDGSEL_TOGGLE
+BTN 0.11 x737/mcp/LNAV_TOGGLE
+BTN 0.12 x737/mcp/CMDA_TOGGLE
+BTN 0.13 x737/mcp/TOGA_TOGGLE
+BTN 0.14 x737/mcp/VNAV_TOGGLE
+BTN 0.15 x737/mcp/APP_TOGGLE
+BTN 0.16 x737/trim/CAPT_STAB_TRIM_DOWN_ALL
+BTN 0.17 sim/general/hat_switch_up_right
+BTN 0.18 sim/general/hat_switch_right
+BTN 0.19 sim/general/hat_switch_down_right
+BTN 0.20 x737/trim/CAPT_STAB_TRIM_UP_ALL
+BTN 0.21 sim/general/hat_switch_down_left
+BTN 0.22 sim/general/hat_switch_left
+BTN 0.23 sim/general/hat_switch_up_left
