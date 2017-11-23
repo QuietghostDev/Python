@@ -1,5 +1,3 @@
-2 1110 Fri Nov 17 19:33:45 2017
-
 sim/aircraft/autopilot/vvi_step_ft	float	y	Feet	Step increment for autopilot VVI
 sim/aircraft/autopilot/alt_step_ft	float	y	Feet	Step increment for autopilot altitude
 sim/aircraft/autopilot/radio_altimeter_step_ft	float	y	Feet	Step increment for radio altimeter decision height

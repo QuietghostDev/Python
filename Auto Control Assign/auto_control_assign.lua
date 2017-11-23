@@ -73,6 +73,7 @@ function getReverse(file, axis)
 end
 
 function readControls(file, writeFile)
+	-- This is too brute force for my liking
 	local axisC = { "pitch", "roll", "yaw", "throttle", "collective", "left toe brake", "right toe brake", "prop",
 	"mixture", "carb heat", "flaps", "thrust vector", "wing sweep", "speedbrakes", "displacement",
 	"reverse", "elev trim", "ailn trim", "rudd trim", "throttle 1", "throttle 2", "throttle 3",
