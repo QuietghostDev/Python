@@ -1,5 +1,12 @@
-function set_default_assignments()
-	
+-- TODO Add default control writing
+-- TODO Add control writing
+
+-- Auto Control Assign v 0.4 script for FlyWithLua 2.6+
+-- Nigel Hamilton
+
+
+function generateDefaults()
+	openFile(SCRIPT_DIRECTORY .. 'defaultControls.ctr', 'w')
 end
 
 function openFile(filename, mode)
@@ -103,12 +110,18 @@ if file ~= nil then
 	loadControls(file)
 	logMsg(string.format('FlyWithLua Info: %s assignments set.', PLANE_ICAO))
 	print(string.format('FlyWithLua Info: %s assignments set.', PLANE_ICAO))
+	file:close()
 else
 	logMsg('FlyWithLua Info: No controls found, loadind defaults.')
 	print('FlyWithLua Info: No controls found, loadind defaults.')
-	set_default_assignments()
+	defaultControlFile = openFile(SCRIPT_DIRECTORY .. 'defaultControls.ctr')
+	if defaultControlFile ~= nil then
+		loadControls(defaultControlFile)
+	else
+		logMsg('FlyWithLua Error: No default control file found.')
+		print('FlyWithLua Error: No default control file found.')
+		generateDefaults()
 end
-file:close()
 
 print('Auto Control Assign: All controls loaded.')
 
